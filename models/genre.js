@@ -1,7 +1,7 @@
-var mongoose = require('mongoose')
+const mongoose = require('mongoose')
 
 // Genre Schema
-var genreSchema = mongoose.Schema({
+const genreSchema = mongoose.Schema({
   name: {
     type: String,
     require: true
@@ -12,7 +12,9 @@ var genreSchema = mongoose.Schema({
   }
 })
 
-var Genre = (module.exports = mongoose.model('Genre', genreSchema))
+const Genre = (module.exports = mongoose.model('Genre', genreSchema))
+
+module.exports.Genre = Genre
 
 // get genres
 module.exports.getGenres = function(callback, limit) {

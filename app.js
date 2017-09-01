@@ -7,20 +7,40 @@ app.use(bodyParser.json())
 
 const PORT = process.env.PORT || 3000
 
-mongoose.connect('mongodb://localhost/bookstore')
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost/bookstore'
 
-const Genre = require('./models/genre')
+mongoose.connect(MONGODB_URI)
+
+const Genre = require('./models/genre').Genre
 
 app.get('/', function(req, res) {
   res.send('Please use /api/books or /api/genres')
 })
 
+app.get('/api/books', (req, res) => {
+  res.json([])
+})
+
+app.get('/api/books/:id', (req, res) => {
+  res.json({ id: req.params.id })
+})
+
 app.get('/api/genres', function(req, res) {
-  Genre.getGenres(function(err, genres) {
-    if (err) {
-      throw err
-    }
+  Genre.find().exec((err, genres) => {
     res.json(genres)
+  })
+//   Genre.getGenres(function(err, genres) {
+//     if (err) {
+//       throw err
+//     }
+//     res.json(genres)
+//   })
+})
+
+app.post('/api/genres', (req, res) => {
+  const genre = new Genre(req.body)
+  genre.save((err) => {
+    res.sendStatus(201)
   })
 })
 
