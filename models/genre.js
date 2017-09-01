@@ -1,20 +1,20 @@
-var mongoose = require('mongoose');
+var mongoose = require('mongoose')
 
-//Genre Schema
+// Genre Schema
 var genreSchema = mongoose.Schema({
-    name: {
-        type: String,
-        require: true
-    },
-    create_date: {
-        type: Date,
-        default: Date.now
-    }
-});
+  name: {
+    type: String,
+    require: true
+  },
+  create_date: {
+    type: Date,
+    default: Date.now
+  }
+})
 
-var Genre = module.exports = mongoose.model('Genre', genreSchema);
+var Genre = (module.exports = mongoose.model('Genre', genreSchema))
 
-//get genres
+// get genres
 module.exports.getGenres = function(callback, limit) {
-    Genre.find(callback).limit(limit);
+  Genre.find(callback).limit(limit)
 }
