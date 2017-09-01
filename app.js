@@ -5,7 +5,7 @@ var mongoose = require('mongoose')
 
 app.use(bodyParser.json())
 
-const PORT = 3000
+const PORT = process.env.PORT || 3000
 
 mongoose.connect('mongodb://localhost/bookstore')
 
@@ -25,4 +25,4 @@ app.get('/api/genres', function(req, res) {
 })
 
 app.listen(PORT, '0.0.0.0')
-console.log('Running on port 3000.')
+console.log(`Running on port ${PORT}`)

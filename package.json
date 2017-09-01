@@ -4,6 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "standard": "standard --fix app.js models/**/*.js",
     "prettier": "prettier --write --single-quote --no-semi app.js models/**/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
