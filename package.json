@@ -4,6 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "standard": "standard --fix app.js models/**/*.js",
+    "prettier": "prettier --write --single-quote --no-semi app.js models/**/*.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,5 +14,12 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.4",
     "mongoose": "^4.11.9"
+  },
+  "devDependencies": {
+    "prettier": "^1.6.1",
+    "standard": "^10.0.3"
+  },
+  "engines": {
+    "node": ">=6.11.2"
   }
 }
