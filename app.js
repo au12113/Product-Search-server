@@ -13,7 +13,7 @@ mongoose.connect(MONGODB_URI)
 
 const Genre = require('./models/genre').Genre
 
-app.get('/', function(req, res) {
+app.get('/', function (req, res) {
   res.send('Please use /api/books or /api/genres')
 })
 
@@ -25,21 +25,29 @@ app.get('/api/books/:id', (req, res) => {
   res.json({ id: req.params.id })
 })
 
-app.get('/api/genres', function(req, res) {
+app.get('/api/genres', function (req, res) {
   Genre.find().exec((err, genres) => {
+    if (err) {
+      console.log(err)
+      return res.sendStatus(500)
+    }
     res.json(genres)
   })
-//   Genre.getGenres(function(err, genres) {
-//     if (err) {
-//       throw err
-//     }
-//     res.json(genres)
-//   })
+  //   Genre.getGenres(function(err, genres) {
+  //     if (err) {
+  //       throw err
+  //     }
+  //     res.json(genres)
+  //   })
 })
 
 app.post('/api/genres', (req, res) => {
   const genre = new Genre(req.body)
-  genre.save((err) => {
+  genre.save(err => {
+    if (err) {
+      console.error(err)
+      return res.sendStatus(500)
+    }
     res.sendStatus(201)
   })
 })
