@@ -15,7 +15,12 @@ const Genre = require('./models/genre').Genre
 
 app.use(function(req, res, next){
     console.log("add to header called ... " + req.url);
-    res.header('X-XSS-Protection', '0');
+    const proxyurl = "https://cors-anywhere.herokuapp.com/";
+    const url = "https://product-search-server-dev.herokuapp.com/"; // site that doesn’t send Access-Control-*
+    fetch(proxyurl + url) // https://cors-anywhere.herokuapp.com/https://example.com
+    .then(response => response.text())
+    .then(contents => console.log(contents))
+    .catch(console.log("Can’t access " + url + " response. Blocked by browser?"))
     next();
 });
 
