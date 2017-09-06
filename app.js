@@ -13,6 +13,12 @@ mongoose.connect(MONGODB_URI)
 
 const Genre = require('./models/genre').Genre
 
+app.use(function(req, res, next){
+    console.log("add to header called ... " + req.url);
+    res.header('X-XSS-Protection', '0');
+    next();
+});
+
 app.get('/', function (req, res) {
   res.send('Please use /api/books or /api/genres')
 })
