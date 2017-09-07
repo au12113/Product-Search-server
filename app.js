@@ -2,6 +2,7 @@ var express = require('express')
 var app = express()
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
+var cors = require('cors')
 
 app.use(bodyParser.json())
 
@@ -13,16 +14,7 @@ mongoose.connect(MONGODB_URI)
 
 const Genre = require('./models/genre').Genre
 
-app.use(function(req, res, next){
-    console.log("add to header called ... " + req.url);
-    const proxyurl = "https://cors-anywhere.herokuapp.com/";
-    const url = "https://product-search-server-dev.herokuapp.com/"; // site that doesn’t send Access-Control-*
-    fetch(proxyurl + url) // https://cors-anywhere.herokuapp.com/https://example.com
-    .then(response => response.text())
-    .then(contents => console.log(contents))
-    .catch(console.log("Can’t access " + url + " response. Blocked by browser?"))
-    next();
-});
+app.use(cors({origin: 'http://localhost:8080'}))
 
 app.get('/', function (req, res) {
   res.send('Please use /api/books or /api/genres')
@@ -42,7 +34,7 @@ app.get('/api/genres', function (req, res) {
       console.log(err)
       return res.sendStatus(500)
     }
-    res.json(genres)
+    res.jsonp(genres)
   })
   //   Genre.getGenres(function(err, genres) {
   //     if (err) {
