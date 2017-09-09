@@ -6,6 +6,9 @@ const genreSchema = mongoose.Schema({
     type: String,
     require: true
   },
+  done: {
+    type: Boolean
+  },
   create_date: {
     type: Date,
     default: Date.now
@@ -15,8 +18,3 @@ const genreSchema = mongoose.Schema({
 const Genre = (module.exports = mongoose.model('Genre', genreSchema))
 
 module.exports.Genre = Genre
-
-// get genres
-module.exports.getGenres = (callback, limit) => {
-  Genre.find(callback).limit(limit)
-}

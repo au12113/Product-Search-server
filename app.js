@@ -36,15 +36,9 @@ app.get('/api/genres', function (req, res) {
     }
     res.jsonp(genres)
   })
-  //   Genre.getGenres(function(err, genres) {
-  //     if (err) {
-  //       throw err
-  //     }
-  //     res.json(genres)
-  //   })
 })
 
-app.post('/api/genres', (req, res) => {
+app.post('/api/add', (req, res) => {
   const genre = new Genre(req.body)
   genre.save(err => {
     if (err) {
