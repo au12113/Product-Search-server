@@ -39,7 +39,7 @@ app.get('/api/genres', function (req, res) {
 })
 
 app.post('/api/add', (req, res) => {
-  const genre = new Genre(req.body)
+  var genre = new Genre(req.body)
   genre.save(err => {
     if (err) {
       console.error(err)
@@ -47,6 +47,13 @@ app.post('/api/add', (req, res) => {
     }
     res.sendStatus(201)
   })
+})
+
+app.post('/api/done', (req, res) => {
+  // var genre = new Genre(req.body)
+  console.log(req.body)
+  Genre.find(req.body).remove().exec()
+  res.sendStatus(200)
 })
 
 app.listen(PORT, '0.0.0.0')
