@@ -6,6 +6,7 @@ var cors = require('cors')
 
 app.use(bodyParser.json())
 
+const { check, validationResult } = require('express-validator')
 const PORT = process.env.PORT || 3000
 
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost/bookstore'
@@ -14,7 +15,7 @@ mongoose.connect(MONGODB_URI)
 
 const Genre = require('./models/genre').Genre
 
-app.use(cors({origin: 'http://localhost:8080'}))
+app.use(cors({ origin: 'http://localhost:8080' }))
 
 app.get('/', function (req, res) {
   res.send('Please use /api/books or /api/genres')
@@ -40,17 +41,21 @@ app.get('/api/genres', function (req, res) {
 
 app.post('/api/add', (req, res) => {
   var genre = new Genre(req.body)
-  genre.save(err => {
-    if (err) {
-      console.error(err)
-      return res.sendStatus(500)
-    }
-    res.sendStatus(201)
-  })
+  if (req.body.name === '' || req.body.name === null) {
+    return res.send('Please fill todo list.')
+  }
+  else {
+    genre.save(err => {
+      if (err) {
+        console.error(err)
+        return res.sendStatus(500)
+      }
+      res.sendStatus(201)
+    })
+  }
 })
 
 app.post('/api/done', (req, res) => {
-  // var genre = new Genre(req.body)
   console.log(req.body)
   Genre.find(req.body).remove().exec()
   res.sendStatus(200)
