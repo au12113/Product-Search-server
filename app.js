@@ -14,22 +14,11 @@ const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost/bookstore'
 mongoose.connect(MONGODB_URI)
 
 const Genre = require('./models/genre').Genre
-const Category = require('./models/category').Category
 
 app.use(cors({ origin: 'http://localhost:8080' }))
 
 app.get('/', function (req, res) {
   res.send('Please use /api/books or /api/genres')
-})
-
-app.get('/api/getFilter', (req, res) => {
-  Category.find().exec((err, filter) => {
-    if (err) {
-      console.log(err)
-      return res.sendStatus(500)
-    }
-    res.jsonp(filter)
-  })
 })
 
 app.get('/api/books', (req, res) => {
