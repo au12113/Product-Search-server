@@ -6,6 +6,7 @@ var cors = require('cors')
 
 app.use(bodyParser.json())
 
+const { check, validationResult } = require('express-validator')
 const PORT = process.env.PORT || 3000
 
 const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost/bookstore'
