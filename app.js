@@ -8,34 +8,41 @@ app.use(bodyParser.json())
 
 const PORT = process.env.PORT || 3000
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost/bookstore'
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://<au12113>:<W45up0nt>@ds115124.mlab.com:15124/heroku_g1mlp3dj' // 'mongodb://localhost/product'
 
-mongoose.connect(MONGODB_URI)
+mongoose.connect(MONGODB_URI, {
+  user: 'au12113',
+  pass: 'W45up0nt'
+})
 
-const Genre = require('./models/genre').Genre
+const Products = require('./models/products').Products
 
 app.use(cors({ origin: 'http://localhost:8080' }))
 
 app.get('/', function (req, res) {
-  res.send('Please use /api/books or /api/genres')
+  res.send('Please use /api/product')
 })
 
+app.get('/api/product', (req, res) => {
+  Products.find().exec((err, product) => {
+    if (err) {
+      console.log(err)
+      return res.sendStatus(500)
+    }
+    res.jsonp(product)
+  })
+})
+
+app.listen(PORT, '0.0.0.0')
+console.log(`Running on port ${PORT}`)
+
+/*
 app.get('/api/books', (req, res) => {
   res.json([])
 })
 
 app.get('/api/books/:id', (req, res) => {
   res.json({ id: req.params.id })
-})
-
-app.get('/api/genres', function (req, res) {
-  Genre.find().exec((err, genres) => {
-    if (err) {
-      console.log(err)
-      return res.sendStatus(500)
-    }
-    res.jsonp(genres)
-  })
 })
 
 app.post('/api/add', (req, res) => {
@@ -59,6 +66,4 @@ app.post('/api/done', (req, res) => {
   Genre.find(req.body).remove().exec()
   res.sendStatus(200)
 })
-
-app.listen(PORT, '0.0.0.0')
-console.log(`Running on port ${PORT}`)
+*/
