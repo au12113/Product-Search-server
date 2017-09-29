@@ -16,6 +16,7 @@ mongoose.connect(MONGODB_URI, {
 })
 
 const Products = require('./models/products').Products
+const Genre = require('./models/genre').Genre
 
 app.use(cors({ origin: 'http://localhost:8080' }))
 
@@ -36,13 +37,22 @@ app.get('/api/product', (req, res) => {
 app.listen(PORT, '0.0.0.0')
 console.log(`Running on port ${PORT}`)
 
-/*
 app.get('/api/books', (req, res) => {
   res.json([])
 })
 
 app.get('/api/books/:id', (req, res) => {
   res.json({ id: req.params.id })
+})
+
+app.get('/api/genres', function (req, res) {
+  Genre.find().exec((err, genres) => {
+    if (err) {
+      console.log(err)
+      return res.sendStatus(500)
+    }
+    res.jsonp(genres)
+  })
 })
 
 app.post('/api/add', (req, res) => {
@@ -66,4 +76,3 @@ app.post('/api/done', (req, res) => {
   Genre.find(req.body).remove().exec()
   res.sendStatus(200)
 })
-*/
