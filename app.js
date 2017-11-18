@@ -30,6 +30,20 @@ app.get('/api/product', (req, res) => {
       console.log(err)
       return res.sendStatus(500)
     }
+    console.log(req)
+    res.jsonp(product)
+  })
+})
+
+app.get('/api/products/:find', (req, res) => {
+  Products.find(
+    { $text: { $search: req.params.find } },
+    { score: { $meta: 'textScore' } }
+  ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
+    if (err) {
+      console.log(err)
+      return res.sendStatus(500)
+    }
     res.jsonp(product)
   })
 })

@@ -14,7 +14,7 @@ const productSchema = mongoose.Schema({
   imageUrl: String,
   price: Number
 })
-
+productSchema.index({ name: 'text', brand: 'text' }, {name: 'myIndex', weights: {name: 5, brand: 3}})
 const Products = (module.exports = mongoose.model('products', productSchema))
 
 module.exports.Products = Products
