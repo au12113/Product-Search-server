@@ -21,7 +21,7 @@ const Genre = require('./models/genre').Genre
 app.use(cors({ origin: 'http://localhost:8080' }))
 
 app.get('/', function (req, res) {
-  res.send('Please use /api/product')
+  res.send('Please use /api/product or /api/products/:find(with find parameter)')
 })
 
 app.get('/api/product', (req, res) => {
