@@ -5,16 +5,17 @@ const productSchema = mongoose.Schema({
     type: String,
     require: true
   },
-  category: {
+  company: {
     type: String,
     require: true
   },
-  subCategory: String,
-  mainDetail: String,
-  imageUrl: String,
-  price: Number
+  type_main: String,
+  type: String,
+  details: String,
+  url: String,
+  warranty: String,
+  price: String
 })
-productSchema.index({ name: 'text', brand: 'text' }, {name: 'myIndex', weights: {name: 5, brand: 3}})
 const Products = (module.exports = mongoose.model('products', productSchema))
 
 module.exports.Products = Products
