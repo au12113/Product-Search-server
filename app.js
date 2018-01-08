@@ -88,8 +88,7 @@ app.post('/api/add', (req, res) => {
   var genre = new Genre(req.body)
   if (req.body.name === '' || req.body.name === null) {
     return res.send('Please fill todo list.')
-  }
-  else {
+  } else {
     genre.save(err => {
       if (err) {
         console.error(err)
