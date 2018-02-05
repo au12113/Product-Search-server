@@ -16,7 +16,7 @@ mongoose.connect(MONGODB_URI, {
 })
 
 const Products = require('./models/products').Products
-const newproducts = require('./models/newproducts').newproducts
+const NewProducts = require('./models/newproducts').NewProducts
 
 app.use(cors({ origin: 'http://localhost:8080' }))
 
@@ -24,8 +24,8 @@ app.get('/', function (req, res) {
   res.send('Please use /api/product')
 })
 
-app.get('/newapi/product', (req, res) => {
-  newproducts.find().exec((err, product) => {
+app.get('/newapi/products', (req, res) => {
+  NewProducts.find().exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
@@ -36,7 +36,7 @@ app.get('/newapi/product', (req, res) => {
 })
 
 app.get('/newapi/product/id/:productID', (req, res) => {
-  newproducts.find({_id: req.params.productID}).exec((err, product) => {
+  NewProducts.find({_id: req.params.productID}).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)

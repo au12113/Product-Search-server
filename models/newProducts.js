@@ -1,15 +1,9 @@
 const mongoose = require('mongoose')
 
-const newproductSchema = mongoose.Schema({
-  brand: {
-    type: String
-  },
-  model: {
-    type: String
-  },
-  type: {
-    type: String
-  },
+const newProductSchema = mongoose.Schema({
+  brand: String,
+  model: String,
+  catagory:  String,
   price: Number,
   spec: [{
     specName: {
@@ -21,6 +15,6 @@ const newproductSchema = mongoose.Schema({
     }]
   }]
 })
-const newproducts = (module.exports = mongoose.model('newproducts', newproductSchema))
+const NewProducts = (module.exports = mongoose.model('newproducts', newProductSchema))
 
-module.exports.newproducts = newproducts
+module.exports.NewProducts = NewProducts

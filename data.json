@@ -1,7 +1,7 @@
 [{
   "brand": "Gigabyte",
   "model": "Z370XP SLI",
-  "type": "Mainboard",
+  "catagory": "Mainboard",
   "price": 5755,
   "spec": [{
       "specName": "CPU",
@@ -52,7 +52,7 @@
 {
   "brand": "Gigabyte",
   "model": "Z370XP SLI",
-  "type": "Mainboard",
+  "catagory": "Mainboard",
   "price": 5755,
   "spec": [{
       "specName": "CPU",
