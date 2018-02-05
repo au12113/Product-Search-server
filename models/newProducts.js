@@ -17,7 +17,7 @@ const newproductSchema = mongoose.Schema({
     },
     subDetail: [{
       name: String,
-      detail: ["LGA1151"]
+      detail: []
     }]
   }]
 })
