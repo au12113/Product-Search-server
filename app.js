@@ -56,8 +56,12 @@ app.get('/api/product', (req, res) => {
   })
 })
 
-app.get('/api/product/id/:productID', (req, res) => {
-  Products.find({_id: req.params.productID}).exec((err, product) => {
+app.get('/api/products/:productID', (req, res) => {
+  Products.find(
+    {$text: { $search: req.params.find }},
+    // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
+    { score: { $meta: 'textScore' } }
+  ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
