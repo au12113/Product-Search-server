@@ -9,7 +9,7 @@ const newProductSchema = mongoose.Schema({
     specName: String,
     subDetail: [{
       name: String,
-      detail: []
+      detail: [String]
     }]
   }]
 })
