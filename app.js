@@ -15,7 +15,7 @@ mongoose.connect(MONGODB_URI, {
   pass: 'W45up0nt'
 })
 
-const Products = require('./models/products').Products
+// const Products = require('./models/products').Products
 const NewProducts = require('./models/newProducts').NewProducts
 
 app.use(cors({ origin: 'http://localhost:8000' }))
