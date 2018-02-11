@@ -24,7 +24,7 @@ app.get('/', function (req, res) {
   res.send('Please use /api/products or /api/product/:productID')
 })
 
-app.get('/newapi/products', (req, res) => {
+app.get('/api/products', (req, res) => {
   NewProducts.find().exec((err, product) => {
     if (err) {
       console.log(err)
@@ -35,7 +35,7 @@ app.get('/newapi/products', (req, res) => {
   })
 })
 
-app.get('/newapi/product/id/:productID', (req, res) => {
+app.get('/api/product/id/:productID', (req, res) => {
   NewProducts.find({_id: req.params.productID}).exec((err, product) => {
     if (err) {
       console.log(err)
@@ -45,44 +45,53 @@ app.get('/newapi/product/id/:productID', (req, res) => {
   })
 })
 
-app.get('/api/product', (req, res) => {
-  Products.find().exec((err, product) => {
+app.get('/api/search/category/:category', (req, res) => {
+  NewProducts.find({category: req.params.category}).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
     }
-    console.log(req)
     res.jsonp(product)
   })
 })
+// app.get('/api/product', (req, res) => {
+//   Products.find().exec((err, product) => {
+//     if (err) {
+//       console.log(err)
+//       return res.sendStatus(500)
+//     }
+//     console.log(req)
+//     res.jsonp(product)
+//   })
+// })
 
-app.get('/api/products/:productID', (req, res) => {
-  Products.find(
-    {$text: { $search: req.params.find }},
-    // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
-    { score: { $meta: 'textScore' } }
-  ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
-    if (err) {
-      console.log(err)
-      return res.sendStatus(500)
-    }
-    res.jsonp(product)
-  })
-})
+// app.get('/api/products/:productID', (req, res) => {
+//   Products.find(
+//     {$text: { $search: req.params.find }},
+//     // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
+//     { score: { $meta: 'textScore' } }
+//   ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
+//     if (err) {
+//       console.log(err)
+//       return res.sendStatus(500)
+//     }
+//     res.jsonp(product)
+//   })
+// })
 
-app.get('/api/products/:find', (req, res) => {
-  Products.find(
-    {$text: { $search: req.params.find }},
-    // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
-    { score: { $meta: 'textScore' } }
-  ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
-    if (err) {
-      console.log(err)
-      return res.sendStatus(500)
-    }
-    res.jsonp(product)
-  })
-})
+// app.get('/api/products/:find', (req, res) => {
+//   Products.find(
+//     {$text: { $search: req.params.find }},
+//     // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
+//     { score: { $meta: 'textScore' } }
+//   ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
+//     if (err) {
+//       console.log(err)
+//       return res.sendStatus(500)
+//     }
+//     res.jsonp(product)
+//   })
+// })
 
 app.listen(PORT, '0.0.0.0')
 console.log(`Running on port ${PORT}`)
