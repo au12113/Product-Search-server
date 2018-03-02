@@ -2,6 +2,7 @@ var express = require('express')
 var app = express()
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
+var mongoosastic = require('mongoosastic')
 var cors = require('cors')
 
 app.use(bodyParser.json())
@@ -16,9 +17,47 @@ mongoose.connect(MONGODB_URI, {
 })
 
 // const Products = require('./models/products').Products
-const NewProducts = require('./models/newProducts').NewProducts
+var NewProducts = require('./models/newProducts')
+var stream = NewProducts.synchronize()
+var count = 0
 
-app.use(cors({ origin: 'http://localhost:8000' }))
+stream.on('data', function(err, doc){
+  count++;
+});
+stream.on('close', function(){
+  console.log('indexed ' + count + ' documents!');
+});
+stream.on('error', function(err){
+  console.log(err);
+});
+
+NewProducts.createMapping(function (err, mapping) {
+  if (err) {
+    console.log('error creating mapping (you can safely ignore this)');
+    console.log(err);
+  } else {
+    console.log('mapping created!');
+    console.log(mapping);
+  }
+})
+
+app.use(cors({
+  origin: 'http://localhost:8000'
+}))
+
+app.get('/search', function (req, res) {
+  NewProducts.search({
+    query_string: {
+      query: "Mainboard"
+    }
+  }, function (err, results) {
+    if(err) {
+      console.log(err)
+      return res.sendStatus(500)
+    }
+    res.jsonp(results);
+  });
+});
 
 app.get('/', function (req, res) {
   res.send('Please use /api/products or /api/product/:productID')
@@ -35,8 +74,36 @@ app.get('/api/products', (req, res) => {
   })
 })
 
+app.get('/api/suggestion/', (req, res) => {
+  nss.loadJson("/backupData/newproduct.json", "utf8").then( //you can change the charset to match your file
+    data => {
+      // response: { words: 17, items: 5, timeElapsed: '4ms' }
+      res.jsonp(data)
+    },
+    err => {
+      //...
+      return res.statusCode(500)
+    }
+  );
+})
+
+app.get('/api/suggestion/:pharse', (req, res) => {
+  nss.getSuggestedItems(req.params.pharse).then(
+    data => {
+      //response: { items: [ { itemId: '1', itemName:'WHISKY RED LABEL' } ], timeElapsed: '1ms' }
+      res.jsonp(data)
+    },
+    err => {
+      //...
+      return res.statusCode(500)
+    }
+  )
+})
+
 app.get('/api/product/id/:productID', (req, res) => {
-  NewProducts.find({_id: req.params.productID}).exec((err, product) => {
+  NewProducts.find({
+    _id: req.params.productID
+  }).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
@@ -46,7 +113,9 @@ app.get('/api/product/id/:productID', (req, res) => {
 })
 
 app.get('/api/search/category/:category', (req, res) => {
-  NewProducts.find({category: req.params.category}).exec((err, product) => {
+  NewProducts.find({
+    category: req.params.category
+  }).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
