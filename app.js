@@ -74,32 +74,6 @@ app.get('/api/products', (req, res) => {
   })
 })
 
-app.get('/api/suggestion/', (req, res) => {
-  nss.loadJson("/backupData/newproduct.json", "utf8").then( //you can change the charset to match your file
-    data => {
-      // response: { words: 17, items: 5, timeElapsed: '4ms' }
-      res.jsonp(data)
-    },
-    err => {
-      //...
-      return res.statusCode(500)
-    }
-  );
-})
-
-app.get('/api/suggestion/:pharse', (req, res) => {
-  nss.getSuggestedItems(req.params.pharse).then(
-    data => {
-      //response: { items: [ { itemId: '1', itemName:'WHISKY RED LABEL' } ], timeElapsed: '1ms' }
-      res.jsonp(data)
-    },
-    err => {
-      //...
-      return res.statusCode(500)
-    }
-  )
-})
-
 app.get('/api/product/id/:productID', (req, res) => {
   NewProducts.find({
     _id: req.params.productID
@@ -114,7 +88,7 @@ app.get('/api/product/id/:productID', (req, res) => {
 
 app.get('/api/search/category/:category', (req, res) => {
   NewProducts.find({
-    category: req.params.category
+    category: { $in: req.params.category }
   }).exec((err, product) => {
     if (err) {
       console.log(err)
@@ -123,44 +97,6 @@ app.get('/api/search/category/:category', (req, res) => {
     res.jsonp(product)
   })
 })
-// app.get('/api/product', (req, res) => {
-//   Products.find().exec((err, product) => {
-//     if (err) {
-//       console.log(err)
-//       return res.sendStatus(500)
-//     }
-//     console.log(req)
-//     res.jsonp(product)
-//   })
-// })
-
-// app.get('/api/products/:productID', (req, res) => {
-//   Products.find(
-//     {$text: { $search: req.params.find }},
-//     // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
-//     { score: { $meta: 'textScore' } }
-//   ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
-//     if (err) {
-//       console.log(err)
-//       return res.sendStatus(500)
-//     }
-//     res.jsonp(product)
-//   })
-// })
-
-// app.get('/api/products/:find', (req, res) => {
-//   Products.find(
-//     {$text: { $search: req.params.find }},
-//     // { '_id': 0, 'url': 0, score: { $meta: 'textScore' } }
-//     { score: { $meta: 'textScore' } }
-//   ).sort({ score: { $meta: 'textScore' } }).exec((err, product) => {
-//     if (err) {
-//       console.log(err)
-//       return res.sendStatus(500)
-//     }
-//     res.jsonp(product)
-//   })
-// })
 
 app.listen(PORT, '0.0.0.0')
 console.log(`Running on port ${PORT}`)
