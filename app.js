@@ -2,7 +2,6 @@ var express = require('express')
 var app = express()
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
-var mongoosastic = require('mongoosastic')
 var cors = require('cors')
 
 app.use(bodyParser.json())
@@ -18,28 +17,6 @@ mongoose.connect(MONGODB_URI, {
 
 // const Products = require('./models/products').Products
 var NewProducts = require('./models/newProducts')
-var stream = NewProducts.synchronize()
-var count = 0
-
-stream.on('data', function(err, doc){
-  count++;
-});
-stream.on('close', function(){
-  console.log('indexed ' + count + ' documents!');
-});
-stream.on('error', function(err){
-  console.log(err);
-});
-
-NewProducts.createMapping(function (err, mapping) {
-  if (err) {
-    console.log('error creating mapping (you can safely ignore this)');
-    console.log(err);
-  } else {
-    console.log('mapping created!');
-    console.log(mapping);
-  }
-})
 
 app.use(cors({
   origin: 'http://localhost:8000'

@@ -15,8 +15,7 @@
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
     "express": "^4.15.4",
-    "mongoosastic": "^4.4.1",
-    "mongoose": "^4.11.9"
+    "mongoose": "^4.10.8"
   },
   "devDependencies": {
     "eslint-config-standard": "^10.2.1",
