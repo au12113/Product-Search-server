@@ -28,7 +28,7 @@ app.get('/search', function (req, res) {
       query: "Mainboard"
     }
   }, function (err, results) {
-    if(err) {
+    if (err) {
       console.log(err)
       return res.sendStatus(500)
     }
@@ -65,7 +65,7 @@ app.get('/api/product/id/:productID', (req, res) => {
 
 app.get('/api/search/category/:category', (req, res) => {
   NewProducts.find({
-    category: { $in: req.params.category }
+    $text: { $search: req.params.category }
   }).exec((err, product) => {
     if (err) {
       console.log(err)
