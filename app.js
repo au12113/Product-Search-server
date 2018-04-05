@@ -3,6 +3,7 @@ var app = express()
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
 var cors = require('cors')
+const { performance } = require('perf_hooks')
 
 app.use(bodyParser.json())
 
@@ -21,20 +22,6 @@ var NewProducts = require('./models/newProducts')
 app.use(cors({
   origin: 'http://localhost:8000'
 }))
-
-app.get('/search', function (req, res) {
-  NewProducts.search({
-    query_string: {
-      query: "Mainboard"
-    }
-  }, function (err, results) {
-    if (err) {
-      console.log(err)
-      return res.sendStatus(500)
-    }
-    res.jsonp(results);
-  });
-});
 
 app.get('/', function (req, res) {
   res.send('Please use /api/products or /api/product/:productID')
@@ -55,6 +42,18 @@ app.get('/api/product/id/:productID', (req, res) => {
   NewProducts.find({
     _id: req.params.productID
   }).exec((err, product) => {
+    if (err) {
+      console.log(err)
+      return res.sendStatus(500)
+    }
+    res.jsonp(product)
+  })
+})
+
+app.get('/api/sales/:pharse', (req, res) => {
+  NewProducts.find({
+    $text: { $search: req.params.pharse }
+  },{ store: 1, price: 1, url: 1}).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
