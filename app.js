@@ -3,13 +3,12 @@ var app = express()
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
 var cors = require('cors')
-// const { performance } = require('perf_hooks')
 
 app.use(bodyParser.json())
 
 const PORT = process.env.PORT || 3000
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://<au12113>:<W45up0nt>@ds115124.mlab.com:15124/heroku_g1mlp3dj' // 'mongodb://localhost/product'
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://<au12113>:<W45up0nt>@ds115124.mlab.com:15124/heroku_g1mlp3dj'
 
 mongoose.connect(MONGODB_URI, {
   user: 'au12113',
@@ -25,6 +24,26 @@ app.use(cors({
 
 app.get('/', function (req, res) {
   res.send('Please use /api/products or /api/product/:productID')
+})
+
+app.get('/field', function (req, res) {
+  // var o = {};
+  // o.map = function () {
+  //   emit(this.name, 1)
+  // }
+  // o.reduce = function (k, vals) {
+  //   return vals.length
+  // }
+  // NewProducts.mapReduce(o, function (err, results) {
+  //   res.jsonp(results)
+  // })
+  res.jsonp(NewProducts.schema.tree)
+})
+
+app.get('/filter', function (req, res) {
+  NewProducts.distinct('store').exec((err, filter) => {
+    res.jsonp(filter)
+  })
 })
 
 app.get('/api/products', (req, res) => {
@@ -52,8 +71,14 @@ app.get('/api/product/id/:productID', (req, res) => {
 
 app.get('/api/sales/:pharse', (req, res) => {
   NewProducts.find({
-    $text: { $search: req.params.pharse }
-  },{ store: 1, price: 1, url: 1}).exec((err, product) => {
+    $text: {
+      $search: req.params.pharse
+    }
+  }, {
+    store: 1,
+    price: 1,
+    url: 1
+  }).exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
@@ -64,7 +89,9 @@ app.get('/api/sales/:pharse', (req, res) => {
 
 app.get('/api/search/category/:category', (req, res) => {
   NewProducts.find({
-    $text: { $search: req.params.category }
+    $text: {
+      $search: req.params.category
+    }
   }).exec((err, product) => {
     if (err) {
       console.log(err)
