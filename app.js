@@ -2,6 +2,7 @@ var express = require('express')
 var bodyParser = require('body-parser')
 var mongoose = require('mongoose')
 var cors = require('cors')
+var fs = require('fs')
 
 var app = express()
 
@@ -32,24 +33,65 @@ app.get('/', function(req, res) {
 })
 
 app.get('/field', function(req, res) {
+  //get all value by key
+  // Notebooks.distinct('features.Graphics').exec((err, filter) => {
+  //   res.jsonp(filter)
+  // })
   Notebooks.find().exec((err, products) => {
-    var count = 0
-    var filter = Object.keys(products[0]._doc.features)
-    // console.log(Object.keys(products[0]._doc.features))
-    // for (var i = 0; i < products.length; i++) {
-    //   if (Object.keys(products[0]._doc.features).length > 0) {
-    //     count++
-    //   }
-    // }
-    // var result = { All: products.length, hasSpec: count }
-    res.jsonp(filter)
+    var filters = {}
+    var filterKeys = Object.keys(products[0]._doc.features)
+    for (var i = 0; i < filterKeys.length; i++) {
+      filters[filterKeys[i]] = []
+    }
+    for (var i = 0; i < products.length; i++) {
+      for (
+        var featureIndex = 0;
+        featureIndex < filterKeys.length;
+        featureIndex++
+      ) {
+        var feature = filterKeys[featureIndex]
+        if (products[i]._doc.features[feature] !== undefined) {
+          for (
+            var subDetail = 0;
+            subDetail < products[i]._doc.features[feature].length;
+            subDetail++
+          ) {
+            if (
+              filters[feature].indexOf(
+                products[i]._doc.features[feature][subDetail]
+              ) === -1
+            ) {
+              filters[feature].push(
+                products[i]._doc.features[feature][subDetail]
+              )
+            }
+          }
+        }
+      }
+    }
+    fs.writeFileSync('./backupData/test.json', JSON.stringify(filters))
+    res.json(filters)
   })
-  // console.log(Object.keys(obj))
 })
 
 app.get('/filter', function(req, res) {
-  NewProducts.distinct('store').exec((err, filter) => {
-    res.jsonp(filter)
+  console.log(req.query)
+  var queryObject = {}
+  if(req.query.brand !== undefined)
+  {
+    queryObject.brand = req.query.brand
+  }
+  if(req.query.price !== undefined)
+  {
+    queryObject.price = {$lt: req.query.price}
+  }
+  // if(req.query.brand !== undefined)
+  // {
+  //   queryObject.push({brand: req.query.brand})
+  // }
+  Notebooks.find(queryObject).exec((err, results) => {
+    console.log(results.length)
+    res.jsonp(results)
   })
 })
 
