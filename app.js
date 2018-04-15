@@ -75,23 +75,25 @@ app.get('/field', function(req, res) {
 })
 
 app.get('/filter', function(req, res) {
-  console.log(req.query)
+  console.time("task")
   var queryObject = {}
   if(req.query.brand !== undefined)
   {
-    queryObject.brand = req.query.brand
+    queryObject.brand = { $in : req.query.brand}
   }
   if(req.query.price !== undefined)
   {
     queryObject.price = {$lt: req.query.price}
   }
-  // if(req.query.brand !== undefined)
-  // {
-  //   queryObject.push({brand: req.query.brand})
-  // }
+  if(req.query.OS !== undefined)
+  {
+    queryObject["features.OS"] = { $in : [req.query.OS]}
+  }
+  console.log(queryObject)
   Notebooks.find(queryObject).exec((err, results) => {
     console.log(results.length)
     res.jsonp(results)
+    console.timeEnd("task")
   })
 })
 
