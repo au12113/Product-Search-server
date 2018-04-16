@@ -1,0 +1,1317 @@
+{
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "gtins": [],
+      "sem3_id": "5d0OBnBkdysuGqeWAyCima",
+      "cat_id": "12855",
+      "width": "119.38",
+      "length": "327.66",
+      "height": "254",
+      "price_currency": "USD",
+      "brand": "Lenovo",
+      "price": "579.00",
+      "model": "20EDS00000",
+      "created_at": 1520712079,
+      "name": "Lenovo 20EDS00000 Laptop",
+      "messages": [],
+      "geo": ["usa"],
+      "updated_at": 1520712079,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/9cd610103c204a2b0e17b652cd6c09fd,0.jpg"
+      ],
+      "weight": "1487782.9736",
+      "sitedetails": [
+        {
+          "url": "http://www.amazon.com/dp/B00WT8ZZ5Q",
+          "latestoffers": [
+            {
+              "price": "579.00",
+              "lastrecorded_at": 1520712000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1520712000,
+              "id": "25JJtu5dZ2S4GkuyAiuyyq",
+              "condition": "New",
+              "availability":
+                "Temporarily out of stock. [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "seller": "Amazon"
+            }
+          ],
+          "sku": "B00WT8ZZ5Q",
+          "recentoffers_count": 0,
+          "name": "amazon.com"
+        }
+      ],
+      "description":
+        "The corners are 50 percent stronger, to reduce dam... (visit site URLs for full description)",
+      "features": {
+        "Processor Count": "1",
+        "Max Screen Resolution": "1920 x 1080 pixels",
+        "Brand Name": "Lenovo",
+        "Item Weight": "3.28 pounds",
+        "Card Description": "Dedicated",
+        "Item model number": "20EDS00000",
+        "Operating System": "Windows 7 Professional",
+        "Graphics Coprocessor": "AMD Radeon R2",
+        "Processor": "1.3 GHz AMD Kabini E1-2100",
+        "Item Dimensions L x W x H": "12.9 x 4.7 x 10 inches",
+        "Hard Drive": "mechanical_hard_drive",
+        "Screen Size": "11.6 inches",
+        "Series": "Thinkpad",
+        "Processor Brand": "AMD",
+        "Wireless Type": "802.11A",
+        "Chipset Brand": "amd",
+        "blob":
+          "The corners are 50 percent stronger, to reduce Damage when dropped at an angle; AMD E-Series E1-6010 dual-core (2 Core) 1.35 GHz - graphite black; This Product is manufactured in China",
+        "RAM": "4 GB"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": ["00889894218469"],
+      "sem3_id": "5bshVcwwC0owcsG8i266GU",
+      "cat_id": "4672",
+      "price_currency": "USD",
+      "brand": "HP",
+      "upc": "889894218469",
+      "price": "656.92",
+      "model": "020V008600042000P",
+      "created_at": 1458548911,
+      "name": "HP All Laptops",
+      "mpn": "15AB220NR",
+      "messages": [],
+      "variation_secondaryids": ["0sXTbELbHCiswiwQ6QKM8q"],
+      "geo": ["usa"],
+      "ean": "0889894218469",
+      "updated_at": 1514812474,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/188fb958f3272a3b7d42fd073fa06c94,0.jpg"
+      ],
+      "sitedetails": [
+        {
+          "latestoffers": [],
+          "name": "kmart.com",
+          "url":
+            "http://www.kmart.com/hp-pavilion-15.6inch-touchscreen-notebook-w-intel-core-i5/p-020V008600042000P",
+          "sku": "020V008600042000P",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "currency": "USD",
+              "firstrecorded_at": 1512859100,
+              "lastrecorded_at": 1514812400,
+              "price": "656.92",
+              "id": "5s8jFw6jHEgwusSqMEo8qw",
+              "availability": "Not Available",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1512117800,
+              "firstrecorded_at": 1512117800,
+              "currency": "USD",
+              "seller": "Walmart",
+              "id": "1UxPqd4btQWKq8ia2E4IKk",
+              "price": "639.00",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "Walmart",
+              "lastrecorded_at": 1508461100,
+              "firstrecorded_at": 1504216400,
+              "price": "656.57",
+              "id": "4HOtzAasV60Q8oeE8WqCIk",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.walmart.com/ip/46950854",
+          "name": "walmart.com",
+          "sku": "46950854",
+          "recentoffers_count": 0
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "B014QVLTC6",
+          "name": "amazon.com",
+          "url": "http://www.amazon.com/dp/B014QVLTC6",
+          "latestoffers": []
+        }
+      ],
+      "description":
+        "The HP Pavilion keeps getting better. Now you can ... (visit site URLs for full description)",
+      "features": {
+        "Interface Type": "Multi-in-1 Card Reader",
+        "Optical Drive": "DVD-Writer",
+        "Assembled Product Dimensions (L x W x H)":
+          "10.28 x 15.14 x 0.99 Inches",
+        "RAM Memory": "6 GB",
+        "Form": "Laptop",
+        "Hard Drive Capacity": "1 TB",
+        "Has Touchscreen": "Y",
+        "Has Bluetooth": "Y",
+        "Processor Type": "Intel Core i5",
+        "Display Resolution": "1366 x 768",
+        "Display Technology": "LED Backlight, HD Touchscreen Display",
+        "Form Factor": "Laptop",
+        "Original Languages": "English",
+        "Resolution": "720p",
+        "Accessories Included": "Power Cord , Battery",
+        "Connector Type":
+          "1 x DC-in, 1 x Ethernet, 1 x HDMI, 1 x Headphone/Microphone, 1 x USB 2.0, 2 x USB 3.0",
+        "Is Energy Star-Certified": "Y",
+        "Operating System": "Windows 10",
+        "Compatible Devices": "Desktop Computers",
+        "Screen Size": "15.6\"",
+        "Processor Speed": "2.30 GHz, with a Max Turbo Speed of 2.80 GHz",
+        "Contained Battery Type": "Lithium Ion",
+        "Condition": "New",
+        "Color Category": "Silver",
+        "Is Dark Sky-Compliant": "Y",
+        "Video Game Platform": "PC",
+        "Features": "EPEAT",
+        "blob":
+          "Intel Core i5-6200U Dual-Core processor; 6GB DDR3 SDRAM system memory; 1TB SATA hard drive; SuperMulti DVD Burner; 10/1000Base-T Fast Ethernet, 802.11b/g/n Wireless LAN; 15.6\" HD WLED-backlit touchscreen display; 2.30GHz (up to 2.80GHz via Turbo boost), 3MB L3 Cache; Gives you the power to handle most power-hungry applications and tons of multimedia work; Store 666,000 photos, 285,000 songs or 526 hours of HD video and more; Watch movies and read and write CDs and DVDs in multiple formats; Connect to a broadband modem with wired Ethernet or wirelessly connect to a WiFi signal or hotspot with the 802.11b/g/n connection built into your PC; HP TrueVision HD webcam; Multi-format memory card reader; 2 x USB 3.0 ports, 1 x USB 2.0 port, 1 x headphone/microphone combo jack, 1 x RJ-45 Ethernet port, 1 x HDMI port; 4-cell lithium-ion battery; 5.51 lbs, 15.14\" x 10.28\" x 0.99\"; Genuine Microsoft Windows 10 Home 64-bit Edition; McAfee LiveSafe (30-day trial); Backup and Restore options built into Windows allow you to create safety copies of your most important personal files, so you're always prepared for the worst; 1-year limited hardware warranty; Restore discs are not included (unless specified by supplier). We recommend you use the installed software to create your own restore and backup DVD the first week you use the computer.; Power cord and AC adapter; Quick Start Guide"
+      },
+      "images_total": 1,
+      "category": "Desktops"
+    },
+    {
+      "gtins": [],
+      "sem3_id": "3CRf2UFnvUew4WYYuWOWii",
+      "cat_id": "20823",
+      "price_currency": "USD",
+      "price": "548.00",
+      "model": "6236314 LAPTOPS WHITE LABEL",
+      "created_at": 1464230742,
+      "name": "6236314 LAPTOPS WHITE LABEL - 6236314 LAPTOPS WHITE LABEL",
+      "messages": [],
+      "geo": ["usa"],
+      "updated_at": 1520930094,
+      "images": [],
+      "sitedetails": [
+        {
+          "url":
+            "http://www.bestbuy.com/site/6236314-laptops-white-label-6236314-laptops-white-label/6236314.p",
+          "sku": "6236314",
+          "latestoffers": [
+            {
+              "id": "58aQ43CR0KaccsgKggEYAe",
+              "price": "548.00",
+              "seller": "BestBuy",
+              "availability": "Not Available",
+              "lastrecorded_at": 1520930000,
+              "currency": "USD",
+              "firstrecorded_at": 1503082500,
+              "isactive": 0
+            },
+            {
+              "price": "548.00",
+              "lastrecorded_at": 1502994300,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1502818600,
+              "id": "1xc9NwneJUS6YaYwqmA84C",
+              "condition": "new",
+              "availability": "In stock",
+              "seller": "BestBuy"
+            },
+            {
+              "price": "548.00",
+              "lastrecorded_at": 1483694100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1464230700,
+              "id": "2NFWHZLs1UuAOGuOSYCWMK",
+              "condition": "New",
+              "availability": "In stock",
+              "seller": "BestBuy"
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "bestbuy.com"
+        }
+      ],
+      "description": "DITR ASSET ID",
+      "images_total": 0,
+      "category": "Laptop & Netbook Computer Accessories"
+    },
+    {
+      "gtins": ["00884116135593"],
+      "sem3_id": "06H5rkYrEO0s6eauisEkOa",
+      "cat_id": "12855",
+      "height": "25.4",
+      "price_currency": "USD",
+      "brand": "Dell",
+      "upc": "884116135593",
+      "price": "499.99",
+      "created_at": 1407040904,
+      "name": "Dell Inspiron 15.6\" Touchscreen Laptop",
+      "mpn": "I15RMT7566SL",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0884116135593",
+      "updated_at": 1521443656,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/5c665e059a5512ae37d16ea26d54c779,0.jpg"
+      ],
+      "weight": "3401942.775",
+      "sitedetails": [
+        {
+          "sku": "prod5770037",
+          "name": "officemax.com",
+          "latestoffers": [
+            {
+              "seller": "Office Max",
+              "currency": "USD",
+              "price": "549.99",
+              "lastrecorded_at": 1407040900,
+              "availability": "Available",
+              "id": "5hRt9jWLuCE6aQm6EysIiy",
+              "firstrecorded_at": 1407040900,
+              "isactive": 1
+            }
+          ],
+          "recentoffers_count": 1,
+          "url":
+            "http://www.officemax.com/technology/computers/laptop-computers/product-prod5770037"
+        },
+        {
+          "url": "http://www.amazon.com/dp/B00HRO31NU",
+          "recentoffers_count": 3,
+          "sku": "B00HRO31NU",
+          "latestoffers": [
+            {
+              "price": "499.99",
+              "lastrecorded_at": 1521443600,
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1520721000,
+              "id": "29Uig4L4vcqU8E4cyIwc6w",
+              "condition": "New",
+              "availability": "Available [BBX: Buy Box]",
+              "seller": "BESTDEAL TECH"
+            },
+            {
+              "price": "499.99",
+              "lastrecorded_at": 1521443600,
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1520721000,
+              "id": "2hlbIJGe4eUSOaWk6WI2Ew",
+              "condition": "new",
+              "availability": "Available [FPO: Front Page Offer]",
+              "seller": "College Pros"
+            },
+            {
+              "price": "526.35",
+              "lastrecorded_at": 1521443600,
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1508687200,
+              "id": "2AFQsregzACQykyk4AGeMM",
+              "condition": "new",
+              "availability": "Available [FPO: Front Page Offer]",
+              "seller": "JAC Electronics(tax-free)"
+            }
+          ],
+          "name": "amazon.com"
+        },
+        {
+          "sku": "B00SVW2L4M",
+          "url": "http://www.amazon.com/dp/B00SVW2L4M",
+          "recentoffers_count": 0,
+          "name": "amazon.com",
+          "latestoffers": [
+            {
+              "price": "379.00",
+              "lastrecorded_at": 1507773200,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1495699500,
+              "id": "2nJdU3nRg8CEg6muiIuuys",
+              "condition": "new",
+              "availability":
+                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+              "seller": "New York Electronics Store"
+            },
+            {
+              "price": "379.00",
+              "lastrecorded_at": 1507687700,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1498965500,
+              "id": "5FXjQ83WOWqM2YyKmAYuKe",
+              "condition": "New",
+              "availability":
+                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+              "seller": "New York Electronics Store"
+            },
+            {
+              "price": "349.99",
+              "lastrecorded_at": 1501645100,
+              "shipping": "1499",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1501534400,
+              "id": "7NRzcjuTgWiyg4A4uwY2oS",
+              "condition": "new",
+              "availability":
+                "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "seller": "EZ Mart"
+            }
+          ]
+        }
+      ],
+      "description":
+        "The new Inspiron 15R with 6-cell battery features ... (visit site URLs for full description)",
+      "features": {
+        "Screen Resolution": "1366 x 768",
+        "Processor Count": "1",
+        "Max Screen Resolution": "1366x768",
+        "Item Weight": "8.3 pounds",
+        "Memory Speed": "1600 MHz",
+        "Batteries": "1 Lithium ion batteries required. (included)",
+        "Hardware Platform": "PC",
+        "Battery Type": "Lithium-Ion (Li-Ion)",
+        "Hard Drive Interface": "Serial ATA",
+        "Operating System": "Windows 8",
+        "Graphics Coprocessor": "IntelÂ® HD Graphics 4400",
+        "Processor": "1.6 GHz Intel Core i5",
+        "Computer Memory Type": "DDR3 SDRAM",
+        "Item Dimensions L x W x H": "19.29 x 13.15 x 3.31 inches",
+        "Hard Drive": "1 TB mechanical_hard_drive",
+        "Screen Size": "15.6 inches",
+        "Audio-out Ports (#)": "1",
+        "Series": "Inspiron",
+        "Optical Drive Type": "DVDÂ±RW",
+        "Number of USB 2.0 Ports": "2",
+        "Processor Brand": "Intel Core I5",
+        "Number of USB 3.0 Ports": "2",
+        "Hard Drive Rotational Speed": "5400 RPM",
+        "Wireless Type": "802.11bgn",
+        "Chipset Brand": "intel",
+        "blob":
+          "Intel Core i5-4200U Processor 1.6 GHz; 8 GB DDR3; 1 TB 5400 rpm Hard Drive; 15.6-Inch Touch Screen; Windows 8",
+        "RAM": "8 GB DDR3"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": ["00884116167785"],
+      "sem3_id": "5pc7glAf8CCSSoIaSsKuiq",
+      "color": "Gray/Silver",
+      "cat_id": "20823",
+      "price_currency": "USD",
+      "variation_id": "5RFJNxQXHEkQmKgoKu0W08",
+      "brand": "Dell",
+      "upc": "884116167785",
+      "price": "429.99",
+      "model": "STPC2J6PFXB15",
+      "created_at": 1505445043,
+      "name": "Dell Inspiron 3147 Laptop",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0884116167785",
+      "updated_at": 1520658398,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/5e43fd04f4116a45ca847fd563aa948b,0.jpg"
+      ],
+      "sitedetails": [
+        {
+          "listprice": "429.99",
+          "url": "http://www.staples.com/product_1752482",
+          "listprice_currency": "USD",
+          "name": "staples.com",
+          "latestoffers": [
+            {
+              "seller": "Staples",
+              "lastrecorded_at": 1520658300,
+              "id": "23mk73ztR6aUK0asYssWK8",
+              "currency": "USD",
+              "price": "429.99",
+              "availability": "Not Available",
+              "firstrecorded_at": 1505445000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "1752482"
+        }
+      ],
+      "description":
+        "This Dell Inspiron laptop delivers high-quality pe... (visit site URLs for full description)",
+      "features": {
+        "Screen Resolution": "1366 x 768",
+        "Laptop Webcam": "720p",
+        "Color Family": "Gray/Silver",
+        "Computer Use": "Everyday",
+        "2-in-1": "2-in-1",
+        "Laptop Hard Drive Speed (RPM)": "5400",
+        "Hard Drive Type": "SATA",
+        "Laptop Hard Drive Capacity (GB)": "500",
+        "Processor Type": "Intel",
+        "CPU Cache": "1MB",
+        "Processor Core Generation": "Quad-core",
+        "Laptop Style": "Notebook",
+        "Laptop Audio": "Waves MaxxAudio",
+        "Battery Life (up to hours)": "7.3",
+        "Processor Speed (Up To Ghz)": "2 to 2.9 GHz",
+        "True Color": "Gray And Silver",
+        "Processor Speed (Ghz)": "2.58",
+        "HDD Capacity": "500GB",
+        "Computer Operating System": "Windows 10",
+        "Laptop USB Slots":
+          "1 x USB 3.0, 2 x USB 2.0, 1 x headphone/microphone combo jack, 1 x HDMI",
+        "Laptop Memory Type": "DDR3 SDRAM",
+        "Laptop Battery Type": "3-cell lithium-ion battery",
+        "Screen Size (inches)": "11.6",
+        "Depth in Inches": "0.76",
+        "Laptop Video Graphics": "Intel HD Graphics",
+        "Media Card Reader": "2-in1 Media Card Reader and USB 3.0",
+        "Backlit Keyboard": "No",
+        "Weight (lbs.)": "3.07",
+        "Expandable Memory (GB)": "4",
+        "Wireless Connectivity": "802.11n",
+        "Width in Inches": "11.81",
+        "Height in Inches": "7.9",
+        "Touch-Screen": "Touch-Screen",
+        "RAM Capacity": "4GB",
+        "Laptop Optical Drive": "No optical drive",
+        "blob":
+          "With the performance of a laptop and versatility of a tablet in one, this do-it-all device adapts easily to your lifestyle, featuring an 11.6\" touch screen; All the features of a laptop and tablet in one; IntelÂ® CeleronÂ® Processor N2840 (1M Cache, up to 2.58 GHz); Windows 10 Home 64-bit English; 4GB Single Channel DDR3L 1600MHz (4GBx1); 500G 5.4k HDD; IntelÂ® HD Graphics; 11.6 inch LED Backlit Touch Display with Truelife and HD resolution (1366 x 768); Dell Wireless-N 1707 + Bluetooth 4.0; Up to 7 hours 30min",
+        "Laptop Display Type": "LED/HD",
+        "Bluetooth Compatibility": "Yes",
+        "Laptop Weight": "3.1 to 4 lbs"
+      },
+      "images_total": 1,
+      "category": "Laptop & Netbook Computer Accessories"
+    },
+    {
+      "gtins": [],
+      "sem3_id": "1Vyln00sk0uae8owKGMe68",
+      "color": "Gold",
+      "cat_id": "5660",
+      "price_currency": "USD",
+      "brand": "toshiba",
+      "upc": "022265929148",
+      "price": "599.99",
+      "model": "L75-B7150",
+      "created_at": 1426160150,
+      "name": "Toshiba Satellite (L75-B7150) Laptop",
+      "messages": [],
+      "variation_secondaryids": [
+        "6xrnRFSPFgA46waSqUUyac",
+        "3U9rz0JjRASuegkksS0gye",
+        "5SyZnisIrYUaaGeM0MUsoI"
+      ],
+      "geo": ["usa"],
+      "ean": "0022265929148",
+      "updated_at": 1520490757,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/8cfc1f91e694e05804d4c1901aa6b576,0.jpg"
+      ],
+      "sitedetails": [
+        {
+          "name": "staples.com",
+          "listprice": "599.99",
+          "sku": "1545056",
+          "url": "http://www.staples.com/product_1545056",
+          "listprice_currency": "USD",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "Staples",
+              "lastrecorded_at": 1520490700,
+              "price": "599.99",
+              "firstrecorded_at": 1446565900,
+              "currency": "USD",
+              "id": "1ZI6EX7DZssaoMusmcA8Q2",
+              "availability": "Not Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1432743600,
+              "price": "379.99",
+              "seller": "Staples",
+              "id": "47WhQpM4924kiaKC6YEw06",
+              "lastrecorded_at": 1432743600,
+              "isactive": 0
+            },
+            {
+              "id": "7T5BLzIbYmyaQ6KCwYeAOM",
+              "lastrecorded_at": 1430508000,
+              "seller": "Staples",
+              "currency": "USD",
+              "firstrecorded_at": 1429231500,
+              "price": "399.99",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url": "http://www.walmart.com/ip/52563189",
+          "latestoffers": [],
+          "recentoffers_count": 0,
+          "sku": "52563189",
+          "name": "walmart.com"
+        }
+      ],
+      "description":
+        "Intel® Core™ i3-4005U Processor. 6GB DDR3L 1600MHz... (visit site URLs for full description)",
+      "features": {
+        "Screen Resolution": "1600 x 900",
+        "Laptop Webcam": "Yes",
+        "Color Family": "Black",
+        "Computer Use": "Everyday",
+        "2-in-1": "Not 2-in-1",
+        "Laptop Hard Drive Speed (RPM)": "5400",
+        "Hard Drive Type": "HDD",
+        "Laptop Refurbished": "No",
+        "Laptop Hard Drive Capacity (GB)": "500",
+        "Warranty Information": "1 Year",
+        "Processor Type": "Intel i3",
+        "Laptop Network Card": "Wi-FiÂ® Wireless networking (802.11b/g/n)",
+        "CPU Cache": "3MB",
+        "Laptop Style": "Notebook",
+        "Finger Print Reader": "No",
+        "Laptop Audio":
+          "Built-in stereo speakers,DTS Sound,Microphone input port/Headphone output port",
+        "Processor Speed (Up To Ghz)": "1 to 1.9 GHz",
+        "True Color": "Black",
+        "Processor Speed (Ghz)": "1.7",
+        "HDD Capacity": "500GB",
+        "Computer Operating System": "Windows 8.1",
+        "Laptop USB Slots":
+          "1 USB 3.0 with USB Sleep and Charge, 1 USB 3.0, 2 USB 2.0 port",
+        "Laptop Memory Type": "DDR3L",
+        "Laptop Battery Type": "6 cell/48Wh Lithium Ion battery pack",
+        "Screen Size (inches)": "17.3",
+        "Depth in Inches": "10.6",
+        "Laptop Video Graphics":
+          "Mobile Intel HD graphics with shared graphics memory",
+        "Media Card Reader": "Memory Card Reader",
+        "Backlit Keyboard": "No",
+        "Weight (lbs.)": "5.9",
+        "Wireless Connectivity": "802.11b/g/n",
+        "Certifications":
+          "This product is RoHS18 compatible,ENERGY STAR Qualified,EPEAT Gold Rated",
+        "Width in Inches": "16.3",
+        "Height in Inches": "1.3",
+        "Interfaces":
+          "RGB, HDMI, Microphone input port, Headphone output port, RJ-45 LAN port, Slot for Security Lock",
+        "Touch-Screen": "No Touch-Screen",
+        "Serial ATA Interface": "Serial ATA",
+        "RAM Capacity": "6GB",
+        "Laptop Optical Drive": "DVD SuperMulti drive supporting 11 formats",
+        "blob":
+          "Intel Core i3-4005U for smooth processing; Offers 6 GB memory and 500 GB (5400 RPM) Serial ATA hard disk drive; Picture perfect 17.3-inch widescreen TruBrite HD+ display; Mobile Intel HD graphics with shared memory; DVD SuperMulti drive supports 11 formats; Built-in Wi-Fi wireless networking (802.11b/g/n) and webcam; Ports: RGB, HDMI, mic input/headphone output, USB 3.0 with sleep and charge and USB 2.0, RJ-45 LAN, slot for security lock; Memory Card Readers: Secure Digital, SDHC, SDXC, mini SD, micro SD, Multi Media Card (shared slot)",
+        "Laptop Display Type": "LED Backlit",
+        "Bluetooth Compatibility": "Yes",
+        "Laptop Weight": "5.1 to 6 lbs"
+      },
+      "images_total": 1,
+      "category": "Computer Accessories"
+    },
+    {
+      "gtins": [],
+      "sem3_id": "0TrfiOafTt2qk2kQg4EGEI",
+      "cat_id": "12855",
+      "width": "238.76",
+      "length": "337.82",
+      "height": "20.32",
+      "price_currency": "USD",
+      "brand": "Asus",
+      "price": "649.90",
+      "model": "S400CA-RSI5T18",
+      "created_at": 1375043163,
+      "name": "ASUS S400CA 14-Inch Laptop",
+      "messages": [],
+      "geo": ["usa"],
+      "updated_at": 1520723037,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/bd42432cd1dbd54c1ad85791e2ceb612,0.jpg"
+      ],
+      "weight": "1814369.48",
+      "sitedetails": [
+        {
+          "sku": "B00DQGBABI",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "price": "649.90",
+              "lastrecorded_at": 1520723000,
+              "shipping": "999",
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1520723000,
+              "id": "7H3tMqFGwCAWYyGW806oOU",
+              "condition": "new",
+              "availability": "Available",
+              "seller": "E Stars LLC"
+            },
+            {
+              "price": "603.17",
+              "lastrecorded_at": 1508445000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1507063300,
+              "id": "4K9fFx4y9ggwMKM28iS82w",
+              "condition": "new",
+              "availability": "Available",
+              "seller": "eGoodies"
+            },
+            {
+              "price": "652.07",
+              "lastrecorded_at": 1508445000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1507581900,
+              "id": "4d6iGKXnGSkIiUMWi2E60m",
+              "condition": "new",
+              "availability": "Available",
+              "seller": "Hot Deals 4 Less®"
+            }
+          ],
+          "name": "amazon.com",
+          "url": "http://www.amazon.com/dp/B00DQGBABI"
+        },
+        {
+          "sku": "ASU_TF4867",
+          "name": "jr.com",
+          "url": "http://www.jr.com/asus/pe/ASU_TF4867",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "id": "54szs2pj284iUOm88oKoiM",
+              "firstrecorded_at": 1389129400,
+              "seller": "JR",
+              "price": "726.99",
+              "lastrecorded_at": 1389129400,
+              "isactive": 0
+            },
+            {
+              "seller": "JR",
+              "firstrecorded_at": 1388158100,
+              "price": "709.99",
+              "lastrecorded_at": 1388158100,
+              "currency": "USD",
+              "id": "4BNCvLD1vsaqQ8aa8i8464",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0
+        },
+        {
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1392108100,
+              "price": "697.18",
+              "firstrecorded_at": 1391196200,
+              "seller": "ANTOnline",
+              "availability": "8 In Stock",
+              "id": "0VlZ8e6kywK8M8wqIYCca4",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.antonline.com/p_Asus_1076215.htm",
+          "sku": "1076215"
+        },
+        {
+          "sku": "712447",
+          "recentoffers_count": 0,
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=712447",
+          "latestoffers": [
+            {
+              "price": "694.91",
+              "lastrecorded_at": 1392027900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1389030700,
+              "id": "6ri0rxNbQ84M04Ie2AqUwo",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "694.90",
+              "lastrecorded_at": 1388844900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1388764300,
+              "id": "11iFxXyX14iiSYwW6WOMAa",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            }
+          ],
+          "name": "datavis.com"
+        },
+        {
+          "sku": "132068",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1375035700,
+              "price": "499.99",
+              "availability":
+                "FREE SHIPPING, plus 5% back for Rewards Members. In Stock Online 1 Business Day FREE Shipping to store",
+              "seller": "Staples",
+              "firstrecorded_at": 1375035700,
+              "id": "1BaMZL2n7qK4skAQuOS0q0",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.staples.com/product_132068",
+          "name": "staples.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "condition": "New",
+              "id": "1BzNrF4AiIaUq22S06aUcO",
+              "currency": "USD",
+              "lastrecorded_at": 1437793100,
+              "price": "545.99",
+              "seller": "3BTechComputers",
+              "firstrecorded_at": 1387829100,
+              "isactive": 0
+            },
+            {
+              "price": "624.99",
+              "lastrecorded_at": 1401527400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1388840200,
+              "id": "2riTr4z6g44Ua8wSI8g8ws",
+              "condition": "New",
+              "availability": "Out of stock",
+              "seller": "THEBESTDEALSFORYOU"
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "1308906728",
+          "name": "bestbuy.com",
+          "url":
+            "http://www.bestbuy.com/site/Asus+-+-+14\"+VivoBook+Ultrabook+-+4+GB+Memory+-+500+GB+Hard+Drive/1308906728.p?id=0&skuId=1308906728"
+        }
+      ],
+      "description":
+        "Shop the Windows Store for the full selection of W... (visit site URLs for full description)",
+      "features": {
+        "Processor Count": "2",
+        "Max Screen Resolution": "1366x768",
+        "Brand Name": "Asus",
+        "Item Weight": "4 pounds",
+        "Memory Speed": "1600 MHz",
+        "Batteries": "1 Lithium ion batteries required. (included)",
+        "Hardware Platform": "PC",
+        "Item model number": "S400CA-RSI5T18",
+        "Hard Drive Interface": "Serial ATA",
+        "Operating System": "Windows 8;",
+        "Flash Memory Size": "24",
+        "Graphics Coprocessor": "Intel HD Graphics 4000",
+        "Processor": "1.7 GHz Intel Core i5",
+        "Computer Memory Type": "DDR3 SDRAM",
+        "Item Dimensions L x W x H": "13.3 x 9.4 x 0.8 inches",
+        "Hard Drive": "500 GB flash_memory_solid_state",
+        "Screen Size": "14 inches",
+        "Series": "VivoBook",
+        "Number of USB 2.0 Ports": "1",
+        "Processor Brand": "Intel Core I5",
+        "Number of USB 3.0 Ports": "2",
+        "Hard Drive Rotational Speed": "5400 RPM",
+        "Average Battery Life (in hours)": "5 hours",
+        "Wireless Type": "802.11bgn",
+        "blob":
+          "Intel Core i5 3317U 1.7 GHz; 4 GB DDR3; Hard Drive- 500 GB, Flash memory - 24 GB SSD; 14.0-Inch Screen; Windows 8, 5-hour battery life",
+        "RAM": "4 GB DDR3"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": [],
+      "sem3_id": "6ycNkQ7tPks4cSKSMM0o8k",
+      "cat_id": "12855",
+      "width": "205.74",
+      "length": "299.72",
+      "height": "17.78",
+      "price_currency": "USD",
+      "brand": "HP",
+      "price": "472.07",
+      "model": "T3L13UT#ABA",
+      "created_at": 1520712387,
+      "name": "HP T3L13UT#ABA Laptop",
+      "messages": [],
+      "geo": ["usa"],
+      "updated_at": 1520712387,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/2be9a45c65c796daeeaebecf7d7187a7,0.jpg"
+      ],
+      "weight": "1102229.4591",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "B015ROXWS0",
+          "latestoffers": [
+            {
+              "price": "472.07",
+              "lastrecorded_at": 1520712300,
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1520712300,
+              "id": "4i0k6YbYCWKWemuGKYKu8Q",
+              "condition": "New",
+              "availability":
+                "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "seller": "BeachAudio"
+            }
+          ],
+          "name": "amazon.com",
+          "url": "http://www.amazon.com/dp/B015ROXWS0"
+        }
+      ],
+      "description":
+        "29,46 cm (11.6\") diagonal HD sva wled anti-glare (... (visit site URLs for full description)",
+      "features": {
+        "Processor Count": "1",
+        "Max Screen Resolution": "1366 x 768 pixels",
+        "Brand Name": "HP",
+        "Item Weight": "2.43 pounds",
+        "Memory Speed": "1600 MHz",
+        "Hardware Platform": "PC",
+        "Card Description": "Integrated",
+        "Item model number": "T3L13UT#ABA",
+        "Operating System": "Windows 10",
+        "Flash Memory Size": "32",
+        "Graphics Coprocessor": "Intel HD Graphics",
+        "Processor": "2.3 GHz Intel Celeron",
+        "Computer Memory Type": "DDR3 SDRAM",
+        "Item Dimensions L x W x H": "11.81 x 8.09 x 0.72 inches",
+        "Hard Drive": "32 GB",
+        "Rear Webcam Resolution": "2 MP",
+        "Screen Size": "11.6 inches",
+        "Series": "HP STREAM 11 G2",
+        "Number of USB 2.0 Ports": "1",
+        "Processor Brand": "Intel",
+        "Average Battery Life (in hours)": "10 hours",
+        "Wireless Type": "802.11A",
+        "Chipset Brand": "Intel",
+        "blob":
+          "29,46 cm (11.6\") diagonal HD SVA wled anti-glare (1366 x 768); Intel Celeron N3050 with Intel HD Graphics (1.6 GHz, up to 2.1 GHz, 2 MB cache, 2 Cores); 2 GB DDR3L-1600 SDRAM (2 GB onboard)",
+        "RAM": "2 GB DDR3 SDRAM"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": [],
+      "sem3_id": "39BKUq0uZsOq2ayeGOmYwC",
+      "cat_id": "12855",
+      "width": "259.08",
+      "length": "383.54",
+      "height": "20.32",
+      "price_currency": "USD",
+      "brand": "Asus",
+      "price": "519.99",
+      "model": "V500CA-BB31T",
+      "created_at": 1374253354,
+      "name": "ASUS V500CA 15-Inch Laptop",
+      "messages": [],
+      "variation_secondaryids": ["5YAVjHuFkGE8qsK2emegGU"],
+      "geo": ["usa"],
+      "updated_at": 1521788827,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/e959538c6a80ba52411e27ee6909fa11,0.jpg"
+      ],
+      "weight": "2086524.902",
+      "sitedetails": [
+        {
+          "recentoffers_count": 2,
+          "url": "http://www.amazon.com/dp/B00COQGHG4",
+          "name": "amazon.com",
+          "sku": "B00COQGHG4",
+          "latestoffers": [
+            {
+              "price": "519.99",
+              "lastrecorded_at": 1521788800,
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1513207700,
+              "id": "6bIr267VduGCgYuw8SwSOg",
+              "condition": "New",
+              "availability":
+                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "seller": "Biocloud (No Sale Tax)"
+            },
+            {
+              "price": "511.62",
+              "lastrecorded_at": 1521788800,
+              "shipping": "837",
+              "isactive": 1,
+              "currency": "USD",
+              "firstrecorded_at": 1518110800,
+              "id": "5gFdwbRteCGkQSSGM4AqmC",
+              "condition": "new",
+              "availability": "Available [FPO: Front Page Offer]",
+              "seller": "Tomorrow's Store"
+            },
+            {
+              "price": "519.99",
+              "lastrecorded_at": 1516706400,
+              "shipping": "836",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1492187200,
+              "id": "33mXyLCZ1sQaKwq0Ei4uqS",
+              "condition": "new",
+              "availability": "Available [FPO: Front Page Offer]",
+              "seller": "Tomorrow's Store"
+            }
+          ]
+        },
+        {
+          "name": "antonline.com",
+          "recentoffers_count": 0,
+          "sku": "1057260",
+          "latestoffers": [
+            {
+              "seller": "ANTOnline",
+              "price": "580.89",
+              "currency": "USD",
+              "id": "13iOtUQn8eOIIAm0yg0omA",
+              "firstrecorded_at": 1403339700,
+              "lastrecorded_at": 1407435200,
+              "availability": "6 In Stock",
+              "isactive": 0
+            },
+            {
+              "price": "572.07",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "id": "05j3KQWK0A4GakEKkcOqo4",
+              "availability": "107 In Stock",
+              "lastrecorded_at": 1403020800,
+              "firstrecorded_at": 1402797800,
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "price": "569.05",
+              "seller": "ANTOnline",
+              "availability": "107 In Stock",
+              "lastrecorded_at": 1402380200,
+              "firstrecorded_at": 1394759500,
+              "id": "7RLCei9Y92gcqiY6soGsgG",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.antonline.com/p_Asus_1057260.htm"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=702912",
+          "latestoffers": [
+            {
+              "price": "578.39",
+              "lastrecorded_at": 1408249800,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1404352000,
+              "id": "5JL945e9QmUGiMUgEyWeaY",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "Low Stock. Order Now!",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "558.79",
+              "lastrecorded_at": 1404142600,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1403508200,
+              "id": "0ubnRPzBq4Wcm0goECCQwm",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "558.02",
+              "lastrecorded_at": 1403229900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1402761300,
+              "id": "4f3YbbGKHYw6K6mkua0cEu",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            }
+          ],
+          "sku": "702912"
+        },
+        {
+          "recentoffers_count": 0,
+          "url":
+            "http://www.bestbuy.com/site/Asus+-+-+Vivobook+15.6\"+Touch-Screen+Laptop+-+4GB+Memory+-+500GB+Hard+Drive+-+Black/9560089.p?id=1219021951870&skuId=9560089",
+          "name": "bestbuy.com",
+          "sku": "9560089",
+          "latestoffers": [
+            {
+              "price": "508.98",
+              "lastrecorded_at": 1397720700,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1393554600,
+              "id": "4stYJXyvDc0oYyyi4KCEgu",
+              "condition": "New",
+              "availability": "Out of stock",
+              "seller": "BestBuy"
+            },
+            {
+              "price": "569.99",
+              "lastrecorded_at": 1393383500,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1393329600,
+              "id": "2kITpirh3gGCU8w4scYU4k",
+              "condition": "New",
+              "availability": "In stock",
+              "seller": "BestBuy"
+            },
+            {
+              "price": "507.98",
+              "lastrecorded_at": 1391330900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1387835100,
+              "id": "0yrKQdy6fqKauSAYE0W0ec",
+              "condition": "New",
+              "availability": "In stock",
+              "seller": "BestBuy"
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1396583600,
+              "lastrecorded_at": 1396583600,
+              "id": "0DZ04qKD6lkG0cyAWqe6ci",
+              "currency": "USD",
+              "price": "545.99",
+              "seller": "JR",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1388698100,
+              "lastrecorded_at": 1388754300,
+              "id": "7J5WW664BMsO8EqCyQ0ya2",
+              "currency": "USD",
+              "seller": "JR",
+              "price": "550.99",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "seller": "JR",
+              "price": "536.99",
+              "firstrecorded_at": 1388158100,
+              "lastrecorded_at": 1388668700,
+              "id": "32YKmAtZwmQwAkG0YuCsEI",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.jr.com/asus/pe/ASU_11113958",
+          "sku": "ASU_11113958",
+          "recentoffers_count": 0,
+          "name": "jr.com"
+        },
+        {
+          "url":
+            "http://www.bestbuy.com/site/Asus+-+-+Vivobook+15.6\"+Touch-Screen+Laptop+-+4GB+Memory+-+500GB+Hard+Drive+-+Black/1307433584.p?id=0&skuId=1307433584",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "id": "4Wi0xKpF324MYCQeGAC2Wc",
+              "lastrecorded_at": 1420141400,
+              "firstrecorded_at": 1408759600,
+              "condition": "New",
+              "price": "549.99",
+              "seller": "THEBESTDEALSFORYOU",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "532.99",
+              "lastrecorded_at": 1408507100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1407953500,
+              "id": "7RCqLJTeOeooAWeE4qiSQ8",
+              "condition": "New",
+              "availability": "Out of stock",
+              "seller": "THEBESTDEALSFORYOU"
+            },
+            {
+              "price": "533.79",
+              "lastrecorded_at": 1407475100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1405120200,
+              "id": "29BV8LcBJoiGAISIkY6WYo",
+              "condition": "New",
+              "availability": "Out of stock",
+              "seller": "Buy"
+            }
+          ],
+          "sku": "1307433584",
+          "name": "bestbuy.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1400426600,
+              "firstrecorded_at": 1399501000,
+              "id": "3LneTBIEFkGw4gOOqcWyoM",
+              "currency": "USD",
+              "price": "551.99",
+              "seller": "Staples",
+              "isactive": 0
+            },
+            {
+              "id": "5xjkGz1gdkGiyyA0KooKo6",
+              "firstrecorded_at": 1391680400,
+              "lastrecorded_at": 1399327400,
+              "price": "525.19",
+              "seller": "Staples",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "83756",
+          "name": "staples.com",
+          "url": "http://www.staples.com/product_83756",
+          "recentoffers_count": 0
+        }
+      ],
+      "description":
+        "Black/Touch Screen/15.6\" HD (1366*768) LED with To... (visit site URLs for full description)",
+      "features": {
+        "Processor Count": "2",
+        "Max Screen Resolution": "1366x768",
+        "Brand Name": "Asus",
+        "Item Weight": "4.6 pounds",
+        "Batteries": "1 Lithium ion batteries required. (included)",
+        "Hardware Platform": "PC",
+        "Card Description": "integrated",
+        "Item model number": "V500CA-BB31T",
+        "Hard Drive Interface": "Serial ATA",
+        "Operating System": "Windows 8;",
+        "Graphics Coprocessor": "integrated_graphics",
+        "Processor": "1.4 GHz Intel Core i3",
+        "Computer Memory Type": "DDR3 SDRAM",
+        "Item Dimensions L x W x H": "15.1 x 10.2 x 0.8 inches",
+        "Hard Drive": "500 GB mechanical_hard_drive",
+        "Screen Size": "15 inches",
+        "Series": "V500",
+        "Number of USB 2.0 Ports": "2",
+        "Processor Brand": "intel core I3",
+        "Number of USB 3.0 Ports": "1",
+        "Hard Drive Rotational Speed": "5400 RPM",
+        "Average Battery Life (in hours)": "5 hours",
+        "Wireless Type": "802.11bgn",
+        "Chipset Brand": "intel",
+        "blob":
+          "Intel Core i3-2365M 1.4GHz Processor(3MB Cache), Intel HD 3000Graphics, Windows 8; 15.6Â LED Backlit HD (1366x768) with Touch; 4GB DDR3 Memory, Max supported 8GB, SD card reader; 500GB 5400RPM Hard Drive; Built in WebCam, Bluetooth 4.0, HDMI, 1 USb 3.0, 2 USB 2.0 Port",
+        "RAM": "4 GB SO-DIMM"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": [],
+      "sem3_id": "2S8QFRmbKayEUGqWUiukmq",
+      "cat_id": "12855",
+      "width": "215.9",
+      "length": "299.72",
+      "height": "22.86",
+      "price_currency": "USD",
+      "brand": "Lenovo",
+      "price": "747.97",
+      "model": "20E6000LUS",
+      "created_at": 1520712457,
+      "name": "Lenovo 20E6000LUS 11.6\" Laptop",
+      "messages": [],
+      "geo": ["usa"],
+      "updated_at": 1520712457,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/618886147104853b24e279e408cf9cf3,0.jpg"
+      ],
+      "weight": "1496854.821",
+      "sitedetails": [
+        {
+          "name": "amazon.com",
+          "sku": "B00W8TB0PU",
+          "latestoffers": [
+            {
+              "price": "747.97",
+              "lastrecorded_at": 1520712400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1520712400,
+              "id": "5XZN2A3bTkKesEKYQCKmqW",
+              "condition": "New",
+              "availability":
+                "Temporarily out of stock. [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "seller": "Amazon"
+            }
+          ],
+          "listprice_currency": "USD",
+          "url": "http://www.amazon.com/dp/B00W8TB0PU",
+          "recentoffers_count": 0,
+          "listprice": "911.81"
+        }
+      ],
+      "description":
+        "Feature: 11.6\" (1366 x 768). Intel Core m-5y10c(80... (visit site URLs for full description)",
+      "features": {
+        "Processor Count": "2",
+        "Max Screen Resolution": "1366 x 768 pixels",
+        "Brand Name": "Lenovo",
+        "Item Weight": "3.3 pounds",
+        "Memory Speed": "1600 MHz",
+        "Card Description": "Dedicated",
+        "Item model number": "20E6000LUS",
+        "Operating System": "Windows 7 Professional",
+        "Graphics Coprocessor": "Intel Graphics Integrated",
+        "Processor": "2 GHz Core M-5Y10c",
+        "Computer Memory Type": "DDR3 SDRAM",
+        "Item Dimensions L x W x H": "11.81 x 8.5 x 0.88 inches",
+        "Screen Size": "11.6 inches",
+        "Series": "NoteBook",
+        "Number of USB 2.0 Ports": "1",
+        "Processor Brand": "Intel",
+        "Wireless Type": "802.11A",
+        "blob":
+          "Feature - 11.6\" (1366 x 768); Intel Core m-5y10c(800 GHz); Memory - 4GB",
+        "RAM": "4 GB"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    }
+  ],
+  "total_results_count": 100000
+}

@@ -1,0 +1,2364 @@
+{
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "gtins": ["00887899644993"],
+      "sem3_id": "15FTZaMbkoqEMW2GW8iG06",
+      "color": "Black",
+      "cat_id": "4672",
+      "width": "309.88",
+      "length": "480.06",
+      "height": "71.12",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899644993",
+      "model": "020V008708815000P",
+      "created_at": 1425959104,
+      "name": "Acer Laptops",
+      "mpn": "TMP645M5609",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899644993",
+      "updated_at": 1521361028,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/a179e3e80d347ccbfe8b64f4d20d11d8,0.jpg"
+      ],
+      "weight": "2721554.22",
+      "sitedetails": [
+        {
+          "name": "kmart.com",
+          "url":
+            "http://www.kmart.com/acer-travelmate-p645-m-14inch-notebook-with-intel/p-020V008708815000P",
+          "recentoffers_count": 0,
+          "sku": "020V008708815000P",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1425959100,
+              "price": "909.99",
+              "lastrecorded_at": 1425959100,
+              "seller": "Sears Brands, LLC.",
+              "id": "6Kw8I51dBo8MMgaGIioawk",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "url":
+            "http://www.bestbuy.com/site/acer-travelmate-p645-m-14-led-comfyview-notebook-intel-core-i5-i5-4200u-1-60-ghz-black/1311193894.p",
+          "name": "bestbuy.com",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "seller": "IPCStore",
+              "lastrecorded_at": 1455055600,
+              "price": "1077.32",
+              "firstrecorded_at": 1448048000,
+              "currency": "USD",
+              "condition": "New",
+              "id": "6hSTjiY0bgMqm2OUG4qaWi",
+              "isactive": 0
+            },
+            {
+              "price": "1085.03",
+              "lastrecorded_at": 1447143000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1445404200,
+              "id": "7c7yYLKSRsmC4oqm08wA4E",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "IPCStore"
+            },
+            {
+              "price": "892.72",
+              "lastrecorded_at": 1442575100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1442575100,
+              "id": "0QvqmOdhO8O8c0MYWSm4MY",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "TechnologyGalaxy"
+            }
+          ],
+          "sku": "1311193894"
+        }
+      ],
+      "description":
+        "Acer TravelMate P645-M-54208G12tkk - Core i5 4200U... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "PC laptops",
+        "Maximum Screen Resolution": "1366 x 768",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "Intel",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "L3 - 3 MB",
+        "Hard Drive Capacity Range": "128GB to 249GB",
+        "Networking Capability": "Gigabit Ethernet",
+        "ENERGY STAR Compliant": "No",
+        "Hard Drive Capacity": "128GB",
+        "Hard Drive Type": "Solid State Drive (SSD)",
+        "Operating System Version": "Windows 7 Professional",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "No",
+        "Manufacturer Warranty - Labor": "1-year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "64-bit",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "6hrs - 8.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium polymer",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Windows",
+        "Total USB 2.0 Ports": "None",
+        "CPU Series": "Core i5-4200U",
+        "Total USB 3.0 Ports": "3",
+        "Max Resolution Format": "720p",
+        "Maximum Memory Supported": "12 GB",
+        "CPU Brand": "Intel",
+        "Manufacturer Warranty - Software": "1-year",
+        "CPU Speed": "1.6",
+        "Manufacturer Warranty - Hardware": "1-year",
+        "Screen Size Range": "11 inches to 14.9 inches",
+        "GPU Video Type": "HD 4400 Graphics",
+        "Optical Audio Port": "No port",
+        "Package Contents":
+          "TravelMate TMP645-M Notebook, Lithium Polymer Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "8",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "Yes",
+        "Battery Life (hrs)": "8",
+        "CPU Core": "Dual-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "No Drive",
+        "SSD Boot Drive": "Yes",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "Office Starter Trial",
+        "Hard Drive Speed": "Variable",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "E-Sata Port": "No",
+        "Memory Range": "6.1GB - 8GB",
+        "VGA Out": "Yes",
+        "Battery Cells": "3-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "Yes"
+      },
+      "images_total": 1,
+      "category": "Desktops"
+    },
+    {
+      "gtins": ["00887899559136"],
+      "sem3_id": "6SVQhrnuMqimmS0I6o8Awa",
+      "color": "Silver/gray",
+      "cat_id": "12855",
+      "width": "304.80",
+      "length": "495.30",
+      "height": "66.04",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899559136",
+      "model": "020V008708808000P",
+      "created_at": 1420309040,
+      "name": "Acer Laptops",
+      "mpn": "NV570P30U",
+      "messages": [],
+      "variation_secondaryids": ["544t3Fxs8OqK8Iumyu0mMW"],
+      "geo": ["usa"],
+      "ean": "0887899559136",
+      "updated_at": 1506246252,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/f94afca49edd6d4b2ff215425087b4f8,0.jpg"
+      ],
+      "weight": "3175146.59",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "2CRiOthzausaWAEAqYyMsE",
+              "availability": "Available",
+              "price": "438.99",
+              "currency": "USD",
+              "firstrecorded_at": 1420309000,
+              "seller": "Sears Brands, LLC.",
+              "lastrecorded_at": 1420309000,
+              "isactive": 0
+            }
+          ],
+          "name": "kmart.com",
+          "recentoffers_count": 0,
+          "sku": "020V008708808000P",
+          "url":
+            "http://www.kmart.com/acer-gateway-nv570-15.6inch-touchscreen-notebook-with-intel/p-020V008708808000P"
+        },
+        {
+          "sku": "265486560",
+          "url": "http://www.rakuten.com/prod/265486560.html",
+          "recentoffers_count": 0,
+          "name": "rakuten.com",
+          "latestoffers": [
+            {
+              "price": "584.52",
+              "lastrecorded_at": 1439975100,
+              "shipping": "1350",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1439975100,
+              "id": "2ehoxPguJEEemAKwwOaSoe",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Synergy Data Inc"
+            },
+            {
+              "price": "502.38",
+              "lastrecorded_at": 1436960500,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1436960500,
+              "id": "2dxRtEmtroASuIOCY4Yqu6",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "CREESTAHL"
+            },
+            {
+              "price": "527.25",
+              "lastrecorded_at": 1436960500,
+              "shipping": "1354",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1435121800,
+              "id": "0kVib70078K6Go4UWCYSEO",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "LGeOO"
+            }
+          ]
+        },
+        {
+          "name": "bestbuy.com",
+          "recentoffers_count": 0,
+          "sku": "1311173964",
+          "latestoffers": [
+            {
+              "price": "522.71",
+              "lastrecorded_at": 1437359700,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1435597100,
+              "id": "70YI26f7xokkSS6m44QG0C",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "IPCStore"
+            },
+            {
+              "price": "503.23",
+              "lastrecorded_at": 1436076000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1436076000,
+              "id": "5VNIXl5f9sQY6ksgc4QYIk",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "AllianceSupply"
+            },
+            {
+              "price": "399.99",
+              "lastrecorded_at": 1434474600,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1430588800,
+              "id": "5MzRXLirGSESGw2yQqwygM",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Buy"
+            }
+          ],
+          "url":
+            "http://www.bestbuy.com/site/gateway-15-6-touchscreen-led-notebook-intel-pentium-2117u-1-80-ghz-multi/1311173964.p"
+        },
+        {
+          "sku": "1129135",
+          "url":
+            "http://www.antonline.com/p_Acer--NX.Y46AA.009--Gateway-NV570P30u-21174G50Mnik---15.6----Pentium-2117U---Windows-8.1-64-bit_1129135.htm",
+          "recentoffers_count": 0,
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "7D8c4kSDhoSIEMcOQkiQaA",
+              "lastrecorded_at": 1434821600,
+              "seller": "ANTOnline",
+              "price": "425.84",
+              "firstrecorded_at": 1434821600,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "421.45",
+              "firstrecorded_at": 1434122100,
+              "currency": "USD",
+              "lastrecorded_at": 1434122100,
+              "seller": "ANTOnline",
+              "id": "1xvHHN4ARgKKqWQMGc6Sg4",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1431187100,
+              "currency": "USD",
+              "price": "419.30",
+              "lastrecorded_at": 1431187100,
+              "seller": "ANTOnline",
+              "id": "2pgtYWHbPsSsmia00oKOI0",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 0,
+          "url": "http://www.officedepot.com/a/products/116611",
+          "sku": "116611",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "id": "1p1lGngZZUACgyGCACeW6U",
+              "lastrecorded_at": 1430761200,
+              "seller": "Office Depot",
+              "currency": "USD",
+              "firstrecorded_at": 1428629500,
+              "price": "449.99",
+              "isactive": 0
+            }
+          ],
+          "name": "officedepot.com"
+        },
+        {
+          "name": "overstock.com",
+          "latestoffers": [
+            {
+              "id": "19cMMUmpW4UeAmCseEIEKw",
+              "availability": "Available",
+              "firstrecorded_at": 1434459100,
+              "currency": "USD",
+              "price": "443.99",
+              "lastrecorded_at": 1434459100,
+              "seller": "Overstock",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "url": "http://www.overstock.com/9080128/product.html",
+          "sku": "9080128_6965211"
+        }
+      ],
+      "description":
+        "Gateway NV570P30u-21174G50Mnik - Pentium 2117U 1.8... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "PC laptops",
+        "Maximum Screen Resolution": "1366 x 768",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "Intel",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "2 MB",
+        "Hard Drive Capacity Range": "500GB to 749GB",
+        "Networking Capability": "Gigabit Ethernet",
+        "ENERGY STAR Compliant": "No",
+        "Hard Drive Capacity": "500GB",
+        "Hard Drive Type": "Standard",
+        "Operating System Version": "Windows 8.1",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "Yes",
+        "Manufacturer Warranty - Labor": "1-year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "64-bit",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "3hrs - 5.9hrs",
+        "Touch Screen": "Yes",
+        "Battery Type": "Lithium-Ion(LiIon)",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Windows",
+        "Total USB 2.0 Ports": "2",
+        "CPU Series": "Pentium 2117U",
+        "Total USB 3.0 Ports": "1",
+        "Max Resolution Format": "720p",
+        "Maximum Memory Supported": "8 GB",
+        "CPU Brand": "Intel",
+        "Manufacturer Warranty - Software": "1-year",
+        "CPU Speed": "1.8",
+        "Manufacturer Warranty - Hardware": "1-year",
+        "Screen Size Range": "15 inches to 15.9 inches",
+        "GPU Video Type": "HD Graphics",
+        "Optical Audio Port": "No port",
+        "Package Contents": "NV570 Notebook, Lithium Ion Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "4",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "No",
+        "Battery Life (hrs)": "4",
+        "CPU Core": "Dual-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "DVD-SuperMulti",
+        "SSD Boot Drive": "No",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "N/A",
+        "Hard Drive Speed": "5400 rpm",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "blob":
+          "Pentium 2117U / 1.8 GHz; Windows 8.1 64-bit; 4 GB RAM; 500 GB HDD; DVD SuperMulti; 15.6\" touchscreen 1366 x 768 ( HD ); Intel HD Graphics; iron; Pentium 2117U / 1.8 GHz; Windows 8.1 64-bit; 4 GB RAM; 500 GB HDD; DVD SuperMulti; 15.6\" touchscreen 1366 x 768 ( HD ); Intel HD Graphics; iron",
+        "E-Sata Port": "No",
+        "Memory Range": "2.1GB - 4GB",
+        "VGA Out": "Yes",
+        "Battery Cells": "4-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "No"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": ["00887899645082"],
+      "sem3_id": "0HBbi04HFrqYKYKEsA8oOu",
+      "color": "Black",
+      "cat_id": "4672",
+      "width": "309.88",
+      "length": "480.06",
+      "height": "71.12",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899645082",
+      "model": "020V008708817000P",
+      "created_at": 1420309052,
+      "name": "Acer Laptops",
+      "mpn": "TMP645MG7653",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899645082",
+      "updated_at": 1520659861,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/973270963f44a896de815853975b2b2d,0.jpg"
+      ],
+      "weight": "2721554.22",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "sku": "020V008708817000P",
+          "name": "kmart.com",
+          "url":
+            "http://www.kmart.com/acer-travelmate-p645-mg-14inch-notebook-with-intel/p-020V008708817000P",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1420309000,
+              "firstrecorded_at": 1420309000,
+              "availability": "Available",
+              "seller": "Sears Brands, LLC.",
+              "price": "1279.99",
+              "id": "2OMPbnEbVcsOwcwaWW0ygu",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "name": "datavis.com",
+          "sku": "760906",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=760906",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "1239.15",
+              "lastrecorded_at": 1443251800,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1440849800,
+              "id": "1vbrdDJ66aCYkO2QSocqyq",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "Low Stock. Order Now!",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "1236.45",
+              "lastrecorded_at": 1440420400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1439732100,
+              "id": "2GOjQmcu5oma82EW6uUg4K",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "1216.21",
+              "lastrecorded_at": 1438254400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1435768800,
+              "id": "14gldKyCtcE08e20WEAY6o",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            }
+          ]
+        },
+        {
+          "url":
+            "http://www.bestbuy.com/site/acer-travelmate-p645-mg-14-led-in-plane-switching-ips-technology-notebook-intel-core-i7-i7-4500u-1-80-ghz-black/1311193900.p",
+          "name": "bestbuy.com",
+          "latestoffers": [
+            {
+              "price": "1197.99",
+              "lastrecorded_at": 1442525700,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1438721800,
+              "id": "7ht3BzeiLgqWQwsceQeo0e",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Buy"
+            },
+            {
+              "price": "1165.99",
+              "lastrecorded_at": 1435290600,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1428500400,
+              "id": "1YQHGOHmoC2yQIEei4m4eS",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Buy"
+            },
+            {
+              "price": "1203.94",
+              "lastrecorded_at": 1434805500,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1434223900,
+              "id": "47JLWpJBu4mquQ0goEqIQ4",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "pcRUSH"
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "1311193900"
+        },
+        {
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1474554800,
+              "firstrecorded_at": 1470956000,
+              "id": "17Y9ONNySciy6uMgkKKIKs",
+              "price": "1266.99",
+              "seller": "Office Depot",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "id": "57n3oWhhBY2I0iwk0k6c6a",
+              "seller": "Office Depot",
+              "price": "1114.99",
+              "availability": "Available",
+              "firstrecorded_at": 1467060200,
+              "lastrecorded_at": 1470332100,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "price": "1179.99",
+              "seller": "Office Depot",
+              "id": "00AwmJkFaKiswsS4a6k8A4",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1466138000,
+              "firstrecorded_at": 1463558000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "name": "officedepot.com",
+          "sku": "117556",
+          "url": "http://www.officedepot.com/a/products/117556"
+        }
+      ],
+      "description":
+        "Acer TravelMate P645-MG-74508G25tkk - Core i7 4500... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "PC laptops",
+        "Maximum Screen Resolution": "1920 x 1080",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "AMD",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "L3 - 4 MB",
+        "Hard Drive Capacity Range": "250GB to 499GB",
+        "Networking Capability": "Gigabit Ethernet",
+        "ENERGY STAR Compliant": "Yes",
+        "Hard Drive Capacity": "256GB",
+        "Hard Drive Type": "Solid State Drive (SSD)",
+        "Operating System Version": "Windows 7 Professional",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "No",
+        "Manufacturer Warranty - Labor": "1-year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "64-bit",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "6hrs - 8.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium polymer",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Windows",
+        "Total USB 2.0 Ports": "None",
+        "CPU Series": "Core i7-4500U",
+        "Total USB 3.0 Ports": "3",
+        "Max Resolution Format": "1080p",
+        "Maximum Memory Supported": "12 GB",
+        "CPU Brand": "Intel",
+        "Manufacturer Warranty - Software": "1-year",
+        "CPU Speed": "1.8",
+        "Manufacturer Warranty - Hardware": "1-year",
+        "Screen Size Range": "11 inches to 14.9 inches",
+        "GPU Video Type": "Radeon HD 8750M",
+        "Optical Audio Port": "No port",
+        "Package Contents":
+          "TravelMate P645-MG Notebook, Lithium Polymer Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "2GB",
+        "Total System Memory": "8",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "Yes",
+        "Battery Life (hrs)": "8",
+        "CPU Core": "Dual-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "No Drive",
+        "SSD Boot Drive": "Yes",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "Office Starter Trial",
+        "Hard Drive Speed": "Variable",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "E-Sata Port": "No",
+        "Memory Range": "6.1GB - 8GB",
+        "VGA Out": "Yes",
+        "Battery Cells": "3-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "Yes"
+      },
+      "images_total": 1,
+      "category": "Desktops"
+    },
+    {
+      "gtins": ["00887899644979"],
+      "sem3_id": "3gcOWWBwy0mssgcgy6Cqw6",
+      "color": "Black",
+      "cat_id": "12855",
+      "width": "317.50",
+      "length": "505.46",
+      "height": "71.12",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899644979",
+      "model": "020V008708912000P",
+      "created_at": 1420309019,
+      "name": "Acer Laptops",
+      "mpn": "TMP455M5406",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899644979",
+      "updated_at": 1506246292,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/748f481b34eda964a26c182a5922cef9,0.jpg"
+      ],
+      "weight": "3175146.59",
+      "sitedetails": [
+        {
+          "name": "kmart.com",
+          "sku": "020V008708912000P",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "price": "804.99",
+              "lastrecorded_at": 1420309000,
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1420309000,
+              "id": "5mQxFL3A7yU2UGS8cG4OUg",
+              "isactive": 0
+            }
+          ],
+          "url":
+            "http://www.kmart.com/acer-travelmate-p455-m-15.6inch-notebook-with-intel/p-020V008708912000P",
+          "recentoffers_count": 0
+        },
+        {
+          "url":
+            "http://www.bestbuy.com/site/acer-travelmate-p455-m-15-6-led-comfyview-notebook-intel-core-i5-i5-4200u-1-60-ghz-black/1311173988.p",
+          "recentoffers_count": 0,
+          "name": "bestbuy.com",
+          "sku": "1311173988",
+          "latestoffers": [
+            {
+              "price": "829.66",
+              "lastrecorded_at": 1453727200,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1447125100,
+              "id": "2ZTvHkzzNoSsAEg8UW6M0y",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "DataVision"
+            },
+            {
+              "price": "791.45",
+              "lastrecorded_at": 1445388000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1445388000,
+              "id": "7YCjWn1ITQgyOYicY0Usqq",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "DataVision"
+            },
+            {
+              "price": "810.73",
+              "lastrecorded_at": 1442560400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1442560400,
+              "id": "6whW8qoDei4oW4o4eQgiuM",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "TechnologyGalaxy"
+            }
+          ]
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "6u7LQEoqzuqO0IecIee2Qw",
+              "firstrecorded_at": 1467078300,
+              "seller": "Office Depot",
+              "lastrecorded_at": 1469102700,
+              "availability": "Available",
+              "currency": "USD",
+              "price": "779.99",
+              "isactive": 0
+            },
+            {
+              "id": "11TeSm2hZUc8YqQeACAs8W",
+              "firstrecorded_at": 1463563200,
+              "seller": "Office Depot",
+              "lastrecorded_at": 1466142800,
+              "currency": "USD",
+              "price": "829.99",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "seller": "Office Depot",
+              "firstrecorded_at": 1463109400,
+              "id": "1PNBnmU0dEYCmAos4iKiEm",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "849.99",
+              "lastrecorded_at": 1463109400,
+              "isactive": 0
+            }
+          ],
+          "sku": "116962",
+          "name": "officedepot.com",
+          "recentoffers_count": 0,
+          "url": "http://www.officedepot.com/a/products/116962"
+        },
+        {
+          "url":
+            "http://www.bestbuy.com/site/acer-travelmate-15-6-laptop-intel-core-i5-8gb-memory-128gb-solid-state-drive-black/7579228.p",
+          "recentoffers_count": 0,
+          "sku": "7579228",
+          "name": "bestbuy.com",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "id": "2VFyLEPHoC62GMAAssmK0k",
+              "firstrecorded_at": 1465221300,
+              "price": "799.99",
+              "currency": "USD",
+              "condition": "New",
+              "lastrecorded_at": 1469110200,
+              "isactive": 0
+            },
+            {
+              "price": "748.99",
+              "lastrecorded_at": 1463925200,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1463925200,
+              "id": "4X6ilp5SQCUmeyMgyCAgWK",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "BestBuy"
+            },
+            {
+              "price": "778.99",
+              "lastrecorded_at": 1462629200,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1462629200,
+              "id": "1fk5LXpI7QQmiKekqOqmQI",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "BestBuy"
+            }
+          ]
+        }
+      ],
+      "description":
+        "Acer TravelMate P455-M-54208G12Mtkk - Core i5 4200... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "PC laptops",
+        "Maximum Screen Resolution": "1920 x 1080",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "Intel",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "L3 - 3 MB",
+        "Hard Drive Capacity Range": "128GB to 249GB",
+        "Networking Capability": "Gigabit Ethernet",
+        "ENERGY STAR Compliant": "Yes",
+        "Hard Drive Capacity": "128GB",
+        "Hard Drive Type": "Solid State Drive (SSD)",
+        "Operating System Version": "Windows 8.1",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "Yes",
+        "Manufacturer Warranty - Labor": "1-year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "64-bit",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "3hrs - 5.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium-Ion(LiIon)",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Windows",
+        "Total USB 2.0 Ports": "2",
+        "CPU Series": "Core i5-4200U",
+        "Total USB 3.0 Ports": "1",
+        "Max Resolution Format": "1080p",
+        "Maximum Memory Supported": "8 GB",
+        "CPU Brand": "Intel",
+        "Manufacturer Warranty - Software": "1-year",
+        "CPU Speed": "1.6",
+        "Manufacturer Warranty - Hardware": "1-year",
+        "Screen Size Range": "15 inches to 15.9 inches",
+        "GPU Video Type": "HD 4400 Graphics",
+        "Optical Audio Port": "No port",
+        "Package Contents":
+          "TravelMate P455-M Notebook, Lithium Ion Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "8",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "No",
+        "Battery Life (hrs)": "3",
+        "CPU Core": "Dual-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "DVD-SuperMulti",
+        "SSD Boot Drive": "Yes",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "N/A",
+        "Hard Drive Speed": "Variable",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "blob":
+          "Microsoft Windows 7 operating system preinstalled. It's your PC simplified, with fewer steps between you and what you do, easy sharing of photos and videos, and multiple ways to personalize your experience.; 15.6\" active-matrix TFT-LCD display. ComfyView technology. The 1920 x 1080 resolution boasts impressive color and clarity. LED backlight.; 4th Gen IntelÂ® Coreâ¢ i5-4200U processor. Smart dual-core, four-way processing performance. Intel Turbo Boost Technology delivers dynamic extra power when you need it, while increasing energy efficiency when you don't.; 8GB system memory for advanced multitasking. Substantial high-bandwidth RAM to smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs all at once.; 128GB solid state drive (SSD). While offering less storage space than a hard drive, a flash-based SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery.; IntelÂ® HD Graphics 4400. Fourth-generation on-processor graphics, designed to complement low-voltage processors and render high-quality images and stream videos with reduced power consumption.; Weighs 5.29 lbs. and measures 1\" thin. Balances portability and screen size, so you get a respectable amount of viewing space without the laptop being too cumbersome for practical portability. 4-cell lithium-ion battery.; Bluetooth interface syncs with compatible devices. Wirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories.; 1 USB 3.0 port maximizes the latest high-speed devices. Also includes 2 USB 2.0 ports to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds).; HDMI output expands your viewing options. Connect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture.; Built-in media reader for simple photo transfer. Supports SD memory card format.; Wireless and wired network connectivity. Built-in high-speed wireless LAN connects to your network or hotspots on the most common Wi-Fi standards. The Gigabit Ethernet LAN port also plugs into wired networks.; Built-in webcam with microphone. Makes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications.; SuperMulti DVD/CD burner. Reads and writes to a wide variety of media formats, including DVD+R/RW, DVD-R/RW, CD-R/RW, DVD-RAM and double-layer DVD.; Additional ports. VGA output. Audio line out.; Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries.",
+        "E-Sata Port": "No",
+        "Memory Range": "6.1GB - 8GB",
+        "VGA Out": "Yes",
+        "Battery Cells": "4-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "Yes"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": ["00887899681981"],
+      "sem3_id": "7MedrxqsPuW0gyWISguy6y",
+      "color": "Red",
+      "cat_id": "12855",
+      "width": "236.22",
+      "length": "383.54",
+      "height": "76.20",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899681981",
+      "model": "020V008708916000P",
+      "created_at": 1420309038,
+      "name": "Acer Laptops",
+      "mpn": "E557133VT",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899681981",
+      "updated_at": 1492358237,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/c0fb325b6ca026e793854655b38de5db,0.jpg"
+      ],
+      "weight": "3175146.59",
+      "sitedetails": [
+        {
+          "recentoffers_count": 0,
+          "url":
+            "http://www.kmart.com/acer-aspire-e5-571-15.6inch-notebook-with-intel/p-020V008708916000P",
+          "sku": "020V008708916000P",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "lastrecorded_at": 1420309000,
+              "seller": "Sears Brands, LLC.",
+              "price": "479.99",
+              "availability": "Available",
+              "firstrecorded_at": 1420309000,
+              "id": "4D9GiI9P7AkQUcemqqsOiO",
+              "isactive": 0
+            }
+          ],
+          "name": "kmart.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "url":
+            "http://www.bestbuy.com/site/acer-aspire-15-6-led-notebook-intel-core-i3-i3-4030u-1-80-ghz-red/1311217378.p",
+          "latestoffers": [
+            {
+              "price": "411.99",
+              "lastrecorded_at": 1433176700,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1428452400,
+              "id": "3IzPvznhs8QK0eEMuaG4wu",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Buy"
+            }
+          ],
+          "sku": "1311217378",
+          "name": "bestbuy.com"
+        },
+        {
+          "sku": "1130543",
+          "latestoffers": [
+            {
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "lastrecorded_at": 1432038600,
+              "id": "0N5ywKBTr0Ysywg2Eiowou",
+              "price": "409.64",
+              "availability": "Available",
+              "firstrecorded_at": 1432038600,
+              "isactive": 0
+            }
+          ],
+          "name": "antonline.com",
+          "recentoffers_count": 0,
+          "url":
+            "http://www.antonline.com/p_Acer--NX.MLUAA.001--Acer-Aspire-E5-571-33VT-15.6--LED-Notebook---Intel-Core-i3-i3-4030U-1.80-GHz---Red---4-GB-RAM---500-GB-HDD---DVD-Writer---Intel---Windows-8.1-64-bit---1366-x-768-Display---Bluetooth_1130543.htm"
+        }
+      ],
+      "description":
+        "Thin and with an easy grip, it's an ideal partner ... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "PC laptops",
+        "Maximum Screen Resolution": "1366 x 768",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "Intel",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "3",
+        "Hard Drive Capacity Range": "500GB to 749GB",
+        "Networking Capability": "Gigabit Ethernet",
+        "ENERGY STAR Compliant": "No",
+        "Hard Drive Capacity": "500GB",
+        "Hard Drive Type": "Standard",
+        "Operating System Version": "Windows 8.1",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "Yes",
+        "Manufacturer Warranty - Labor": "1-year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "64-bit",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "3hrs - 5.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium-Ion(LiIon)",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Windows",
+        "Total USB 2.0 Ports": "2",
+        "CPU Series": "Core i3-4030U",
+        "Total USB 3.0 Ports": "1",
+        "Max Resolution Format": "720p",
+        "Maximum Memory Supported": "16",
+        "CPU Brand": "Intel",
+        "Manufacturer Warranty - Software": "1-year",
+        "CPU Speed": "1.8",
+        "Manufacturer Warranty - Hardware": "1-year",
+        "Screen Size Range": "15 inches to 15.9 inches",
+        "GPU Video Type": "HD Graphics",
+        "Optical Audio Port": "No port",
+        "Package Contents":
+          "Aspire E5-571 Notebook, Lithium Ion Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "4",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "No",
+        "Battery Life (hrs)": "5",
+        "CPU Core": "Dual-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "DVD-SuperMulti",
+        "SSD Boot Drive": "No",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "N/A",
+        "Hard Drive Speed": "5400 rpm",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "E-Sata Port": "No",
+        "Memory Range": "2.1GB - 4GB",
+        "VGA Out": "Yes",
+        "Battery Cells": "6-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "No"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": ["00887899561573"],
+      "sem3_id": "1L4KJcgLWOuuuW86aGScc6",
+      "color": "White",
+      "cat_id": "4672",
+      "width": "238.76",
+      "length": "381.00",
+      "height": "81.28",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899561573",
+      "model": "020V008965580000P",
+      "created_at": 1425958016,
+      "name": "Acer Laptops",
+      "mpn": "CB5-311-T9Y2",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899561573",
+      "updated_at": 1521615782,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/b22e4a11083545e538673b2a9799e1d5,0.jpg"
+      ],
+      "weight": "3175146.59",
+      "sitedetails": [
+        {
+          "url":
+            "http://www.kmart.com/acer-cb5-13.3inch-notebook-with-nvidia-tegra-k1/p-020V008965580000P",
+          "latestoffers": [
+            {
+              "id": "5uI1IGBaQCOIMwQeKqIQ04",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1425958000,
+              "price": "301.99",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1425958000,
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "020V008965580000P",
+          "name": "kmart.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "211.97",
+              "lastrecorded_at": 1480324100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1480324100,
+              "id": "7MBKdjfwoK42ms4uY8sIAE",
+              "condition": "Refurbished",
+              "availability": "Available",
+              "seller": "Tech For Less LLC"
+            },
+            {
+              "price": "324.49",
+              "lastrecorded_at": 1480074900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1480074900,
+              "id": "57gJSsGt1kMck0Aq2yu08A",
+              "condition": "Refurbished",
+              "availability": "Available",
+              "seller": "Tech For Less LLC"
+            },
+            {
+              "price": "333.97",
+              "lastrecorded_at": 1479369800,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1479058300,
+              "id": "0zEFR6zfWGOAm4WgAEgcQy",
+              "condition": "Refurbished",
+              "availability": "Available",
+              "seller": "Tech For Less LLC"
+            }
+          ],
+          "url": "http://www.rakuten.com/prod/268768082.html",
+          "name": "rakuten.com",
+          "recentoffers_count": 0,
+          "sku": "268768082"
+        },
+        {
+          "sku": "760904",
+          "recentoffers_count": 0,
+          "name": "datavis.com",
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=760904",
+          "latestoffers": [
+            {
+              "price": "276.72",
+              "lastrecorded_at": 1437340700,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1436076400,
+              "id": "1XdKkSdJC0sc2QEcYyy4ic",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "287.27",
+              "lastrecorded_at": 1435346000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1434710200,
+              "id": "1FEE0Z62MoSO2oUKu6GWeS",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "284.00",
+              "lastrecorded_at": 1433156500,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1433156500,
+              "id": "745ih1WdSSgey8qgqiASa2",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            }
+          ]
+        },
+        {
+          "url":
+            "http://www.bestbuy.com/site/acer-13-3-led-comfyview-chromebook-nvidia-tegra-k1-cd570m-a1-2-10-ghz-white/1312191400.p",
+          "latestoffers": [
+            {
+              "price": "415.61",
+              "lastrecorded_at": 1428492900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1428492900,
+              "id": "6tHx03QZHccqgeEWaq62Wa",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Compzilla"
+            }
+          ],
+          "recentoffers_count": 0,
+          "sku": "1312191400",
+          "name": "bestbuy.com"
+        },
+        {
+          "name": "antonline.com",
+          "recentoffers_count": 0,
+          "sku": "1138315",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1434119600,
+              "price": "281.49",
+              "availability": "Available",
+              "seller": "ANTOnline",
+              "id": "3vDFJ5q0V6mUWQooGisIis",
+              "lastrecorded_at": 1434119600,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "price": "292.38",
+              "firstrecorded_at": 1431185500,
+              "id": "0mFGGPnWtc0CUiUaWKY68S",
+              "lastrecorded_at": 1431185500,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "id": "5xbS6K1Tk0OWAMuaWsKEQ4",
+              "seller": "ANTOnline",
+              "firstrecorded_at": 1429563400,
+              "price": "289.69",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1429563400,
+              "isactive": 0
+            }
+          ],
+          "url":
+            "http://www.antonline.com/p_Acer--NX.MPRAA.004--Acer-Chromebook-CB5-311-T9Y2---13.3----Tegra-K1-CD570M-A1---Chrome-OS---4-G_1138315.htm"
+        },
+        {
+          "name": "officedepot.com",
+          "recentoffers_count": 0,
+          "sku": "159343",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1432747700,
+              "currency": "USD",
+              "price": "245.99",
+              "availability": "Available",
+              "firstrecorded_at": 1428629200,
+              "seller": "Office Depot",
+              "id": "2Mmxu8KIg4mS4Q0kwUsiaS",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.officedepot.com/a/products/159343"
+        },
+        {
+          "sku": "B00M789XJ2",
+          "recentoffers_count": 0,
+          "name": "amazon.com",
+          "url": "http://www.amazon.com/dp/B00M789XJ2",
+          "latestoffers": [
+            {
+              "price": "478.03",
+              "lastrecorded_at": 1509885500,
+              "shipping": "749",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1492943700,
+              "id": "43gMwudxGScGeScuQmicE8",
+              "condition": "new",
+              "availability": "Available",
+              "seller": "bikaiGroup"
+            },
+            {
+              "price": "399.00",
+              "lastrecorded_at": 1502617400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1502617400,
+              "id": "3iQ1q8lmoaCSg2OIs8Eaum",
+              "condition": "new",
+              "availability":
+                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "seller": "Ascend Ecommerce"
+            },
+            {
+              "price": "419.00",
+              "lastrecorded_at": 1501258100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1497541800,
+              "id": "2sVpdTKI9ImcOusSYeeQ68",
+              "condition": "new",
+              "availability":
+                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+              "seller": "Ascend Ecommerce"
+            }
+          ]
+        }
+      ],
+      "description":
+        "13.3 inch ( 1366 x 768), Tegra K1 - NVIDIA 4-Plus-... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "Chromebooks",
+        "Maximum Screen Resolution": "1366 x 768",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "Nvidia",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "L2 - 2 MB",
+        "Hard Drive Capacity Range": "Less than 128GB",
+        "Networking Capability": "N/A",
+        "ENERGY STAR Compliant": "No",
+        "Hard Drive Capacity": "16GB",
+        "Hard Drive Type": "Solid State Drive (SSD)",
+        "Operating System Version": "Chrome OS",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "No",
+        "Manufacturer Warranty - Labor": "Limited warranty - 1 year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "No Operating System",
+        "CPU Speed Range": "2.0 to 3 GHz",
+        "Battery Life Range": "9hrs -11.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium-Ion(LiIon)",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Chrome",
+        "Total USB 2.0 Ports": "None",
+        "CPU Series": "Tegra K1",
+        "Total USB 3.0 Ports": "2",
+        "Max Resolution Format": "720p",
+        "Maximum Memory Supported": "4",
+        "CPU Brand": "Other Brand",
+        "Manufacturer Warranty - Software": "Limited warranty - 1 year",
+        "CPU Speed": "2.1",
+        "Manufacturer Warranty - Hardware": "Limited warranty - 1 year",
+        "Screen Size Range": "11 inches to 14.9 inches",
+        "GPU Video Type": "GeForce Graphics",
+        "Optical Audio Port": "No port",
+        "General Warranty": "Limited warranty - 1 year",
+        "Package Contents": "CB5 Notebook, Lithium Ion Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "4",
+        "Wireless Networking": "802.11AC",
+        "Backlit Keyboard": "No",
+        "Battery Life (hrs)": "11",
+        "CPU Core": "Quad-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "No Drive",
+        "SSD Boot Drive": "Yes",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "N/A",
+        "Hard Drive Speed": "Variable",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "blob":
+          "NVIDIA Tegra K1 CD570M-A1 Quad-core 2.10 GHz; 4 GB DDR3L SDRAM; 16GB eMMC; 13.3\" HD (1366 x 768) 16:9; Operating System: Chrome OS",
+        "E-Sata Port": "No",
+        "Memory Range": "2.1GB - 4GB",
+        "VGA Out": "No",
+        "Battery Cells": "4-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "No"
+      },
+      "images_total": 1,
+      "category": "Desktops"
+    },
+    {
+      "gtins": ["00887899559129"],
+      "sem3_id": "1457I5vGwIAq0O2giaSokA",
+      "color": "Silver/gray",
+      "cat_id": "4672",
+      "width": "304.80",
+      "length": "495.30",
+      "height": "66.04",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899559129",
+      "model": "020V008708809000P",
+      "created_at": 1420309044,
+      "name": "Acer Laptops",
+      "mpn": "NV570P31U",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899559129",
+      "updated_at": 1506246213,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/b811bff2b9d950305b1d92fb7a17877d,0.jpg"
+      ],
+      "weight": "3175146.59",
+      "sitedetails": [
+        {
+          "url":
+            "http://www.kmart.com/acer-gateway-nv570-15.6inch-touchscreen-notebook-with-intel/p-020V008708809000P",
+          "latestoffers": [
+            {
+              "id": "41sljr41hAC0uIsSm6cwiy",
+              "firstrecorded_at": 1420309000,
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "price": "444.64",
+              "lastrecorded_at": 1420309000,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "020V008708809000P",
+          "recentoffers_count": 0,
+          "name": "kmart.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "580.01",
+              "lastrecorded_at": 1462812900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1462812900,
+              "id": "0nt6pJZNiiEYg8uKqSCYGa",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "Brawta"
+            },
+            {
+              "price": "491.00",
+              "lastrecorded_at": 1462488200,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1462488200,
+              "id": "1X6UJU1VKO64yCeOKq2iay",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "buyoo - Trusted Lowest Price"
+            },
+            {
+              "price": "503.00",
+              "lastrecorded_at": 1462202000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1461317600,
+              "id": "4hGizGhPlgkO6iCs4i0q0Y",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "buyoo - Trusted Lowest Price"
+            }
+          ],
+          "sku": "265486572",
+          "name": "rakuten.com",
+          "recentoffers_count": 0,
+          "url": "http://www.rakuten.com/prod/265486572.html"
+        },
+        {
+          "recentoffers_count": 0,
+          "url":
+            "http://www.bestbuy.com/site/gateway-15-6-touchscreen-led-notebook-intel-core-i3-i3-3217u-1-80-ghz-multi/1311173957.p",
+          "sku": "1311173957",
+          "latestoffers": [
+            {
+              "price": "545.57",
+              "lastrecorded_at": 1456072100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1454106400,
+              "id": "1mQu5ppI7k2UqwUOKw62We",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "IPCStore"
+            },
+            {
+              "price": "561.09",
+              "lastrecorded_at": 1451604300,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1451604300,
+              "id": "14iU1t4cxyS2SAI04eW0qQ",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "IPCStore"
+            },
+            {
+              "price": "455.83",
+              "lastrecorded_at": 1448257000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1448257000,
+              "id": "05dBzxVTWuOOcG4SgwAaiY",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "LimitedGoods"
+            }
+          ],
+          "name": "bestbuy.com"
+        },
+        {
+          "name": "antonline.com",
+          "recentoffers_count": 0,
+          "sku": "1129134",
+          "latestoffers": [
+            {
+              "price": "455.41",
+              "availability": "Available",
+              "lastrecorded_at": 1447736700,
+              "firstrecorded_at": 1447736700,
+              "id": "7Mw1VxiQRkiSKE4A4kYGyk",
+              "currency": "USD",
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "price": "454.34",
+              "lastrecorded_at": 1447281100,
+              "availability": "Available",
+              "id": "3woBNTF7IWSkeeKq4MWosi",
+              "firstrecorded_at": 1447281100,
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1443526300,
+              "id": "5nVKAKzcnI2Kmesi4ueAgs",
+              "seller": "ANTOnline",
+              "currency": "USD",
+              "price": "456.58",
+              "availability": "Available",
+              "lastrecorded_at": 1445914800,
+              "isactive": 0
+            }
+          ],
+          "url":
+            "http://www.antonline.com/p_Acer--NX.Y3XAA.015--Gateway-NV570P31u-33214G50Mnik---15.6----Core-i3-3217U---Windows-8.1-64-bit_1129134.htm"
+        },
+        {
+          "recentoffers_count": 0,
+          "name": "officedepot.com",
+          "sku": "116521",
+          "latestoffers": [
+            {
+              "price": "409.99",
+              "availability": "Available",
+              "lastrecorded_at": 1445814000,
+              "firstrecorded_at": 1439677100,
+              "id": "3nAx4DVjLU0EeAYO4kM242",
+              "currency": "USD",
+              "seller": "Office Depot",
+              "isactive": 0
+            },
+            {
+              "id": "4AC0JzdqyWQKwCMSuaukG2",
+              "firstrecorded_at": 1428629500,
+              "currency": "USD",
+              "seller": "Office Depot",
+              "price": "479.99",
+              "lastrecorded_at": 1430761200,
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.officedepot.com/a/products/116521"
+        }
+      ],
+      "description":
+        "Gateway NV570P31u-33214G50Mnik - Core i3 3217U 1.8... (visit site URLs for full description)",
+      "features": {
+        "Screen Resolution": "1366 x 768",
+        "Manufacturer Website Address": "http://us.acer.com",
+        "Graphics Controller Manufacturer": "Intel",
+        "Wireless LAN Model": "WB335",
+        "Multi-touch Screen": "Yes",
+        "Memory": "Standard Memory",
+        "Power Description": "Maximum Power Supply Wattage",
+        "Maximum Memory": "8 GB",
+        "Cache": "3 MB",
+        "Aspect Ratio": "16:9",
+        "Display & Graphics": "Screen Size",
+        "Graphics Memory Accessibility": "Shared",
+        "Operating System Architecture": "64-bit",
+        "Direct Media Interface": "5 GT/s",
+        "Wireless LAN Standard": "IEEE 802.11b/g/n",
+        "Software": "Operating System Platform",
+        "Input Devices": "Keyboard",
+        "Processor Type": "Core i3",
+        "Product Series": "NV570P",
+        "Total Number of USB Ports": "3",
+        "TouchPad Features": "Multi-touch Gesture",
+        "Network (RJ-45)": "Yes",
+        "Microphone": "Yes",
+        "Optical Media Supported": "DVD-RAM/R/RW",
+        "Network & Communication": "Wireless LAN",
+        "Product Type": "Notebook",
+        "Touchscreen": "Yes",
+        "Memory Technology": "DDR3 SDRAM",
+        "Audio Line Out": "Yes",
+        "Finger Print Reader": "No",
+        "Battery Capacity": "2500 mAh",
+        "Processor Core": "Dual-core (2 Core)",
+        "Processor & Chipset": "Processor Manufacturer",
+        "TV Card": "No",
+        "Operating System": "Windows 8.1",
+        "Bluetooth": "Yes",
+        "Miscellaneous": "Package Contents",
+        "Physical Characteristics": "Height",
+        "VGA": "Yes",
+        "Display Screen Type": "Active Matrix TFT Color LCD",
+        "Battery Chemistry": "Lithium Ion (Li-Ion)",
+        "Built-in Devices": "Webcam",
+        "Speakers": "Yes",
+        "Memory Card Reader": "Yes",
+        "i3543-000BLK": "$442.22",
+        "Weight (Approximate)": "5.84 lb",
+        "Ethernet Technology": "Gigabit Ethernet",
+        "NX.V98AA.002": "$580.20",
+        "Maximum Battery Run Time": "4 Hour",
+        "64-bit Processing": "Yes",
+        "Pointing Device Type": "TouchPad",
+        "Graphics Memory Technology": "DDR3 SDRAM",
+        "Screen Mode": "HD",
+        "Hyper-Threading": "Yes",
+        "HDCP Supported": "Yes",
+        "Product Model": "NV570P31u-33214G50Mnik",
+        "Optical Drive Type": "DVD-Writer",
+        "Number of USB 2.0 Ports": "2",
+        "Number of USB 3.0 Ports": "1",
+        "Processor Speed": "1.80 GHz",
+        "Battery Information": "Number of Cells",
+        "Graphics Controller Model": "HD 4000",
+        "Wireless LAN Manufacturer": "Atheros",
+        "Battery Energy": "37 Wh",
+        "Processor Model": "i3-3217U",
+        "Storage": "Hard Drive Capacity",
+        "Chipset Manufacturer": "Intel",
+        "L8E07UT#ABA": "$492.90",
+        "Interfaces/Ports": "HDMI",
+        "Memory Card Supported": "Secure Digital (SD) Card",
+        "Backlight Technology": "LED",
+        "blob":
+          "Microsoft Windows 8.1 operating system preinstalled. Upgrade to Windows 10 for free** - it's easy. Learn more about Windows 10 âº; 15.6\" touch screen for hands-on control. Touch navigation makes the most of Windows 8.1. Typical 1366 x 768 resolution. Energy-efficient LED backlight.; 3rd Gen IntelÂ® Coreâ¢ i3-3217U processor. Smart dual-core, four-way processing performance for HD-quality computing.; 4GB system memory for basic multitasking. Adequate high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once.; 500GB hard drive for serviceable file storage space. Holds your growing collection of digital photos, music and videos.; IntelÂ® HD Graphics 4000. Third-generation on-processor graphics provide proficient image quality for Internet use, photo editing, video streaming and casual games.; Weighs 5.84 lbs. and measures 1.1\" thin. Balances portability and screen size, so you get a respectable amount of viewing space without the laptop being too cumbersome for practical portability. 4-cell lithium-ion battery.; Bluetooth interface syncs with compatible devices. Wirelessly transfer photos, music and other media between the laptop and your Bluetooth-enabled cell phone or MP3 player, or connect Bluetooth wireless accessories.; 1 USB 3.0 port maximizes the latest high-speed devices. Also includes 2 USB 2.0 ports to connect more accessories and peripherals. The USB 3.0 port is backward-compatible with USB 2.0 devices (at 2.0 speeds).; HDMI output expands your viewing options. Connect to an HDTV or high-def monitor to set up two screens side by side or just see more of the big picture.; Built-in media reader for simple photo transfer. Supports SD memory card format.; Wireless and wired network connectivity. Built-in high-speed wireless LAN connects to your network or hotspots on the most common Wi-Fi standards. The Gigabit Ethernet LAN port also plugs into wired networks.; Built-in webcam with microphone. Makes it easy to video chat with family and friends or teleconference with colleagues over Skype or other popular applications.; DVD/CD burner. Reads and writes to a variety of media formats, including DVD+R/RW, DVD-R/RW and CD-R/RW.; Additional ports. VGA output. Audio line out.; Intel, Pentium, Celeron, Core, Atom, Ultrabook, Intel Inside and the Intel Inside logo are trademarks or registered trademarks of Intel Corporation or its subsidiaries in the United States and other countries.; **Offer valid for qualified Windows devices for one year after Windows 10 upgrade availability. Windows 10 features vary by device. See www.windows.com/windows10specs for details",
+        "Chipset Model": "HM77 Express"
+      },
+      "images_total": 1,
+      "category": "Desktops"
+    },
+    {
+      "gtins": ["00887899677571"],
+      "sem3_id": "6DklmHubhYIGiEgOO8uQou",
+      "color": "Black",
+      "cat_id": "4672",
+      "width": "236.22",
+      "length": "383.54",
+      "height": "76.20",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899677571",
+      "model": "020V008487832000P",
+      "created_at": 1420309013,
+      "name": "Acer Laptops",
+      "mpn": "E552164BT",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899677571",
+      "updated_at": 1506246074,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/2a8ca6c5be0806bf23c3b6d536e6199a,0.jpg"
+      ],
+      "weight": "3175146.59",
+      "sitedetails": [
+        {
+          "sku": "020V008487832000P",
+          "name": "kmart.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1420309000,
+              "currency": "USD",
+              "firstrecorded_at": 1420309000,
+              "id": "50Oxy70FoGmwWKGccuuGoK",
+              "price": "447.99",
+              "seller": "Sears Brands, LLC.",
+              "isactive": 0
+            }
+          ],
+          "url":
+            "http://www.kmart.com/acer-aspire-e5-521-15.6inch-notebook-with-amd/p-020V008487832000P",
+          "recentoffers_count": 0
+        },
+        {
+          "url":
+            "http://www.overstock.com/Electronics/Acer-Aspire-E5-521-64BT-15.6-LED-Notebook-AMD-A-Series-A6-6310-1.8/9426586/product.html",
+          "recentoffers_count": 0,
+          "name": "overstock.com",
+          "latestoffers": [
+            {
+              "availability": "Not available",
+              "lastrecorded_at": 1444324000,
+              "currency": "USD",
+              "firstrecorded_at": 1442118300,
+              "id": "6PC8218Hhoc4IWQaiaCMym",
+              "price": "505.31",
+              "seller": "Overstock",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1429469500,
+              "availability": "Not available",
+              "currency": "USD",
+              "firstrecorded_at": 1429469500,
+              "seller": "Overstock",
+              "id": "4mKyThfntgG2sWsyGQg2c0",
+              "price": "504.55",
+              "isactive": 0
+            },
+            {
+              "id": "3pyXz1ju80mM6qiouUm04O",
+              "price": "448.99",
+              "seller": "Overstock",
+              "firstrecorded_at": 1425159200,
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1428113300,
+              "isactive": 0
+            }
+          ],
+          "sku": "9426586"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=752407",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "468.22",
+              "lastrecorded_at": 1437426900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1434680600,
+              "id": "6TUKI1QywqI04Mc8uqYSwS",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "OUT OF STOCK",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "459.86",
+              "lastrecorded_at": 1433150100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1429820300,
+              "id": "4KOihn0aMagsE0EO6qKosC",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            }
+          ],
+          "name": "datavis.com",
+          "sku": "752407"
+        },
+        {
+          "name": "antonline.com",
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1431185300,
+              "currency": "USD",
+              "firstrecorded_at": 1431185300,
+              "price": "453.14",
+              "id": "3ffy4zEVSCQQKqieqsoAWG",
+              "seller": "ANTOnline",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1429563500,
+              "id": "6LIM8hVmgiaYI8s8GSWOGm",
+              "price": "451.08",
+              "seller": "ANTOnline",
+              "availability": "Available",
+              "lastrecorded_at": 1429563500,
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1428589300,
+              "currency": "USD",
+              "firstrecorded_at": 1428589300,
+              "price": "451.26",
+              "id": "1QCeJH57IiQAGgaiYsCeyG",
+              "seller": "ANTOnline",
+              "isactive": 0
+            }
+          ],
+          "url":
+            "http://www.antonline.com/p_Acer--NX.MLFAA.006--Acer-Aspire-E5-521-64BT-15.6--LED-Notebook---AMD-A-Series-A6-6310-1.80-GHz---Black---6-GB-RAM---500-GB-HDD---DVD-Writer---AMD---Windows-8.1-64-bit---1366-x-768-Display---Bluetooth_1132628.htm",
+          "recentoffers_count": 0,
+          "sku": "1132628"
+        },
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1430761700,
+              "currency": "USD",
+              "firstrecorded_at": 1428629500,
+              "price": "449.99",
+              "id": "4J8JZXpIfgoAqICckUgsgu",
+              "seller": "Office Depot",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.officedepot.com/a/products/119446",
+          "sku": "119446",
+          "name": "officedepot.com",
+          "recentoffers_count": 0
+        },
+        {
+          "url":
+            "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9496582",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect",
+              "price": "209.99",
+              "id": "24xToHio76YEcMucucCAsQ",
+              "firstrecorded_at": 1465974600,
+              "currency": "USD",
+              "lastrecorded_at": 1469013400,
+              "availability": "ADD TO CART",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1448314000,
+              "price": "399.99",
+              "id": "1Gl7F3igp6kM6u8q4owsaW",
+              "seller": "TigerDirect",
+              "firstrecorded_at": 1448314000,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1447629500,
+              "currency": "USD",
+              "firstrecorded_at": 1447629500,
+              "id": "4QDvmhafbcW8IQ6WiCQqKc",
+              "price": "299.99",
+              "seller": "TigerDirect",
+              "isactive": 0
+            }
+          ],
+          "sku": "9496582",
+          "recentoffers_count": 0,
+          "name": "tigerdirect.com"
+        }
+      ],
+      "description":
+        "Acer Aspire E5-521-64BT - A series A6-6310 1.8 GHz... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "PC laptops",
+        "Maximum Screen Resolution": "1366 x 768",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "AMD",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "L2 - 2 MB",
+        "Hard Drive Capacity Range": "500GB to 749GB",
+        "Networking Capability": "Gigabit Ethernet",
+        "ENERGY STAR Compliant": "No",
+        "Hard Drive Capacity": "500GB",
+        "Hard Drive Type": "Standard",
+        "Operating System Version": "Windows 8.1",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "Yes",
+        "Manufacturer Warranty - Labor": "Limited warranty - 1 year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "64-bit",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "3hrs - 5.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium-Ion(LiIon)",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Windows",
+        "Total USB 2.0 Ports": "2",
+        "CPU Series": "A6-6310",
+        "Total USB 3.0 Ports": "1",
+        "Max Resolution Format": "720p",
+        "Maximum Memory Supported": "16 GB",
+        "CPU Brand": "AMD",
+        "Manufacturer Warranty - Software": "Limited warranty - 1 year",
+        "CPU Speed": "1.8",
+        "Manufacturer Warranty - Hardware": "Limited warranty - 1 year",
+        "Screen Size Range": "15 inches to 15.9 inches",
+        "GPU Video Type": "HD Graphics",
+        "Optical Audio Port": "No port",
+        "General Warranty": "Limited warranty - 1 year",
+        "Package Contents":
+          "Aspire E5-521 Notebook, Lithium Ion Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "6",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "No",
+        "Battery Life (hrs)": "5",
+        "CPU Core": "Quad-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "DVD-SuperMulti",
+        "SSD Boot Drive": "No",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "N/A",
+        "Hard Drive Speed": "5400 rpm",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "blob":
+          "AMD A6-6310 Quad-Core 1.8GHz processor; allows you to do more PC-related activities; 6GB DDR3L RAM; runs various applications and programs at the same time; 15.6\" HD Widescreen CineCrystal LED-backlit Display; enables HD video viewing; 1TB HDD; allows storage for numerous amounts of videos and photos; Wi-Fi 802.11b/g/n, 10/100/1000 Gigabit Ethernet LAN; provides seamless Internet connection; AMD Radeon R4 Graphics; seamlessly handles graphic requirements of any application; AMD A6-6310 Quad-Core 1.8GHz processor; allows you to do more PC-related activities; 6GB DDR3L RAM; runs various applications and programs at the same time; 15.6\" HD Widescreen CineCrystal LED-backlit Display; enables HD video viewing; 1TB HDD; allows storage for numerous amounts of videos and photos; Wi-Fi 802.11b/g/n, 10/100/1000 Gigabit Ethernet LAN; provides seamless Internet connection; AMD Radeon R4 Graphics; seamlessly handles graphic requirements of any application; AMD A6-6310 Quad-Core 1.8GHz processor; allows you to do more PC-related activities; 6GB DDR3L RAM; runs various applications and programs at the same time; 15.6\" HD Widescreen CineCrystal LED-backlit Display; enables HD video viewing; 1TB HDD; allows storage for numerous amounts of videos and photos; Wi-Fi 802.11b/g/n, 10/100/1000 Gigabit Ethernet LAN; provides seamless Internet connection; AMD Radeon R4 Graphics; seamlessly handles graphic requirements of any application; AMD A6-6310 Quad-Core 1.8GHz processor; allows you to do more PC-related activities; 6GB DDR3L RAM; runs various applications and programs at the same time; 15.6\" HD Widescreen CineCrystal LED-backlit Display; enables HD video viewing; 1TB HDD; allows storage for numerous amounts of videos and photos; Wi-Fi 802.11b/g/n, 10/100/1000 Gigabit Ethernet LAN; provides seamless Internet connection; AMD Radeon R4 Graphics; seamlessly handles graphic requirements of any application; Box Size: ( Length:20, Width:15, Depth:5);",
+        "E-Sata Port": "No",
+        "Memory Range": "4.1GB - 6GB",
+        "VGA Out": "Yes",
+        "Battery Cells": "6-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "No"
+      },
+      "images_total": 1,
+      "category": "Desktops"
+    },
+    {
+      "gtins": ["00887899297403"],
+      "sem3_id": "1aJFQGamXgCYS8SkQiGQ4u",
+      "color": "Silver/gray",
+      "cat_id": "12855",
+      "width": "231.14",
+      "length": "378.46",
+      "height": "73.66",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899297403",
+      "model": "020V008771660000P",
+      "created_at": 1420309089,
+      "name": "Acer Laptops",
+      "mpn": "C7202844",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899297403",
+      "updated_at": 1497491571,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/4da1930e8fba84105c8752f929af6b57,0.jpg"
+      ],
+      "weight": "2267961.85",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "availability": "Available",
+              "lastrecorded_at": 1420309000,
+              "price": "269.99",
+              "currency": "USD",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1420309000,
+              "id": "5922cgQUPoKkaEAGAuyS8q",
+              "isactive": 0
+            }
+          ],
+          "sku": "020V008771660000P",
+          "recentoffers_count": 0,
+          "name": "kmart.com",
+          "url":
+            "http://www.kmart.com/acer-c720-11.6inch-led-chromebook-with-intel-celeron/p-020V008771660000P"
+        },
+        {
+          "name": "rakuten.com",
+          "recentoffers_count": 0,
+          "sku": "259162822",
+          "latestoffers": [
+            {
+              "price": "390.83",
+              "lastrecorded_at": 1490597100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1489481800,
+              "id": "1tD1bL9H6CMAKyAiS2Ew0m",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "TradeBuy"
+            },
+            {
+              "price": "390.78",
+              "lastrecorded_at": 1489215100,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1488829700,
+              "id": "187RofJdloEuA8C80yY6cQ",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "TradeBuy"
+            },
+            {
+              "price": "459.69",
+              "lastrecorded_at": 1488414000,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1488365600,
+              "id": "0dGfwCB5hMsE2GckcCMwEO",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "TradeBuy"
+            }
+          ],
+          "url": "http://www.rakuten.com/prod/259162822.html"
+        },
+        {
+          "url": "http://www.rakuten.com/prod/271712355.html",
+          "recentoffers_count": 0,
+          "name": "rakuten.com",
+          "latestoffers": [
+            {
+              "price": "307.89",
+              "lastrecorded_at": 1444844200,
+              "shipping": "928",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1426234100,
+              "id": "7KDfwQCJmKCGI0SQoGwe22",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "IPC Store"
+            },
+            {
+              "price": "296.99",
+              "lastrecorded_at": 1436926600,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1428334400,
+              "id": "7eSc9mhlBouYiaIigMQamo",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "GeekZilla"
+            },
+            {
+              "price": "306.38",
+              "lastrecorded_at": 1427806300,
+              "shipping": "939",
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1426234100,
+              "id": "6VDv6uNJHEoCYc0uqY2kYe",
+              "condition": "New",
+              "availability": "Available",
+              "seller": "GeekZilla"
+            }
+          ],
+          "sku": "271712355"
+        },
+        {
+          "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=738269",
+          "name": "datavis.com",
+          "recentoffers_count": 0,
+          "sku": "738269",
+          "latestoffers": [
+            {
+              "price": "277.01",
+              "lastrecorded_at": 1449977800,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1449977800,
+              "id": "09PzNGiFOoS2KkKuEKS6k6",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "288.27",
+              "lastrecorded_at": 1448748400,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1439583500,
+              "id": "7mDZCje2Fc2USaqqcoKqgU",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            },
+            {
+              "price": "276.72",
+              "lastrecorded_at": 1438079900,
+              "isactive": 0,
+              "currency": "USD",
+              "firstrecorded_at": 1437418800,
+              "id": "2WQHZgVraOQs46ucegkkcC",
+              "condition": "Brand New Factory Sealed with Full USA Warranty",
+              "availability": "In Stock",
+              "seller": "DataVision Computer Video"
+            }
+          ]
+        }
+      ],
+      "description":
+        "Acer Chromebook C720-2844 - Celeron 2955U 1.4 GHz ... (visit site URLs for full description)",
+      "features": {
+        "Laptop Type": "Chromebooks",
+        "Maximum Screen Resolution": "1366 x 768",
+        "3D Glasses Included": "None",
+        "Webcam Included": "Yes",
+        "GPU Chipset": "Intel",
+        "Total Serial Ports": "None",
+        "CPU Cache (MB)": "L3 - 2 MB",
+        "Hard Drive Capacity Range": "Less than 128GB",
+        "Networking Capability": "N/A",
+        "ENERGY STAR Compliant": "Yes",
+        "Hard Drive Capacity": "16GB",
+        "Hard Drive Type": "Solid State Drive (SSD)",
+        "Operating System Version": "Chrome OS",
+        "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
+        "Numeric Keypad": "No",
+        "Manufacturer Warranty - Labor": "Limited warranty - 1 year",
+        "Total FireWire Ports": "None",
+        "HDMI Ports": "1",
+        "HDMI Outputs": "Yes",
+        "32-bit or 64-bit OS": "No Operating System",
+        "CPU Speed Range": "1.4 to 1.9 GHz",
+        "Battery Life Range": "6hrs - 8.9hrs",
+        "Touch Screen": "No",
+        "Battery Type": "Lithium polymer",
+        "Built In Speakers": "Yes",
+        "Hard Drive Interface": "SATA II (3 Gb/s)",
+        "Operating System": "Chrome",
+        "Total USB 2.0 Ports": "1",
+        "CPU Series": "Celeron 2955U",
+        "Total USB 3.0 Ports": "1",
+        "Max Resolution Format": "720p",
+        "Maximum Memory Supported": "4 GB",
+        "CPU Brand": "Intel",
+        "Manufacturer Warranty - Software": "Limited warranty - 1 year",
+        "CPU Speed": "1.4",
+        "Manufacturer Warranty - Hardware": "Limited warranty - 1 year",
+        "Screen Size Range": "11 inches to 14.9 inches",
+        "GPU Video Type": "HD Graphics",
+        "Optical Audio Port": "No port",
+        "General Warranty": "Limited warranty - 1 year",
+        "Package Contents":
+          "C720 Chromebook, Lithium Polymer Battery, AC Adapter",
+        "3D Ready": "No",
+        "Lifestyle": "Home & Student",
+        "Total Parallel Ports": "None",
+        "Mouse Type": "Touchpad",
+        "GPU Memory": "Shared",
+        "Total System Memory": "4",
+        "Wireless Networking": "802.11N",
+        "Backlit Keyboard": "No",
+        "Battery Life (hrs)": "8",
+        "CPU Core": "Dual-core",
+        "Display Type": "LED-backlit",
+        "Optical Drive Type": "No Drive",
+        "SSD Boot Drive": "Yes",
+        "Memory Type": "DDR3",
+        "Condition": "New",
+        "TV Tuner": "No",
+        "Included Software Bundles": "N/A",
+        "Hard Drive Speed": "Variable",
+        "PC Card Type": "None",
+        "WiDi Ready (Intel Wireless Display)": "No",
+        "E-Sata Port": "No",
+        "Memory Range": "2.1GB - 4GB",
+        "VGA Out": "No",
+        "Battery Cells": "3-cell",
+        "Headphone Jacks, Number": "1",
+        "Fingerprint Reader": "No"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    },
+    {
+      "gtins": ["00887899645013"],
+      "sem3_id": "4Gn3YZBxLEEYOMaqUySqaK",
+      "color": "Multi",
+      "cat_id": "12855",
+      "width": "274.32",
+      "length": "444.50",
+      "height": "86.36",
+      "price_currency": "USD",
+      "brand": "Acer",
+      "upc": "887899645013",
+      "model": "020V008708821000P",
+      "created_at": 1420309097,
+      "name": "Acer Laptops",
+      "mpn": "S73925454",
+      "messages": [],
+      "geo": ["usa"],
+      "ean": "0887899645013",
+      "updated_at": 1506246117,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/09fd4b7726f21ec34bff20024056aa39,0.jpg"
+      ],
+      "weight": "2721554.22",
+      "sitedetails": [
+        {
+          "sku": "020V008708821000P",
+          "latestoffers": [
+            {
+              "price": "1349.99",
+              "availability": "Available",
+              "seller": "Sears Brands, LLC.",
+              "firstrecorded_at": 1420309000,
+              "lastrecorded_at": 1420309000,
+              "id": "2tqF7Z0fWK8UuCO62qmg8E",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "url":
+            "http://www.kmart.com/acer-aspire-s7-392-13.3inch-touchscreen-ultrabook-with/p-020V008708821000P",
+          "name": "kmart.com",
+          "recentoffers_count": 0
+        },
+        {
+          "latestoffers": [
+            {
+              "price": "1220.99",
+              "firstrecorded_at": 1439761900,
+              "seller": "Office Depot",
+              "lastrecorded_at": 1444951800,
+              "currency": "USD",
+              "id": "07NODzQHaa00A40M4coEIQ",
+              "isactive": 0
+            },
+            {
+              "id": "5KWgktQfFAQQgOO0QACouI",
+              "currency": "USD",
+              "lastrecorded_at": 1430761600,
+              "seller": "Office Depot",
+              "firstrecorded_at": 1428629500,
+              "price": "1349.99",
+              "availability": "Available",
+              "isactive": 0
+            }
+          ],
+          "sku": "118393",
+          "url": "http://www.officedepot.com/a/products/118393",
+          "name": "officedepot.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "description":
+        "Acer Aspire S7-392-54208G12tws - Ultrabook - Core ... (visit site URLs for full description)",
+      "features": {
+        "screen resolution": "1920 x 1080",
+        "Graphics Controller Manufacturer": "Intel",
+        "Wireless LAN Model": "Wireless-N 7260",
+        "sensor type": "Ambient Light Sensor",
+        "tablet processor model": "Core i5",
+        "integrated speakers": "Yes",
+        "Multi-touch Screen": "Yes",
+        "memory": "8 GB",
+        "optical drive": "none",
+        "Graphics Memory Accessibility": "Shared",
+        "Operating Systems": "Windows 8",
+        "peripherals included": "none",
+        "Product Line": "Aspire",
+        "Maximum Turbo Speed": "2.6 GHz",
+        "hard drive capacity": "128 GB",
+        "hard drive type": "Solid State Drive",
+        "total recycled content": "0%",
+        "Wireless LAN Standard": "IEEE 802.11a/b/g/n",
+        "numeric keypad": "no",
+        "tablet operating system": "Windows 8.1 Pro 64-bit",
+        "processor type": "i5-4200U",
+        "Total Number of USB Ports": "2",
+        "Network (RJ-45)": "Yes",
+        "warranty length": "1-year limited",
+        "modem": "no modem",
+        "diagonal screen size": "13.3 inches",
+        "Touchscreen": "Yes",
+        "Finger Print Reader": "No",
+        "battery capacity": "6280 mAh",
+        "front camera/webcam": "yes",
+        "TV Card": "No",
+        "screen type": "LCD",
+        "maximum battery life": "8 hours",
+        "Height (Front)": "0.51\"",
+        "operating system details": "Windows 8.1 Pro",
+        "tablet processor number": "i5-4200U",
+        "ports": "2 USB 3.0; 1 HDMI; Ethernet",
+        "processor": "Intel Core i5-4200U",
+        "Wi-Fi capability included (Wi-Fi ready)": "yes",
+        "computer battery type": "lithium-polymer",
+        "average battery life": "8 Hour",
+        "Acer Converter Port": "Yes",
+        "Additional Information": "Wireless LAN: Acer Nplify 802.11a/b/g/n",
+        "modem standard": "no modem",
+        "Solid State Drive Capacity": "128 GB",
+        "package contents":
+          "Aspire S7-392-54208G12tws Ultrabook; Lithium Polymer Battery; AC Adapter",
+        "postconsumer recycled content": "0%",
+        "memory card reader": "Yes",
+        "thickness": "0.5 inches",
+        "Certifications & Standards": "ACPI 3.0",
+        "Pointing Device Type": "TouchPad",
+        "Height (Rear)": "0.51\"",
+        "Keyboard Backlight": "Yes",
+        "Wireless LAN": "Yes",
+        "Hyper-Threading": "Yes",
+        "HDCP Supported": "Yes",
+        "HDMI": "Yes",
+        "wired connectivity": "Ethernet",
+        "processor brand": "Intel",
+        "Number of USB 3.0 Ports": "2",
+        "wireless connectivity": "802.11a/b/g/n; Bluetooth",
+        "memory type": "DDR3L SDRAM",
+        "maximum memory capacity": "8 GB",
+        "processor speed": "1.6 GHz",
+        "Acer Converter Cable Supported": "USB 2.0; Network (RJ-45); VGA",
+        "Graphics Controller Model": "HD 4400",
+        "Wireless LAN Manufacturer": "Intel",
+        "Webcam": "Yes",
+        "processor model": "i5-4200U",
+        "Memory Card Supported": "Secure Digital (SD) Card",
+        "Backlight Technology": "LED",
+        "storage capacity": "128 GB",
+        "tablet processor speed": "1.6 GHz"
+      },
+      "images_total": 1,
+      "category": "Laptops"
+    }
+  ],
+  "total_results_count": 100000
+}
