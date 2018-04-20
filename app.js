@@ -97,8 +97,14 @@ app.get('/filter', function(req, res) {
   })
 })
 
+app.get('/filter/brand', (req, res) => {
+  Notebooks.distinct('brand').exec((err, result)=>{
+    res.jsonp(result)
+  })
+})
+
 app.get('/api/products', (req, res) => {
-  NewProducts.find().exec((err, product) => {
+  Notebooks.find().exec((err, product) => {
     if (err) {
       console.log(err)
       return res.sendStatus(500)
@@ -109,7 +115,7 @@ app.get('/api/products', (req, res) => {
 })
 
 app.get('/api/product/id/:productID', (req, res) => {
-  NewProducts.find({
+  Notebooks.find({
     _id: req.params.productID
   }).exec((err, product) => {
     if (err) {
@@ -120,15 +126,16 @@ app.get('/api/product/id/:productID', (req, res) => {
   })
 })
 
-app.get('/api/sales/:pharse', (req, res) => {
-  NewProducts.find(
+app.get('/api/sales/:model', (req, res) => {
+  Notebooks.find(
     {
-      $text: {
-        $search: req.params.pharse
-      }
+      model: req.params.model
+      // $text: {
+      //   $search: req.params.pharse
+      // }
     },
     {
-      store: 1,
+      seller: 1,
       price: 1,
       url: 1
     }
@@ -142,7 +149,7 @@ app.get('/api/sales/:pharse', (req, res) => {
 })
 
 app.get('/api/search/category/:category', (req, res) => {
-  NewProducts.find({
+  Notebooks.find({
     $text: {
       $search: req.params.category
     }
