@@ -12,10 +12,9 @@
 // var razer = require("./allProduct/razer.json");
 // var msi = require("./allProduct/msi.json");
 
-var extracted = require("./extracted.json");
+var extracted = require("./extracted1.json");
 var filters = require("./fieldList.json");
 
-const _ = require("lodash");
 const fs = require("fs");
 
 // var fileList = [
@@ -91,20 +90,21 @@ const extractProduct = obj => {
 };
 
 // unused get field
-// const getFieldList = productList => {
-//   var keys = [];
-//   for (var object = 0; object < productList.length; object++) {
-//     for (var key in productList[object].features) {
-//       if (keys.indexOf(key) == -1) {
-//         keys.push(key);
-//       }
-//     }
-//   }
-//   fs.writeFileSync("./fieldList.json", JSON.stringify(keys.sort()));
-// };
+const getFieldList = productList => {
+  var keys = [];
+  for (var object = 0; object < productList.length; object++) {
+    for (var key in productList[object].features) {
+      if (keys.indexOf(key) == -1) {
+        keys.push(key);
+      }
+    }
+  }
+  console.log(keys.length)
+  fs.writeFileSync("./allField2.json", JSON.stringify(keys.sort()));
+};
 
 // get all field in features
-// getFieldList(extracted)
+getFieldList(extracted)
 
 // get product in each json
 // for (var i = 0; i < fileList.length; i++) {

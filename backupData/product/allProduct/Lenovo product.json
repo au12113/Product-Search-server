@@ -2,8 +2,7 @@
   "code": "OK",
   "offset": 0,
   "results_count": 10,
-  "results": [
-    {
+  "results": [{
       "gtins": ["00825633382084"],
       "sem3_id": "3cjmXJySyWCKGQASKc6MO0",
       "cat_id": "12855",
@@ -23,34 +22,28 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/939a3198049f8dc567bd06affe2a60e7,0.jpg"
       ],
       "weight": "1769010.24",
-      "sitedetails": [
-        {
-          "latestoffers": [
-            {
-              "availability": "Available",
-              "seller": "Office Max",
-              "currency": "USD",
-              "lastrecorded_at": 1407042100,
-              "firstrecorded_at": 1407042100,
-              "price": "279.99",
-              "id": "33x1RGhIEiyGk8i8M6yek8",
-              "isactive": 1
-            }
-          ],
+      "sitedetails": [{
+          "latestoffers": [{
+            "availability": "Available",
+            "seller": "Office Max",
+            "currency": "USD",
+            "lastrecorded_at": 1407042100,
+            "firstrecorded_at": 1407042100,
+            "price": "279.99",
+            "id": "33x1RGhIEiyGk8i8M6yek8",
+            "isactive": 1
+          }],
           "name": "officemax.com",
           "recentoffers_count": 1,
           "sku": "prod4790298",
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod4790298"
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod4790298"
         },
         {
-          "url":
-            "http://www.newegg.com/Product/Product.aspx?Item=9SIA43F23P2999",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=9SIA43F23P2999",
           "recentoffers_count": 0,
           "sku": "9SIA43F23P2999",
           "name": "newegg.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "firstrecorded_at": 1464096700,
               "lastrecorded_at": 1490071900,
               "currency": "USD",
@@ -73,8 +66,7 @@
           ]
         }
       ],
-      "description":
-        "Intel Core 2 Duo processor, 4 GB of memory, 160 GB... (visit site URLs for full description)",
+      "description": "Intel Core 2 Duo processor, 4 GB of memory, 160 GB... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1280x800",
         "Processor Series": "Core 2 Duo",
@@ -121,10 +113,8 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/0f3e205098fb13989932f728d8aae55a,0.jpg"
       ],
       "weight": "3628738.96",
-      "sitedetails": [
-        {
-          "latestoffers": [
-            {
+      "sitedetails": [{
+          "latestoffers": [{
               "price": "199.00",
               "lastrecorded_at": 1392561200,
               "shipping": "849",
@@ -133,8 +123,7 @@
               "firstrecorded_at": 1377062200,
               "id": "56bSZxDAIq2UuyCKU4CsEg",
               "condition": "Used - Good",
-              "availability":
-                "Ships in 1-2 business days. Ships from WA, United States. Expedited shipping available.",
+              "availability": "Ships in 1-2 business days. Ships from WA, United States. Expedited shipping available.",
               "seller": "mmerr"
             },
             {
@@ -156,8 +145,7 @@
               "firstrecorded_at": 1354067594,
               "id": "1mZpfL4NmO6uG4uc02m6AW",
               "condition": "Refurbished",
-              "availability":
-                "Ships in 1-2 business days. Ships from MN, United States.",
+              "availability": "Ships in 1-2 business days. Ships from MN, United States.",
               "seller": "Safe Harbor Systems"
             }
           ],
@@ -168,69 +156,58 @@
         },
         {
           "sku": "N82E16834310523",
-          "url":
-            "http://www.newegg.com/Product/Product.aspx?Item=N82E16834310523",
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16834310523",
           "name": "newegg.com",
-          "latestoffers": [
-            {
-              "id": "5dcobpHG1u0w2S2ieOSQGc",
-              "availability": "Not Available",
-              "price": "274.99",
-              "lastrecorded_at": 1485652500,
-              "firstrecorded_at": 1382639200,
-              "seller": "Newegg",
-              "currency": "USD",
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "id": "5dcobpHG1u0w2S2ieOSQGc",
+            "availability": "Not Available",
+            "price": "274.99",
+            "lastrecorded_at": 1485652500,
+            "firstrecorded_at": 1382639200,
+            "seller": "Newegg",
+            "currency": "USD",
+            "isactive": 0
+          }],
           "recentoffers_count": 0
         },
         {
           "sku": "N82E16834311002",
           "name": "newegg.com",
-          "url":
-            "http://www.newegg.com/Product/Product.aspx?Item=N82E16834311002",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1485652500,
-              "firstrecorded_at": 1468071900,
-              "currency": "USD",
-              "seller": "Newegg",
-              "availability": "Not Available",
-              "id": "5cAaDo2wnA4QCQuoUwaKAK",
-              "price": "211.99",
-              "isactive": 0
-            }
-          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16834311002",
+          "latestoffers": [{
+            "lastrecorded_at": 1485652500,
+            "firstrecorded_at": 1468071900,
+            "currency": "USD",
+            "seller": "Newegg",
+            "availability": "Not Available",
+            "id": "5cAaDo2wnA4QCQuoUwaKAK",
+            "price": "211.99",
+            "isactive": 0
+          }],
           "recentoffers_count": 0
         },
         {
-          "latestoffers": [
-            {
-              "id": "0MBnFwWzaDmSM02K8W4u2A",
-              "availability": "Available",
-              "price": "269.99",
-              "lastrecorded_at": 1407042600,
-              "firstrecorded_at": 1407042600,
-              "seller": "Office Max",
-              "currency": "USD",
-              "isactive": 1
-            }
-          ],
+          "latestoffers": [{
+            "id": "0MBnFwWzaDmSM02K8W4u2A",
+            "availability": "Available",
+            "price": "269.99",
+            "lastrecorded_at": 1407042600,
+            "firstrecorded_at": 1407042600,
+            "seller": "Office Max",
+            "currency": "USD",
+            "isactive": 1
+          }],
           "recentoffers_count": 1,
           "sku": "prod5390833",
           "name": "officemax.com",
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390833"
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390833"
         },
         {
           "name": "overstock.com",
-          "url":
-            "http://www.overstock.com/Electronics/Lenovo-ThinkPad-T61-Intel-Core2Duo-2.0GHz-80GB-14.1-inch-Laptop/9444379/product.html",
+          "url": "http://www.overstock.com/Electronics/Lenovo-ThinkPad-T61-Intel-Core2Duo-2.0GHz-80GB-14.1-inch-Laptop/9444379/product.html",
           "sku": "9444379",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "161.99",
               "id": "17VqSN8V3OwaK0WAaWgGIw",
               "availability": "Available",
@@ -263,8 +240,7 @@
           ]
         }
       ],
-      "description":
-        "Product Description fully refurbished. 120GB HD an... (visit site URLs for full description)",
+      "description": "Product Description fully refurbished. 120GB HD an... (visit site URLs for full description)",
       "features": {
         "CPU L2 Cache": "2MB",
         "Memory": "2GB",
@@ -298,8 +274,7 @@
         "Memory Spec": "1GB x 2",
         "Storage": "160GB",
         "CPU FSB": "667MHz",
-        "blob":
-          "This Lenovo ThinkPad T61 Notebook PC comes with Intel Core 2 Duo 0GHz processor, 2GB DDR2memory, 80GB, 1 inches WXGA display, Wi-Fi, DVDRW optical drive, and the Microsoft Windows 7 Home Premium (32-bit) operating system."
+        "blob": "This Lenovo ThinkPad T61 Notebook PC comes with Intel Core 2 Duo 0GHz processor, 2GB DDR2memory, 80GB, 1 inches WXGA display, Wi-Fi, DVDRW optical drive, and the Microsoft Windows 7 Home Premium (32-bit) operating system."
       },
       "images_total": 1,
       "category": "Laptops"
@@ -323,124 +298,104 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/68663c8c58f4be9c50dc77f7388ec9d3,0.jpg"
       ],
       "weight": "4535923.70",
-      "sitedetails": [
-        {
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5310328",
+      "sitedetails": [{
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5310328",
           "recentoffers_count": 1,
           "sku": "prod5310328",
           "name": "officemax.com",
-          "latestoffers": [
-            {
-              "id": "0qZSRNrDyAQYgwYGyIiKye",
-              "price": "349.99",
-              "availability": "Available",
-              "currency": "USD",
-              "seller": "Office Max",
-              "lastrecorded_at": 1407037500,
-              "firstrecorded_at": 1407037500,
-              "isactive": 1
-            }
-          ]
+          "latestoffers": [{
+            "id": "0qZSRNrDyAQYgwYGyIiKye",
+            "price": "349.99",
+            "availability": "Available",
+            "currency": "USD",
+            "seller": "Office Max",
+            "lastrecorded_at": 1407037500,
+            "firstrecorded_at": 1407037500,
+            "isactive": 1
+          }]
         },
         {
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820240",
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820240",
           "recentoffers_count": 1,
           "sku": "prod5820240",
           "name": "officemax.com",
-          "latestoffers": [
-            {
-              "firstrecorded_at": 1407037500,
-              "lastrecorded_at": 1407040400,
-              "seller": "Office Max",
-              "availability": "Available",
-              "price": "349.99",
-              "currency": "USD",
-              "id": "0qZSRNrDyAQYgwYGyIiKye",
-              "isactive": 1
-            }
-          ]
+          "latestoffers": [{
+            "firstrecorded_at": 1407037500,
+            "lastrecorded_at": 1407040400,
+            "seller": "Office Max",
+            "availability": "Available",
+            "price": "349.99",
+            "currency": "USD",
+            "id": "0qZSRNrDyAQYgwYGyIiKye",
+            "isactive": 1
+          }]
         },
         {
           "name": "officemax.com",
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820239",
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820239",
           "sku": "prod5820239",
           "recentoffers_count": 1,
-          "latestoffers": [
-            {
-              "id": "50kmdcUFQGI0sausGKawG6",
-              "currency": "USD",
-              "price": "339.99",
-              "availability": "Available",
-              "seller": "Office Max",
-              "lastrecorded_at": 1407041400,
-              "firstrecorded_at": 1407041400,
-              "isactive": 1
-            }
-          ]
+          "latestoffers": [{
+            "id": "50kmdcUFQGI0sausGKawG6",
+            "currency": "USD",
+            "price": "339.99",
+            "availability": "Available",
+            "seller": "Office Max",
+            "lastrecorded_at": 1407041400,
+            "firstrecorded_at": 1407041400,
+            "isactive": 1
+          }]
         },
         {
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820242",
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820242",
           "sku": "prod5820242",
           "recentoffers_count": 1,
           "name": "officemax.com",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1407042100,
-              "firstrecorded_at": 1407042100,
-              "price": "359.99",
-              "availability": "Available",
-              "currency": "USD",
-              "id": "1HxNYjksgYCaIia0UYuGyg",
-              "seller": "Office Max",
-              "isactive": 1
-            }
-          ]
+          "latestoffers": [{
+            "lastrecorded_at": 1407042100,
+            "firstrecorded_at": 1407042100,
+            "price": "359.99",
+            "availability": "Available",
+            "currency": "USD",
+            "id": "1HxNYjksgYCaIia0UYuGyg",
+            "seller": "Office Max",
+            "isactive": 1
+          }]
         },
         {
-          "latestoffers": [
-            {
-              "id": "1HxNYjksgYCaIia0UYuGyg",
-              "currency": "USD",
-              "availability": "Available",
-              "price": "359.99",
-              "seller": "Office Max",
-              "lastrecorded_at": 1407042400,
-              "firstrecorded_at": 1407042100,
-              "isactive": 1
-            }
-          ],
+          "latestoffers": [{
+            "id": "1HxNYjksgYCaIia0UYuGyg",
+            "currency": "USD",
+            "availability": "Available",
+            "price": "359.99",
+            "seller": "Office Max",
+            "lastrecorded_at": 1407042400,
+            "firstrecorded_at": 1407042100,
+            "isactive": 1
+          }],
           "name": "officemax.com",
           "sku": "prod5820241",
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820241",
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820241",
           "recentoffers_count": 1
         },
         {
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820238",
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820238",
           "sku": "prod5820238",
           "recentoffers_count": 1,
           "name": "officemax.com",
-          "latestoffers": [
-            {
-              "seller": "Office Max",
-              "currency": "USD",
-              "availability": "Available",
-              "price": "329.99",
-              "id": "0UDSDFgOH0wOskwuumkwOA",
-              "firstrecorded_at": 1407043200,
-              "lastrecorded_at": 1407043200,
-              "isactive": 1
-            }
-          ]
+          "latestoffers": [{
+            "seller": "Office Max",
+            "currency": "USD",
+            "availability": "Available",
+            "price": "329.99",
+            "id": "0UDSDFgOH0wOskwuumkwOA",
+            "firstrecorded_at": 1407043200,
+            "lastrecorded_at": 1407043200,
+            "isactive": 1
+          }]
         }
       ],
-      "description":
-        "Intel Core I5-2400 Processor, 4 GB Memory, 160 GB ... (visit site URLs for full description)",
+      "description": "Intel Core I5-2400 Processor, 4 GB Memory, 160 GB ... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1440x900",
         "Processor Series": "Core i5",
@@ -458,8 +413,7 @@
         "Audio": "Yes",
         "Processor Brand": "Intel",
         "Processor Speed": "2.4GHz",
-        "blob":
-          "Dell E6410 Laptop PC; Intel Core I5 CPU; Microsoft Windows 7 Home Premium preloaded; One Year Warranty from Microsoft's largest Authorized Refurbisher"
+        "blob": "Dell E6410 Laptop PC; Intel Core I5 CPU; Microsoft Windows 7 Home Premium preloaded; One Year Warranty from Microsoft's largest Authorized Refurbisher"
       },
       "images_total": 1,
       "category": "Laptops"
@@ -482,29 +436,23 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/40ae44d9ba00e46395a600013cd63b53,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "recentoffers_count": 1,
-          "latestoffers": [
-            {
-              "availability": "Available",
-              "price": "269.99",
-              "seller": "Office Max",
-              "firstrecorded_at": 1407037800,
-              "lastrecorded_at": 1407037800,
-              "currency": "USD",
-              "id": "58Rnjd7NUGG6i0CcIMQqQe",
-              "isactive": 1
-            }
-          ],
-          "name": "officemax.com",
-          "sku": "prod5390821",
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390821"
-        }
-      ],
-      "description":
-        "1.6GHz Intel Core 2 Duo processor, 2GB DDR2 667MHz... (visit site URLs for full description)",
+      "sitedetails": [{
+        "recentoffers_count": 1,
+        "latestoffers": [{
+          "availability": "Available",
+          "price": "269.99",
+          "seller": "Office Max",
+          "firstrecorded_at": 1407037800,
+          "lastrecorded_at": 1407037800,
+          "currency": "USD",
+          "id": "58Rnjd7NUGG6i0CcIMQqQe",
+          "isactive": 1
+        }],
+        "name": "officemax.com",
+        "sku": "prod5390821",
+        "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390821"
+      }],
+      "description": "1.6GHz Intel Core 2 Duo processor, 2GB DDR2 667MHz... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1024 x 768",
         "Processor Series": "Core 2 Duo",
@@ -534,8 +482,7 @@
         "Hard Drive Detail": "SATA",
         "Networking Detail": "LAN",
         "External Ports": "6",
-        "blob":
-          "Refurbished; 12.1-in WXGA LCD screen; 1024 x 768 resolution; 2GB DDR2 667MHz SODIMM RAM; 80GB SATA hard drive; 1.6GHz Intel Core 2 Duo processor; Windows 7 Home operating system; 3 USB 2.0 ports; LAN port; Audio out port; Microphone port; Intel GMA X3100 graphics; Integrated audio; 802.11 b/g/n wireless networking; Energy Star compliant"
+        "blob": "Refurbished; 12.1-in WXGA LCD screen; 1024 x 768 resolution; 2GB DDR2 667MHz SODIMM RAM; 80GB SATA hard drive; 1.6GHz Intel Core 2 Duo processor; Windows 7 Home operating system; 3 USB 2.0 ports; LAN port; Audio out port; Microphone port; Intel GMA X3100 graphics; Integrated audio; 802.11 b/g/n wireless networking; Energy Star compliant"
       },
       "images_total": 1,
       "category": "Laptops"
@@ -558,29 +505,23 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/94cc6a2d2efdfdc026d571757b08a93a,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "name": "officemax.com",
-          "latestoffers": [
-            {
-              "availability": "Available",
-              "firstrecorded_at": 1407043000,
-              "price": "269.99",
-              "lastrecorded_at": 1407043000,
-              "currency": "USD",
-              "seller": "Office Max",
-              "id": "3JzfnRmiLQQSyiEsy84gsA",
-              "isactive": 1
-            }
-          ],
-          "recentoffers_count": 1,
-          "sku": "prod5390835",
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390835"
-        }
-      ],
-      "description":
-        "1.8GHz Intel Core 2 Duo processor, 2GB DDR3 RAM, 1... (visit site URLs for full description)",
+      "sitedetails": [{
+        "name": "officemax.com",
+        "latestoffers": [{
+          "availability": "Available",
+          "firstrecorded_at": 1407043000,
+          "price": "269.99",
+          "lastrecorded_at": 1407043000,
+          "currency": "USD",
+          "seller": "Office Max",
+          "id": "3JzfnRmiLQQSyiEsy84gsA",
+          "isactive": 1
+        }],
+        "recentoffers_count": 1,
+        "sku": "prod5390835",
+        "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390835"
+      }],
+      "description": "1.8GHz Intel Core 2 Duo processor, 2GB DDR3 RAM, 1... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1280 x 800",
         "Processor Series": "Core 2 Duo",
@@ -610,8 +551,7 @@
         "Hard Drive Detail": "SATA",
         "Networking Detail": "LAN",
         "External Ports": "6",
-        "blob":
-          "Refurbished; 12.1-in WXGA LCD screen; 1280 x 800 resolution; 2GB DDR3 RAM; 160GB SATA hard drive; 1.8GHz Intel Core 2 Duo processor; Windows 7 Home operating system; 3 USB 2.0 ports; LAN port; Audio out port; Microphone port; Intel GMA 4500MHD graphics; Integrated audio; 802.11 b/g/n wireless networking; Energy Star compliant"
+        "blob": "Refurbished; 12.1-in WXGA LCD screen; 1280 x 800 resolution; 2GB DDR3 RAM; 160GB SATA hard drive; 1.8GHz Intel Core 2 Duo processor; Windows 7 Home operating system; 3 USB 2.0 ports; LAN port; Audio out port; Microphone port; Intel GMA 4500MHD graphics; Integrated audio; 802.11 b/g/n wireless networking; Energy Star compliant"
       },
       "images_total": 1,
       "category": "Laptops"
@@ -634,29 +574,23 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/e32a2634615f5f686834ac8fee2a161e,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390836",
-          "latestoffers": [
-            {
-              "price": "319.99",
-              "currency": "USD",
-              "lastrecorded_at": 1407042200,
-              "id": "2PLWnhDRbUIa4Y0GYWs02g",
-              "firstrecorded_at": 1407042200,
-              "seller": "Office Max",
-              "availability": "Available",
-              "isactive": 1
-            }
-          ],
-          "recentoffers_count": 1,
-          "name": "officemax.com",
-          "sku": "prod5390836"
-        }
-      ],
-      "description":
-        "1.8GHz Intel Core 2 Duo processor, 4GB DDR3 RAM, 1... (visit site URLs for full description)",
+      "sitedetails": [{
+        "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5390836",
+        "latestoffers": [{
+          "price": "319.99",
+          "currency": "USD",
+          "lastrecorded_at": 1407042200,
+          "id": "2PLWnhDRbUIa4Y0GYWs02g",
+          "firstrecorded_at": 1407042200,
+          "seller": "Office Max",
+          "availability": "Available",
+          "isactive": 1
+        }],
+        "recentoffers_count": 1,
+        "name": "officemax.com",
+        "sku": "prod5390836"
+      }],
+      "description": "1.8GHz Intel Core 2 Duo processor, 4GB DDR3 RAM, 1... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1280 x 800",
         "Processor Series": "Core 2 Duo",
@@ -686,8 +620,7 @@
         "Hard Drive Detail": "SATA",
         "Networking Detail": "LAN",
         "External Ports": "6",
-        "blob":
-          "Refurbished; 12.1-in WXGA LCD screen; 1280 x 800 resolution; 4GB DDR3 RAM; 160GB SATA hard drive; 1.8GHz Intel Core 2 Duo processor; Windows 7 Home operating system; 3 USB 2.0 ports; LAN port; Audio out port; Microphone port; Intel GMA 4500MHD graphics; Integrated audio; 802.11 b/g/n wireless networking; Energy Star compliant"
+        "blob": "Refurbished; 12.1-in WXGA LCD screen; 1280 x 800 resolution; 4GB DDR3 RAM; 160GB SATA hard drive; 1.8GHz Intel Core 2 Duo processor; Windows 7 Home operating system; 3 USB 2.0 ports; LAN port; Audio out port; Microphone port; Intel GMA 4500MHD graphics; Integrated audio; 802.11 b/g/n wireless networking; Energy Star compliant"
       },
       "images_total": 1,
       "category": "Laptops"
@@ -711,34 +644,28 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/59a978db0b721b2d6e6c3c012ecebd74,0.jpg"
       ],
       "weight": "4535923.70",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "sku": "prod5820244",
           "recentoffers_count": 1,
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820244",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1407043700,
-              "availability": "Available",
-              "price": "419.99",
-              "id": "08l0O4cOeo4EeqaOso0A02",
-              "currency": "USD",
-              "seller": "Office Max",
-              "firstrecorded_at": 1407043700,
-              "isactive": 1
-            }
-          ],
+          "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5820244",
+          "latestoffers": [{
+            "lastrecorded_at": 1407043700,
+            "availability": "Available",
+            "price": "419.99",
+            "id": "08l0O4cOeo4EeqaOso0A02",
+            "currency": "USD",
+            "seller": "Office Max",
+            "firstrecorded_at": 1407043700,
+            "isactive": 1
+          }],
           "name": "officemax.com"
         },
         {
           "sku": "9465956",
           "recentoffers_count": 0,
-          "url":
-            "http://www.overstock.com/Electronics/Lenovo-T510-Core-i5-2.53GHz-4096MB-250GB-15.5-in.-DVDRW-Windows-7-Professional-Laptop-Computer-Refurbished/9465956/product.html",
+          "url": "http://www.overstock.com/Electronics/Lenovo-T510-Core-i5-2.53GHz-4096MB-250GB-15.5-in.-DVDRW-Windows-7-Professional-Laptop-Computer-Refurbished/9465956/product.html",
           "name": "overstock.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "282.99",
               "firstrecorded_at": 1502374700,
               "seller": "Overstock",
@@ -771,8 +698,7 @@
           ]
         }
       ],
-      "description":
-        "Intel Core I5 Processor, 4 GB RAM, 500 GB Hard Dri... (visit site URLs for full description)",
+      "description": "Intel Core I5 Processor, 4 GB RAM, 500 GB Hard Dri... (visit site URLs for full description)",
       "features": {
         "Memory": "4096MB DDR3 memory",
         "Hard Drive Capacity": "250 GB",
@@ -786,20 +712,16 @@
         "Operating System": "Windows 7 Professional",
         "Processor": "Intel Core i5-520M 2.53GHz",
         "CPU Type": "Intel Core i5",
-        "Ports":
-          "4 USB 2.0 ports, LAN Port, Audio out, microphone, VGA port, display port, eSATA/USB combo port, Modem RJ-11, RJ-45, IEEE 1394",
+        "Ports": "4 USB 2.0 ports, LAN Port, Audio out, microphone, VGA port, display port, eSATA/USB combo port, Modem RJ-11, RJ-45, IEEE 1394",
         "Package contents": "Laptop and AC adapter",
         "Networking": "Integrated Gigabit Ethernet",
-        "Slots":
-          "1 - Type I/II PC Card Slot, 2- Express card/54 Slot, CardBus Support",
+        "Slots": "1 - Type I/II PC Card Slot, 2- Express card/54 Slot, CardBus Support",
         "Hard drive": "250GB",
         "Screen Size": "14 - 16 Inches",
-        "Audio":
-          "High Definition (HD) Audio, Volume up, down, and mute buttons",
+        "Audio": "High Definition (HD) Audio, Volume up, down, and mute buttons",
         "Display screen size": "15.5 inches",
         "Display type": "WXGA, LED backlight",
-        "blob":
-          "Lenovo T510 Laptop PC; Intel Core I5 CPU; Microsoft Windows 7 Professional 64 Bit preloaded; One Year Warranty from Microsoft's largest Authorized Refurbisher",
+        "blob": "Lenovo T510 Laptop PC; Intel Core I5 CPU; Microsoft Windows 7 Professional 64 Bit preloaded; One Year Warranty from Microsoft's largest Authorized Refurbisher",
         "Wi-fi": "Yes"
       },
       "images_total": 1,
@@ -830,11 +752,9 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/0dcab0b8cbb178c206ba14d3f7643b85,0.jpg"
       ],
       "weight": "2299713.32",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "name": "datavis.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "358.98",
               "lastrecorded_at": 1443204700,
               "isactive": 0,
@@ -862,13 +782,11 @@
           "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=827080"
         },
         {
-          "url":
-            "http://www.antonline.com/p_Lenovo--80MJ001BUS--Lenovo-Ideapad-100-15.6-Inch-Laptop-(80MJ001BUS)_1192844.htm",
+          "url": "http://www.antonline.com/p_Lenovo--80MJ001BUS--Lenovo-Ideapad-100-15.6-Inch-Laptop-(80MJ001BUS)_1192844.htm",
           "recentoffers_count": 0,
           "name": "antonline.com",
           "sku": "1192844",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "firstrecorded_at": 1445867900,
               "id": "19xhTNoT06oeUgk0msgeme",
               "availability": "Available",
@@ -904,44 +822,39 @@
           "sku": "345542",
           "name": "officedepot.com",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "currency": "USD",
-              "availability": "Available",
-              "id": "5jGoGy778SISyAE08u88mO",
-              "firstrecorded_at": 1440339400,
-              "lastrecorded_at": 1494920700,
-              "price": "342.99",
-              "seller": "Office Depot",
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "currency": "USD",
+            "availability": "Available",
+            "id": "5jGoGy778SISyAE08u88mO",
+            "firstrecorded_at": 1440339400,
+            "lastrecorded_at": 1494920700,
+            "price": "342.99",
+            "seller": "Office Depot",
+            "isactive": 0
+          }],
           "url": "http://www.officedepot.com/a/products/345542"
         },
         {
           "sku": "LE80MJ001BUS",
           "name": "adorama.com",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "firstrecorded_at": 1460666200,
-              "availability": "Available",
-              "currency": "USD",
-              "id": "54q2K8ysZE0CKCUEwI8OQQ",
-              "price": "369.00",
-              "seller": "Adorama",
-              "lastrecorded_at": 1468669300,
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "firstrecorded_at": 1460666200,
+            "availability": "Available",
+            "currency": "USD",
+            "id": "54q2K8ysZE0CKCUEwI8OQQ",
+            "price": "369.00",
+            "seller": "Adorama",
+            "lastrecorded_at": 1468669300,
+            "isactive": 0
+          }],
           "url": "http://www.adorama.com/LE80MJ001BUS.html"
         },
         {
           "recentoffers_count": 0,
           "name": "overstock.com",
           "sku": "10125479",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "firstrecorded_at": 1505755400,
               "id": "62Gfmj4Q1uO2WuoK6syaA4",
               "availability": "Available",
@@ -962,13 +875,11 @@
               "isactive": 0
             }
           ],
-          "url":
-            "https://www.overstock.com/Electronics/Lenovo-IdeaPad-100-15IBY-80MJ001BUS-15.6-16-9-Notebook-1366-x-768/10125479/product.html"
+          "url": "https://www.overstock.com/Electronics/Lenovo-IdeaPad-100-15IBY-80MJ001BUS-15.6-16-9-Notebook-1366-x-768/10125479/product.html"
         },
         {
           "url": "http://www.amazon.com/dp/B00WR2861O",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "488.60",
               "lastrecorded_at": 1521509300,
               "shipping": "550",
@@ -1011,18 +922,16 @@
         },
         {
           "url": "http://www.staples.com/product_1700822",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1521268300,
-              "seller": "Staples",
-              "price": "379.99",
-              "currency": "USD",
-              "availability": "Not Available",
-              "id": "7DYLYJZpnUyueEEiYeyim0",
-              "firstrecorded_at": 1505561900,
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "lastrecorded_at": 1521268300,
+            "seller": "Staples",
+            "price": "379.99",
+            "currency": "USD",
+            "availability": "Not Available",
+            "id": "7DYLYJZpnUyueEEiYeyim0",
+            "firstrecorded_at": 1505561900,
+            "isactive": 0
+          }],
           "recentoffers_count": 0,
           "sku": "1700822",
           "name": "staples.com",
@@ -1030,8 +939,7 @@
           "listprice": "379.99"
         }
       ],
-      "description":
-        "The Lenovo Ideapad 100 gives you powerful Intel pe... (visit site URLs for full description)",
+      "description": "The Lenovo Ideapad 100 gives you powerful Intel pe... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1366 x 768",
         "Manufacturer Website Address": "http://www.lenovo.com/us/en/",
@@ -1068,8 +976,7 @@
         "Processor Model": "N3540",
         "Storage": "Hard Drive Capacity",
         "Interfaces/Ports": "HDMI",
-        "blob":
-          "Intel Pentium N3540; 4GB DDR3L; 500GB HDD; 15.6\" HD 1366 X768; Windows 8.1; Integrated Intel HD Graphics; 0.3M Single microphone; 1x 1.5W speaker",
+        "blob": "Intel Pentium N3540; 4GB DDR3L; 500GB HDD; 15.6\" HD 1366 X768; Windows 8.1; Integrated Intel HD Graphics; 0.3M Single microphone; 1x 1.5W speaker",
         "Green Compliant": "Yes"
       },
       "images_total": 1,
@@ -1092,29 +999,23 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/47ed8df8f65ed74fd78d382d13ee6128,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "name": "officemax.com",
-          "sku": "prod5840052",
-          "recentoffers_count": 1,
-          "latestoffers": [
-            {
-              "currency": "USD",
-              "seller": "Office Max",
-              "availability": "Available",
-              "firstrecorded_at": 1407044600,
-              "lastrecorded_at": 1407044600,
-              "price": "399.00",
-              "id": "5tzuyiYSWGkqiGWoiEAK6Q",
-              "isactive": 1
-            }
-          ],
-          "url":
-            "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5840052"
-        }
-      ],
-      "description":
-        "Refurbished Lenovo ThinkPad 14\" laptop, Intel Core... (visit site URLs for full description)",
+      "sitedetails": [{
+        "name": "officemax.com",
+        "sku": "prod5840052",
+        "recentoffers_count": 1,
+        "latestoffers": [{
+          "currency": "USD",
+          "seller": "Office Max",
+          "availability": "Available",
+          "firstrecorded_at": 1407044600,
+          "lastrecorded_at": 1407044600,
+          "price": "399.00",
+          "id": "5tzuyiYSWGkqiGWoiEAK6Q",
+          "isactive": 1
+        }],
+        "url": "http://www.officemax.com/technology/computers/refurbished-computers/product-prod5840052"
+      }],
+      "description": "Refurbished Lenovo ThinkPad 14\" laptop, Intel Core... (visit site URLs for full description)",
       "features": {
         "Processor Series": "Core 2 Duo",
         "Installed Memory": "2GB RAM",
@@ -1125,8 +1026,7 @@
         "Processor Speed (GHz)": "2.2",
         "Screen Size": "14\"",
         "Processor Brand": "Intel",
-        "blob":
-          "Refurbished; Windows 7 Professional; Microsoft Office Free 30 day trial; Backed4Life lifetime warranty; Intel Core 2 Duo 2.2GHz; 2GB RAM; 160GB HDD; DVD-CDRW"
+        "blob": "Refurbished; Windows 7 Professional; Microsoft Office Free 30 day trial; Backed4Life lifetime warranty; Intel Core 2 Duo 2.2GHz; 2GB RAM; 160GB HDD; DVD-CDRW"
       },
       "images_total": 1,
       "category": "Laptops"
@@ -1157,12 +1057,10 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/dc1e91ee8bf08df1b73ce98887b4150c,0.jpg"
       ],
       "weight": "2902991.17",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "url": "http://www.amazon.com/dp/B00F0RBYTO",
           "name": "amazon.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "399.00",
               "lastrecorded_at": 1441886500,
               "shipping": "899",
@@ -1182,8 +1080,7 @@
               "firstrecorded_at": 1434199500,
               "id": "1NyWG69aAC2aIE8E6mqmQc",
               "condition": "New",
-              "availability":
-                "+ $8.79 shipping [LST: Only 1 left in stock.] [BBX: Buy Box]",
+              "availability": "+ $8.79 shipping [LST: Only 1 left in stock.] [BBX: Buy Box]",
               "seller": "Dream Deal"
             },
             {
@@ -1206,8 +1103,7 @@
           "recentoffers_count": 0,
           "sku": "30253256",
           "name": "walmart.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "lastrecorded_at": 1423363700,
               "availability": "Out of Stock",
               "price": "436.32",
@@ -1240,8 +1136,7 @@
         {
           "sku": "710427",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "473.81",
               "lastrecorded_at": 1402518100,
               "isactive": 0,
@@ -1281,27 +1176,23 @@
         {
           "url": "http://www.jr.com/lenovo/pe/LEN_59385692",
           "name": "jr.com",
-          "latestoffers": [
-            {
-              "seller": "JR",
-              "firstrecorded_at": 1393915900,
-              "id": "5TbTrGRZfywA8KE4gIIqkk",
-              "currency": "USD",
-              "price": "467.99",
-              "lastrecorded_at": 1396512800,
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "seller": "JR",
+            "firstrecorded_at": 1393915900,
+            "id": "5TbTrGRZfywA8KE4gIIqkk",
+            "currency": "USD",
+            "price": "467.99",
+            "lastrecorded_at": 1396512800,
+            "isactive": 0
+          }],
           "recentoffers_count": 0,
           "sku": "LEN_59385692"
         },
         {
-          "url":
-            "http://www.antonline.com/p_Lenovo--59385692--Lenovo-G700-17.3-Inch-Laptop-(59385692)_1073853.htm",
+          "url": "http://www.antonline.com/p_Lenovo--59385692--Lenovo-G700-17.3-Inch-Laptop-(59385692)_1073853.htm",
           "recentoffers_count": 0,
           "sku": "1073853",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "currency": "USD",
               "id": "7HrZcPqqi8UE0A8GyaGqo4",
               "lastrecorded_at": 1397455100,
@@ -1328,24 +1219,20 @@
           "recentoffers_count": 1,
           "sku": "prod5310735",
           "name": "officemax.com",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1407044600,
-              "price": "379.88",
-              "availability": "Available",
-              "id": "72qM10AW3M6u88SSacomCY",
-              "currency": "USD",
-              "seller": "Office Max",
-              "firstrecorded_at": 1407044600,
-              "isactive": 1
-            }
-          ],
-          "url":
-            "http://www.officemax.com/technology/computers/laptop-computers/product-prod5310735"
+          "latestoffers": [{
+            "lastrecorded_at": 1407044600,
+            "price": "379.88",
+            "availability": "Available",
+            "id": "72qM10AW3M6u88SSacomCY",
+            "currency": "USD",
+            "seller": "Office Max",
+            "firstrecorded_at": 1407044600,
+            "isactive": 1
+          }],
+          "url": "http://www.officemax.com/technology/computers/laptop-computers/product-prod5310735"
         }
       ],
-      "description":
-        "Intel Pentium Dual-Core 2030M 2.5 GHz Processor (2... (visit site URLs for full description)",
+      "description": "Intel Pentium Dual-Core 2030M 2.5 GHz Processor (2... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1600 x 900",
         "Graphics Controller Manufacturer": "Intel",
@@ -1401,8 +1288,7 @@
         "Memory Standard": "DDR3-1600/PC3-12800",
         "Interfaces/Ports": "HDMI",
         "Backlight Technology": "LED",
-        "blob":
-          "1-year limited hardware warranty; 24/7 technical assistance available online or toll-free by phone; 10/100 Fast Ethernet, 802.11b/g/n Wireless LAN; 2 x USB 2.0 ports, 1 x USB 3.0 port, 1 x HDMI port, 1 x VGA port, 1 x headphone jack, 1 x microphone jack, 1 x RJ-45 Ethernet port; 2-in-1 memory card reader; 4GB DDR3 SDRAM system memory; 500GB SATA hard drive; 720p HD webcam; Backup and Restore options built into Windows allow you to create safety copies of your most important personal files, so you're always prepared for the worst with your black Lenovo 17.3\" Laptop with Intel Pentium 2030M Processor; DVD-RW drive; Genuine Microsoft Windows 8; Intel HD Graphics; Intel Pentium 2030M processor; McAfee Internet Security (30 days complimentary updates); Microsoft Office 2013 30-day trial; Power cord and AC adapter; Quick Start Guide; Rechargeable battery; Rechargeable battery for up to 5 hours run time; Restore discs are not included with this black Lenovo 17.3\" Laptop with Intel Pentium 2030M Processor. We recommend you use the installed software to create your own restore and backup DVD the first week you use the computer.; The Lenovo Windows 8 Laptop with 4GB Memory and 500GB Hard Drive is 6.39 lbs, 16.45\" x 10.94\" x 1.44\"",
+        "blob": "1-year limited hardware warranty; 24/7 technical assistance available online or toll-free by phone; 10/100 Fast Ethernet, 802.11b/g/n Wireless LAN; 2 x USB 2.0 ports, 1 x USB 3.0 port, 1 x HDMI port, 1 x VGA port, 1 x headphone jack, 1 x microphone jack, 1 x RJ-45 Ethernet port; 2-in-1 memory card reader; 4GB DDR3 SDRAM system memory; 500GB SATA hard drive; 720p HD webcam; Backup and Restore options built into Windows allow you to create safety copies of your most important personal files, so you're always prepared for the worst with your black Lenovo 17.3\" Laptop with Intel Pentium 2030M Processor; DVD-RW drive; Genuine Microsoft Windows 8; Intel HD Graphics; Intel Pentium 2030M processor; McAfee Internet Security (30 days complimentary updates); Microsoft Office 2013 30-day trial; Power cord and AC adapter; Quick Start Guide; Rechargeable battery; Rechargeable battery for up to 5 hours run time; Restore discs are not included with this black Lenovo 17.3\" Laptop with Intel Pentium 2030M Processor. We recommend you use the installed software to create your own restore and backup DVD the first week you use the computer.; The Lenovo Windows 8 Laptop with 4GB Memory and 500GB Hard Drive is 6.39 lbs, 16.45\" x 10.94\" x 1.44\"",
         "Processor Manufacturer": "Intel",
         "Number of Cells": "6-cell",
         "Chipset Model": "HM70 Express"

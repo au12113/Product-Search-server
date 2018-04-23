@@ -2,8 +2,7 @@
   "code": "OK",
   "offset": 0,
   "results_count": 10,
-  "results": [
-    {
+  "results": [{
       "gtins": ["00883974988280"],
       "sem3_id": "3VfP2UDW5IwgKQimgKUwaQ",
       "color": "Navy Blue",
@@ -25,11 +24,9 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/fd918a899b54e7240c5030511c377789,0.jpg"
       ],
       "weight": "2676194.98",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "name": "amazon.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "200.00",
               "lastrecorded_at": 1520732600,
               "isactive": 1,
@@ -72,8 +69,7 @@
           "recentoffers_count": 0,
           "name": "walmart.com",
           "sku": "114769491",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "availability": "Not Available",
               "seller": "VIPOUTLET",
               "firstrecorded_at": 1512871500,
@@ -105,8 +101,7 @@
           ]
         }
       ],
-      "description":
-        "INSPIRON 1525 with WINDOWS VISTA HOME BASIC Intel®... (visit site URLs for full description)",
+      "description": "INSPIRON 1525 with WINDOWS VISTA HOME BASIC Intel®... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1280_x_800",
         "Processor Count": "2",
@@ -149,8 +144,7 @@
       "price": "379.99",
       "model": "i3531-3725BK",
       "created_at": 1413429772,
-      "name":
-        "Dell Inspiron i3531 15.6-Inch Laptop, Intel Celeron N2830, 4GB RAM, WINDOWS 8, Black",
+      "name": "Dell Inspiron i3531 15.6-Inch Laptop, Intel Celeron N2830, 4GB RAM, WINDOWS 8, Black",
       "mpn": "i3531-3725BK",
       "messages": [],
       "geo": ["usa"],
@@ -161,10 +155,8 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/9bab3a275b8d9fb5c68724984d4c91c1,0.jpg"
       ],
       "weight": "2118276.37",
-      "sitedetails": [
-        {
-          "latestoffers": [
-            {
+      "sitedetails": [{
+          "latestoffers": [{
               "price": "379.99",
               "lastrecorded_at": 1521439500,
               "shipping": "828",
@@ -196,8 +188,7 @@
               "firstrecorded_at": 1518376100,
               "id": "49EJWwlwkC04eUWUkaSUy2",
               "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "availability": "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
               "seller": "Computer-Solutions"
             }
           ],
@@ -208,8 +199,7 @@
         },
         {
           "name": "frys.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "lastrecorded_at": 1463653000,
               "seller": "Frys",
               "availability": "Available for In-Store Pickup Only",
@@ -245,8 +235,7 @@
           "recentoffers_count": 0
         }
       ],
-      "description":
-        "Inspiron i3531 Laptop Intel Celeron N2830 2.16GHz ... (visit site URLs for full description)",
+      "description": "Inspiron i3531 Laptop Intel Celeron N2830 2.16GHz ... (visit site URLs for full description)",
       "features": {
         "Processor Count": "2",
         "Max Screen Resolution": "1366 x 768",
@@ -266,8 +255,7 @@
         "Processor Brand": "Intel",
         "Hard Drive Rotational Speed": "5400 RPM",
         "Chipset Brand": "intel",
-        "blob":
-          "15.6 inch LED Backlit Display with Truelife and HD resolution (1366 x 768); IntelÂ® CeleronÂ® Dual Core N2830 Processor / 4GB Single Channel DDR3 1600MHz (4GBx1) / 500GB 5400 rpm SATA Hard Drive / IntelÂ® HD Graphics; *No Optical Drive Included / Windows 8.1; HDMITM 1.4a, USB 2.0 (2), Security slot, 4-in-1 Media Card (SD/SDHC/MS/MS Pro); Weight - 4.67 lb; Height/Width/Depth = 0.98â(front) / 1â(rear) x 15â x 10.2â",
+        "blob": "15.6 inch LED Backlit Display with Truelife and HD resolution (1366 x 768); IntelÂ® CeleronÂ® Dual Core N2830 Processor / 4GB Single Channel DDR3 1600MHz (4GBx1) / 500GB 5400 rpm SATA Hard Drive / IntelÂ® HD Graphics; *No Optical Drive Included / Windows 8.1; HDMITM 1.4a, USB 2.0 (2), Security slot, 4-in-1 Media Card (SD/SDHC/MS/MS Pro); Weight - 4.67 lb; Height/Width/Depth = 0.98â(front) / 1â(rear) x 15â x 10.2â",
         "RAM": "4 GB DDR3 SDRAM"
       },
       "images_total": 1,
@@ -293,30 +281,25 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/5e43fd04f4116a45ca847fd563aa948b,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "listprice": "429.99",
-          "url": "http://www.staples.com/product_1752482",
-          "listprice_currency": "USD",
-          "name": "staples.com",
-          "latestoffers": [
-            {
-              "seller": "Staples",
-              "lastrecorded_at": 1520658300,
-              "id": "23mk73ztR6aUK0asYssWK8",
-              "currency": "USD",
-              "price": "429.99",
-              "availability": "Not Available",
-              "firstrecorded_at": 1505445000,
-              "isactive": 0
-            }
-          ],
-          "recentoffers_count": 0,
-          "sku": "1752482"
-        }
-      ],
-      "description":
-        "This Dell Inspiron laptop delivers high-quality pe... (visit site URLs for full description)",
+      "sitedetails": [{
+        "listprice": "429.99",
+        "url": "http://www.staples.com/product_1752482",
+        "listprice_currency": "USD",
+        "name": "staples.com",
+        "latestoffers": [{
+          "seller": "Staples",
+          "lastrecorded_at": 1520658300,
+          "id": "23mk73ztR6aUK0asYssWK8",
+          "currency": "USD",
+          "price": "429.99",
+          "availability": "Not Available",
+          "firstrecorded_at": 1505445000,
+          "isactive": 0
+        }],
+        "recentoffers_count": 0,
+        "sku": "1752482"
+      }],
+      "description": "This Dell Inspiron laptop delivers high-quality pe... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1366 x 768",
         "Laptop Webcam": "720p",
@@ -337,8 +320,7 @@
         "Processor Speed (Ghz)": "2.58",
         "HDD Capacity": "500GB",
         "Computer Operating System": "Windows 10",
-        "Laptop USB Slots":
-          "1 x USB 3.0, 2 x USB 2.0, 1 x headphone/microphone combo jack, 1 x HDMI",
+        "Laptop USB Slots": "1 x USB 3.0, 2 x USB 2.0, 1 x headphone/microphone combo jack, 1 x HDMI",
         "Laptop Memory Type": "DDR3 SDRAM",
         "Laptop Battery Type": "3-cell lithium-ion battery",
         "Screen Size (inches)": "11.6",
@@ -354,8 +336,7 @@
         "Touch-Screen": "Touch-Screen",
         "RAM Capacity": "4GB",
         "Laptop Optical Drive": "No optical drive",
-        "blob":
-          "With the performance of a laptop and versatility of a tablet in one, this do-it-all device adapts easily to your lifestyle, featuring an 11.6\" touch screen; All the features of a laptop and tablet in one; IntelÂ® CeleronÂ® Processor N2840 (1M Cache, up to 2.58 GHz); Windows 10 Home 64-bit English; 4GB Single Channel DDR3L 1600MHz (4GBx1); 500G 5.4k HDD; IntelÂ® HD Graphics; 11.6 inch LED Backlit Touch Display with Truelife and HD resolution (1366 x 768); Dell Wireless-N 1707 + Bluetooth 4.0; Up to 7 hours 30min",
+        "blob": "With the performance of a laptop and versatility of a tablet in one, this do-it-all device adapts easily to your lifestyle, featuring an 11.6\" touch screen; All the features of a laptop and tablet in one; IntelÂ® CeleronÂ® Processor N2840 (1M Cache, up to 2.58 GHz); Windows 10 Home 64-bit English; 4GB Single Channel DDR3L 1600MHz (4GBx1); 500G 5.4k HDD; IntelÂ® HD Graphics; 11.6 inch LED Backlit Touch Display with Truelife and HD resolution (1366 x 768); Dell Wireless-N 1707 + Bluetooth 4.0; Up to 7 hours 30min",
         "Laptop Display Type": "LED/HD",
         "Bluetooth Compatibility": "Yes",
         "Laptop Weight": "3.1 to 4 lbs"
@@ -389,52 +370,47 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/ca2f98a8f79e1303aa2956e2d5ebe31a,0.jpg"
       ],
       "weight": "907184.74",
-      "sitedetails": [
-        {
-          "name": "amazon.com",
-          "recentoffers_count": 2,
-          "url": "http://www.amazon.com/dp/B00WN9B398",
-          "sku": "B00WN9B398",
-          "latestoffers": [
-            {
-              "price": "399.00",
-              "lastrecorded_at": 1521588700,
-              "isactive": 1,
-              "currency": "USD",
-              "firstrecorded_at": 1521588700,
-              "id": "0m5OCtgpzG4mwWGE0oQyMY",
-              "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
-              "seller": "WQBuy"
-            },
-            {
-              "price": "399.00",
-              "lastrecorded_at": 1521588700,
-              "isactive": 1,
-              "currency": "USD",
-              "firstrecorded_at": 1517578500,
-              "id": "0CwABbpZICsqMWyykgAsYe",
-              "condition": "new",
-              "availability": "Available [FPO: Front Page Offer]",
-              "seller": "ZAL Tech (TAX Free Anywhere)"
-            },
-            {
-              "price": "399.00",
-              "lastrecorded_at": 1519043900,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1505211000,
-              "id": "69r2rs1r04ekWaW88yKG02",
-              "condition": "new",
-              "availability": "Available [FPO: Front Page Offer]",
-              "seller": "WQBuy"
-            }
-          ]
-        }
-      ],
-      "description":
-        "Live, learn and share with the surprisingly afford... (visit site URLs for full description)",
+      "sitedetails": [{
+        "name": "amazon.com",
+        "recentoffers_count": 2,
+        "url": "http://www.amazon.com/dp/B00WN9B398",
+        "sku": "B00WN9B398",
+        "latestoffers": [{
+            "price": "399.00",
+            "lastrecorded_at": 1521588700,
+            "isactive": 1,
+            "currency": "USD",
+            "firstrecorded_at": 1521588700,
+            "id": "0m5OCtgpzG4mwWGE0oQyMY",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+            "seller": "WQBuy"
+          },
+          {
+            "price": "399.00",
+            "lastrecorded_at": 1521588700,
+            "isactive": 1,
+            "currency": "USD",
+            "firstrecorded_at": 1517578500,
+            "id": "0CwABbpZICsqMWyykgAsYe",
+            "condition": "new",
+            "availability": "Available [FPO: Front Page Offer]",
+            "seller": "ZAL Tech (TAX Free Anywhere)"
+          },
+          {
+            "price": "399.00",
+            "lastrecorded_at": 1519043900,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1505211000,
+            "id": "69r2rs1r04ekWaW88yKG02",
+            "condition": "new",
+            "availability": "Available [FPO: Front Page Offer]",
+            "seller": "WQBuy"
+          }
+        ]
+      }],
+      "description": "Live, learn and share with the surprisingly afford... (visit site URLs for full description)",
       "features": {
         "Processor Count": "1",
         "Max Screen Resolution": "1366 x 768 pixels",
@@ -456,8 +432,7 @@
         "Hard Drive Rotational Speed": "5400 RPM",
         "Wireless Type": "802.11bgn",
         "Chipset Brand": "intel",
-        "blob":
-          "Intel Celeron N2840 2.16 GHz Processor; 2 GB DDR3 RAM; 500 GB HDD; HDMI 1.4a, USB 3.0 (1), USB 2.0 (2), Kensington lock slot, Media Card Reader 3-in-1, headphone/mic; 14 inch 1366 x 768 pixels LED-lit Screen; Windows 8.1",
+        "blob": "Intel Celeron N2840 2.16 GHz Processor; 2 GB DDR3 RAM; 500 GB HDD; HDMI 1.4a, USB 3.0 (1), USB 2.0 (2), Kensington lock slot, Media Card Reader 3-in-1, headphone/mic; 14 inch 1366 x 768 pixels LED-lit Screen; Windows 8.1",
         "Voltage": "110 volts",
         "RAM": "2 GB DDR3"
       },
@@ -490,31 +465,26 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/d5b16cf56baeae986aeceaee4cb68479,0.jpg"
       ],
       "weight": "2249818.16",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "listprice_currency": "USD",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1407044700,
-              "seller": "Office Max",
-              "id": "65OZ08wpe4UY2cmeWO6ose",
-              "price": "379.99",
-              "firstrecorded_at": 1407044700,
-              "currency": "USD",
-              "availability": "Available",
-              "isactive": 1
-            }
-          ],
+          "latestoffers": [{
+            "lastrecorded_at": 1407044700,
+            "seller": "Office Max",
+            "id": "65OZ08wpe4UY2cmeWO6ose",
+            "price": "379.99",
+            "firstrecorded_at": 1407044700,
+            "currency": "USD",
+            "availability": "Available",
+            "isactive": 1
+          }],
           "listprice": "479.99",
           "name": "officemax.com",
           "recentoffers_count": 1,
-          "url":
-            "http://www.officemax.com/technology/computers/laptop-computers/product-prod5920311",
+          "url": "http://www.officemax.com/technology/computers/laptop-computers/product-prod5920311",
           "sku": "prod5920311"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "seller": "B&H",
               "lastrecorded_at": 1460386300,
               "price": "15.93",
@@ -547,32 +517,27 @@
           ],
           "name": "bhphotovideo.com",
           "recentoffers_count": 0,
-          "url":
-            "http://www.bhphotovideo.com/c/product/1059575-REG/dell_i3541_2000blk_inspiron_15_a46210_4gb_500gb_windows8_1_15_6_black.html",
+          "url": "http://www.bhphotovideo.com/c/product/1059575-REG/dell_i3541_2000blk_inspiron_15_a46210_4gb_500gb_windows8_1_15_6_black.html",
           "sku": "1059575"
         },
         {
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "price": "499.99",
-              "id": "0z86lir2hgeeCCmMUskEQU",
-              "seller": "Quill",
-              "lastrecorded_at": 1416517100,
-              "availability": "Available",
-              "currency": "USD",
-              "firstrecorded_at": 1416517100,
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "price": "499.99",
+            "id": "0z86lir2hgeeCCmMUskEQU",
+            "seller": "Quill",
+            "lastrecorded_at": 1416517100,
+            "availability": "Available",
+            "currency": "USD",
+            "firstrecorded_at": 1416517100,
+            "isactive": 0
+          }],
           "name": "quill.com",
           "sku": "50187303",
-          "url":
-            "http://www.quill.com/dell-inspiron-i3541-2000blk-touchscreen-laptop/cbs/50187303.html"
+          "url": "http://www.quill.com/dell-inspiron-i3541-2000blk-touchscreen-laptop/cbs/50187303.html"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "456.00",
               "lastrecorded_at": 1490751100,
               "isactive": 0,
@@ -602,21 +567,18 @@
         },
         {
           "name": "kmart.com",
-          "latestoffers": [
-            {
-              "seller": "Sears Brands, LLC.",
-              "lastrecorded_at": 1425950700,
-              "price": "399.99",
-              "id": "3zlFoAF7Ro0ESOuKu0EEAQ",
-              "firstrecorded_at": 1425950700,
-              "currency": "USD",
-              "availability": "Available",
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "seller": "Sears Brands, LLC.",
+            "lastrecorded_at": 1425950700,
+            "price": "399.99",
+            "id": "3zlFoAF7Ro0ESOuKu0EEAQ",
+            "firstrecorded_at": 1425950700,
+            "currency": "USD",
+            "availability": "Available",
+            "isactive": 0
+          }],
           "recentoffers_count": 0,
-          "url":
-            "http://www.kmart.com/dell-inspiron-15.6inch-notebook-with-amd-a4-6210/p-020W008423614001P",
+          "url": "http://www.kmart.com/dell-inspiron-15.6inch-notebook-with-amd-a4-6210/p-020W008423614001P",
           "sku": "020W008423614001P"
         },
         {
@@ -624,25 +586,22 @@
           "sku": "1065204",
           "name": "staples.com",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1499725000,
-              "seller": "Staples",
-              "price": "499.99",
-              "id": "3SVMpsUgcK02AsiAW0QE8C",
-              "firstrecorded_at": 1426493600,
-              "currency": "USD",
-              "availability": "Not Available",
-              "isactive": 0
-            }
-          ]
+          "latestoffers": [{
+            "lastrecorded_at": 1499725000,
+            "seller": "Staples",
+            "price": "499.99",
+            "id": "3SVMpsUgcK02AsiAW0QE8C",
+            "firstrecorded_at": 1426493600,
+            "currency": "USD",
+            "availability": "Not Available",
+            "isactive": 0
+          }]
         },
         {
           "url": "http://www.electronicexpress.com/catalog/65597",
           "sku": "65597",
           "name": "electronicexpress.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "seller": "Electronic Express",
               "lastrecorded_at": 1479460300,
               "price": "429.50",
@@ -680,8 +639,7 @@
           "sku": "703270",
           "name": "officedepot.com",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "firstrecorded_at": 1440349900,
               "currency": "USD",
               "seller": "Office Depot",
@@ -711,29 +669,25 @@
           ]
         },
         {
-          "latestoffers": [
-            {
-              "availability": "Available",
-              "firstrecorded_at": 1432037300,
-              "currency": "USD",
-              "lastrecorded_at": 1432037300,
-              "seller": "ANTOnline",
-              "id": "3R33ZdRyK8KOq0I6Sa8Umi",
-              "price": "429.14",
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "availability": "Available",
+            "firstrecorded_at": 1432037300,
+            "currency": "USD",
+            "lastrecorded_at": 1432037300,
+            "seller": "ANTOnline",
+            "id": "3R33ZdRyK8KOq0I6Sa8Umi",
+            "price": "429.14",
+            "isactive": 0
+          }],
           "name": "antonline.com",
           "recentoffers_count": 0,
-          "url":
-            "http://www.antonline.com/p_Dell--i35412000BLK--i35412000BLK_1133445.htm",
+          "url": "http://www.antonline.com/p_Dell--i35412000BLK--i35412000BLK_1133445.htm",
           "sku": "1133445"
         },
         {
           "recentoffers_count": 0,
           "name": "walmart.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "firstrecorded_at": 1498358300,
               "currency": "USD",
               "availability": "Not Available",
@@ -758,8 +712,7 @@
           "url": "http://www.walmart.com/ip/48454345"
         }
       ],
-      "description":
-        "AMD A4-6210U processor, 4GB memory, 500GB hard dri... (visit site URLs for full description)",
+      "description": "AMD A4-6210U processor, 4GB memory, 500GB hard dri... (visit site URLs for full description)",
       "features": {
         "Laptop Type": "Netbooks",
         "Maximum Screen Resolution": "1366 x 768",
@@ -820,13 +773,11 @@
         "Memory Type": "DDR3",
         "Condition": "New",
         "TV Tuner": "No",
-        "Included Software Bundles":
-          "McAfee TPeaks Live Safe - 30 day,Microsoft Office Trial (OHT13M)",
+        "Included Software Bundles": "McAfee TPeaks Live Safe - 30 day,Microsoft Office Trial (OHT13M)",
         "Hard Drive Speed": "5400 rpm",
         "PC Card Type": "None",
         "WiDi Ready (Intel Wireless Display)": "No",
-        "blob":
-          "1 USB 3.0 port for faster data transfer to USB 3.0-enabled hard drives and peripherals; 2 USB 2.0 ports; 15.6-inch LED backlit touch display renders images in crisp resolutions up to 1366 x 768; 4GB DDR3L memory keeps pace with busy multitasking; 500GB 5400RPM SATA hard drive offers ample storage space for your data; AMD A4 1.8GHz processor with 3MB cache; Backed by a 1-year limited warranty; Built-in Wi-Fi (802.11n) ensures fast, stable connections to home networks and hotspots; Integrated video ensures solid performance while watching videos and editing photos; Multi-format memory card reader for easy data transfer between your laptop and cameras, camcorders, cellphones, and other devices; Windows 8.1 operating system",
+        "blob": "1 USB 3.0 port for faster data transfer to USB 3.0-enabled hard drives and peripherals; 2 USB 2.0 ports; 15.6-inch LED backlit touch display renders images in crisp resolutions up to 1366 x 768; 4GB DDR3L memory keeps pace with busy multitasking; 500GB 5400RPM SATA hard drive offers ample storage space for your data; AMD A4 1.8GHz processor with 3MB cache; Backed by a 1-year limited warranty; Built-in Wi-Fi (802.11n) ensures fast, stable connections to home networks and hotspots; Integrated video ensures solid performance while watching videos and editing photos; Multi-format memory card reader for easy data transfer between your laptop and cameras, camcorders, cellphones, and other devices; Windows 8.1 operating system",
         "E-Sata Port": "No",
         "Memory Range": "6.1GB - 8GB",
         "Microphone Jacks": "1",
@@ -849,8 +800,7 @@
       "price": "356.83",
       "model": "I34511001BLK",
       "created_at": 1428498860,
-      "name":
-        "Dell - Inspiron 14\" Laptop - Intel Celeron - 2GB Memory - 500GB Hard Drive - Black",
+      "name": "Dell - Inspiron 14\" Laptop - Intel Celeron - 2GB Memory - 500GB Hard Drive - Black",
       "messages": [],
       "geo": ["usa"],
       "ean": "0884116164890",
@@ -859,31 +809,26 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/f412a38d03ab3939d8a2ba48f98c3be7,0.jpg"
       ],
       "weight": "1769010.24",
-      "sitedetails": [
-        {
-          "latestoffers": [
-            {
-              "price": "249.99",
-              "currency": "USD",
-              "condition": "New",
-              "firstrecorded_at": 1428498800,
-              "seller": "BestBuy",
-              "id": "0ocXp8DsRMUGImg8SsYasm",
-              "lastrecorded_at": 1438622000,
-              "isactive": 0
-            }
-          ],
+      "sitedetails": [{
+          "latestoffers": [{
+            "price": "249.99",
+            "currency": "USD",
+            "condition": "New",
+            "firstrecorded_at": 1428498800,
+            "seller": "BestBuy",
+            "id": "0ocXp8DsRMUGImg8SsYasm",
+            "lastrecorded_at": 1438622000,
+            "isactive": 0
+          }],
           "recentoffers_count": 0,
           "sku": "3511016",
-          "url":
-            "http://www.bestbuy.com/site/dell-inspiron-14-laptop-intel-celeron-2gb-memory-500gb-hard-drive-black/3511016.p",
+          "url": "http://www.bestbuy.com/site/dell-inspiron-14-laptop-intel-celeron-2gb-memory-500gb-hard-drive-black/3511016.p",
           "name": "bestbuy.com"
         },
         {
           "name": "datavis.com",
           "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=796912",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "269.99",
               "lastrecorded_at": 1437428500,
               "isactive": 0,
@@ -922,8 +867,7 @@
         },
         {
           "name": "frys.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "currency": "USD",
               "price": "179.00",
               "lastrecorded_at": 1444727400,
@@ -948,8 +892,7 @@
               "currency": "USD",
               "id": "6OOndQANxA6mAEqYIQgK6s",
               "seller": "Frys",
-              "availability":
-                "Unavailable Notify me when available While supplies last",
+              "availability": "Unavailable Notify me when available While supplies last",
               "firstrecorded_at": 1437044000,
               "lastrecorded_at": 1439698300,
               "isactive": 0
@@ -960,8 +903,7 @@
           "recentoffers_count": 0
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "199.99",
               "currency": "USD",
               "seller": "Office Depot",
@@ -999,8 +941,7 @@
           "recentoffers_count": 0,
           "sku": "68342",
           "url": "http://www.electronicexpress.com/catalog/68342",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "currency": "USD",
               "price": "269.50",
               "lastrecorded_at": 1469201000,
@@ -1034,29 +975,25 @@
         },
         {
           "name": "bestbuy.com",
-          "url":
-            "http://www.bestbuy.com/site/dell-inspiron-14-laptop-intel-celeron-2gb-memory-500gb-hard-drive-black/1312163377.p",
-          "latestoffers": [
-            {
-              "price": "249.00",
-              "lastrecorded_at": 1442924200,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1442924200,
-              "id": "7iFv3Qg38qyUK68ocIQyoI",
-              "condition": "New",
-              "availability": "Available",
-              "seller": "ElectronicExpress"
-            }
-          ],
+          "url": "http://www.bestbuy.com/site/dell-inspiron-14-laptop-intel-celeron-2gb-memory-500gb-hard-drive-black/1312163377.p",
+          "latestoffers": [{
+            "price": "249.00",
+            "lastrecorded_at": 1442924200,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1442924200,
+            "id": "7iFv3Qg38qyUK68ocIQyoI",
+            "condition": "New",
+            "availability": "Available",
+            "seller": "ElectronicExpress"
+          }],
           "recentoffers_count": 0,
           "sku": "1312163377"
         },
         {
           "url": "http://www.amazon.com/dp/B00SIJH3TG",
           "name": "amazon.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "356.83",
               "lastrecorded_at": 1521541200,
               "isactive": 1,
@@ -1064,8 +1001,7 @@
               "firstrecorded_at": 1520714900,
               "id": "7XChS8pDjkcK8mg8cKwuaw",
               "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "availability": "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
               "seller": "Triplenet Pricing INC"
             },
             {
@@ -1095,8 +1031,7 @@
           "recentoffers_count": 3
         }
       ],
-      "description":
-        "Live, learn and share with the surprisingly afford... (visit site URLs for full description)",
+      "description": "Live, learn and share with the surprisingly afford... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1366 x 768",
         "Maximum Memory": "4 GB",
@@ -1144,8 +1079,7 @@
         "Processor Model": "N2840",
         "Memory Standard": "DDR3L-1600/PC3-12800",
         "Backlight Technology": "LED",
-        "blob":
-          "Intel Celeron N2840 2.16 GHz Processor; 2 GB DDR3 RAM; 500 GB HDD; HDMI 1.4a, USB 3.0 (1), USB 2.0 (2), Kensington lock slot, Media Card Reader 3-in-1, headphone/mic; 14 inch 1366 x 768 pixels LED-lit Screen; Windows 8.1",
+        "blob": "Intel Celeron N2840 2.16 GHz Processor; 2 GB DDR3 RAM; 500 GB HDD; HDMI 1.4a, USB 3.0 (1), USB 2.0 (2), Kensington lock slot, Media Card Reader 3-in-1, headphone/mic; 14 inch 1366 x 768 pixels LED-lit Screen; Windows 8.1",
         "Wi-Fi": "Yes",
         "Number of Cells": "4-cell",
         "Wi-Fi Standard": "IEEE 802.11b/g/n"
@@ -1170,34 +1104,28 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/370bd8158f3350885f2341a1359296e2,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "url": "http://www.staples.com/product_1689654",
-          "latestoffers": [
-            {
-              "availability": "Not Available",
-              "lastrecorded_at": 1519139000,
-              "price": "449.99",
-              "currency": "USD",
-              "id": "1dTnGLNlyWwOQYGosQGgYg",
-              "seller": "Staples",
-              "firstrecorded_at": 1505448600,
-              "isactive": 0
-            }
-          ],
-          "name": "staples.com",
-          "recentoffers_count": 0,
-          "listprice": "449.99",
-          "listprice_currency": "USD",
-          "sku": "1689654"
-        }
-      ],
-      "description":
-        "With the performance of a laptop and versatility o... (visit site URLs for full description)",
+      "sitedetails": [{
+        "url": "http://www.staples.com/product_1689654",
+        "latestoffers": [{
+          "availability": "Not Available",
+          "lastrecorded_at": 1519139000,
+          "price": "449.99",
+          "currency": "USD",
+          "id": "1dTnGLNlyWwOQYGosQGgYg",
+          "seller": "Staples",
+          "firstrecorded_at": 1505448600,
+          "isactive": 0
+        }],
+        "name": "staples.com",
+        "recentoffers_count": 0,
+        "listprice": "449.99",
+        "listprice_currency": "USD",
+        "sku": "1689654"
+      }],
+      "description": "With the performance of a laptop and versatility o... (visit site URLs for full description)",
       "features": {
         "Computer Use": "Everyday",
-        "blob":
-          "IntelÂ® CeleronÂ® Processor N2840 (1M Cache, up to 2.58 GHz); Windows 8.1 (64Bit) English; 4GB Single Channel DDR3L 1600MHz (4GBx1); Integrated Video*; 500G 5.4k HDD; 2-in1 Media Card Reader and USB 3.0; 11.6 inch LED Backlit Touch Display with Truelife and HD resolution (1366 x 768); Dell Wireless-N 1707 + Bluetooth 4.0; Stereo speakers + MaxxAudio; English Non-Backlit Keyboard; 3-cell 43 WHr Lithium-Ion Battery (removable); USB 3.0 with PowerShare (1), USB 2.0 (2), HDMI, SD Card Reader, Headset/Mic Port"
+        "blob": "IntelÂ® CeleronÂ® Processor N2840 (1M Cache, up to 2.58 GHz); Windows 8.1 (64Bit) English; 4GB Single Channel DDR3L 1600MHz (4GBx1); Integrated Video*; 500G 5.4k HDD; 2-in1 Media Card Reader and USB 3.0; 11.6 inch LED Backlit Touch Display with Truelife and HD resolution (1366 x 768); Dell Wireless-N 1707 + Bluetooth 4.0; Stereo speakers + MaxxAudio; English Non-Backlit Keyboard; 3-cell 43 WHr Lithium-Ion Battery (removable); USB 3.0 with PowerShare (1), USB 2.0 (2), HDMI, SD Card Reader, Headset/Mic Port"
       },
       "images_total": 1,
       "category": "Laptop & Netbook Computer Accessories"
@@ -1222,54 +1150,48 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/fdfc797944d3131e1359c3cc08083e5c,0.jpg"
       ],
       "weight": "2358680.324",
-      "sitedetails": [
-        {
-          "latestoffers": [
-            {
-              "price": "324.99",
-              "lastrecorded_at": 1520954600,
-              "shipping": "849",
-              "isactive": 1,
-              "currency": "USD",
-              "firstrecorded_at": 1511419000,
-              "id": "4mI3TBxOCGaMoSaUa6eaeY",
-              "condition": "new",
-              "availability": "Available",
-              "seller": "Forbes Discount Store"
-            },
-            {
-              "price": "249.99",
-              "lastrecorded_at": 1509833600,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1509833600,
-              "id": "476hf1ntoW4IaWeiw8YAYm",
-              "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
-              "seller": "COSTECH ELECTRONICS"
-            },
-            {
-              "price": "299.99",
-              "lastrecorded_at": 1506394900,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1506394900,
-              "id": "30YH50Ei48ywSmwSSscEO0",
-              "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
-              "seller": "COSTECH ELECTRONICS"
-            }
-          ],
-          "recentoffers_count": 1,
-          "url": "http://www.amazon.com/dp/B00BIBAUQE",
-          "name": "amazon.com",
-          "sku": "B00BIBAUQE"
-        }
-      ],
-      "description":
-        "Established technology in a feature-packed and bud... (visit site URLs for full description)",
+      "sitedetails": [{
+        "latestoffers": [{
+            "price": "324.99",
+            "lastrecorded_at": 1520954600,
+            "shipping": "849",
+            "isactive": 1,
+            "currency": "USD",
+            "firstrecorded_at": 1511419000,
+            "id": "4mI3TBxOCGaMoSaUa6eaeY",
+            "condition": "new",
+            "availability": "Available",
+            "seller": "Forbes Discount Store"
+          },
+          {
+            "price": "249.99",
+            "lastrecorded_at": 1509833600,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1509833600,
+            "id": "476hf1ntoW4IaWeiw8YAYm",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+            "seller": "COSTECH ELECTRONICS"
+          },
+          {
+            "price": "299.99",
+            "lastrecorded_at": 1506394900,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1506394900,
+            "id": "30YH50Ei48ywSmwSSscEO0",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+            "seller": "COSTECH ELECTRONICS"
+          }
+        ],
+        "recentoffers_count": 1,
+        "url": "http://www.amazon.com/dp/B00BIBAUQE",
+        "name": "amazon.com",
+        "sku": "B00BIBAUQE"
+      }],
+      "description": "Established technology in a feature-packed and bud... (visit site URLs for full description)",
       "features": {
         "Max Screen Resolution": "1366x768 pixels",
         "Brand Name": "Dell",
@@ -1287,8 +1209,7 @@
         "Processor Brand": "Intel",
         "Hard Drive Rotational Speed": "5400 RPM",
         "Wireless Type": "802.11n",
-        "blob":
-          "Intel Pentium B960 2.2 GHz; 4 GB DDR3; 320 GB 5400 rpm Hard Drive; 15.6-Inch Screen; Windows 8",
+        "blob": "Intel Pentium B960 2.2 GHz; 4 GB DDR3; 320 GB 5400 rpm Hard Drive; 15.6-Inch Screen; Windows 8",
         "RAM": "4 GB DDR3"
       },
       "images_total": 1,
@@ -1314,52 +1235,49 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/48c3785c3aaa2d1245b14a4cca6817ed,0.jpg"
       ],
       "weight": "498951.61",
-      "sitedetails": [
-        {
-          "name": "amazon.com",
-          "recentoffers_count": 1,
-          "latestoffers": [
-            {
-              "price": "423.00",
-              "lastrecorded_at": 1521914700,
-              "shipping": "3500",
-              "isactive": 1,
-              "currency": "USD",
-              "firstrecorded_at": 1521914700,
-              "id": "6IDdSogBIOIqi0CykQeq6M",
-              "condition": "New",
-              "availability": "[BBX: Buy Box][APR: Shipping with Amazon Prime]",
-              "seller": "Ersazza"
-            },
-            {
-              "price": "446.00",
-              "lastrecorded_at": 1519556700,
-              "shipping": "3500",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1517917700,
-              "id": "7YsPgX1RxYEeOk204Qqoqs",
-              "condition": "new",
-              "availability": "Available",
-              "seller": "Ersazza"
-            },
-            {
-              "price": "409.00",
-              "lastrecorded_at": 1511365700,
-              "shipping": "3500",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1511365700,
-              "id": "68eGrEcfU806SmaCmmuMcs",
-              "condition": "New",
-              "availability": "[BBX: Buy Box][APR: Shipping with Amazon Prime]",
-              "seller": "Ersazza"
-            }
-          ],
-          "url": "http://www.amazon.com/dp/B002N7OFTA",
-          "sku": "B002N7OFTA"
-        }
-      ],
+      "sitedetails": [{
+        "name": "amazon.com",
+        "recentoffers_count": 1,
+        "latestoffers": [{
+            "price": "423.00",
+            "lastrecorded_at": 1521914700,
+            "shipping": "3500",
+            "isactive": 1,
+            "currency": "USD",
+            "firstrecorded_at": 1521914700,
+            "id": "6IDdSogBIOIqi0CykQeq6M",
+            "condition": "New",
+            "availability": "[BBX: Buy Box][APR: Shipping with Amazon Prime]",
+            "seller": "Ersazza"
+          },
+          {
+            "price": "446.00",
+            "lastrecorded_at": 1519556700,
+            "shipping": "3500",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1517917700,
+            "id": "7YsPgX1RxYEeOk204Qqoqs",
+            "condition": "new",
+            "availability": "Available",
+            "seller": "Ersazza"
+          },
+          {
+            "price": "409.00",
+            "lastrecorded_at": 1511365700,
+            "shipping": "3500",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1511365700,
+            "id": "68eGrEcfU806SmaCmmuMcs",
+            "condition": "New",
+            "availability": "[BBX: Buy Box][APR: Shipping with Amazon Prime]",
+            "seller": "Ersazza"
+          }
+        ],
+        "url": "http://www.amazon.com/dp/B002N7OFTA",
+        "sku": "B002N7OFTA"
+      }],
       "description": "Kompatibel mit: Dell Inspiron - 1521 (Sapporo)",
       "features": {
         "blob": "WP042",
@@ -1379,8 +1297,7 @@
       "upc": "727523047892",
       "price": "248.99",
       "created_at": 1478708355,
-      "name":
-        "Refurbished Dell Inspiron 14 3000 Laptop Intel Celeron N2840 2.16GHz 2GB 500GB 14in W8.1",
+      "name": "Refurbished Dell Inspiron 14 3000 Laptop Intel Celeron N2840 2.16GHz 2GB 500GB 14in W8.1",
       "messages": [],
       "variation_secondaryids": ["7Vl6VXwHBIqkeWamWKCg2U"],
       "geo": ["usa"],
@@ -1389,48 +1306,44 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/b6a16145372cc5346cf656bcfae783df,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "recentoffers_count": 0,
-          "url": "http://www.walmart.com/ip/104671471",
-          "name": "walmart.com",
-          "sku": "104671471",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1520017300,
-              "price": "248.99",
-              "currency": "USD",
-              "id": "7io0l9FkIaMa8UqMSCyYWU",
-              "firstrecorded_at": 1499297700,
-              "availability": "Not Available",
-              "seller": "SaveTronix",
-              "isactive": 0
-            },
-            {
-              "lastrecorded_at": 1491146400,
-              "firstrecorded_at": 1485385000,
-              "availability": "Available",
-              "price": "249.00",
-              "seller": "SaveTronix",
-              "currency": "USD",
-              "id": "33oBuhwpHMugY4cWWgy6ig",
-              "isactive": 0
-            },
-            {
-              "id": "5RZGRtwsmOKkoYQIeI4iwe",
-              "shipping": "0",
-              "currency": "USD",
-              "seller": "ConsumerDepot",
-              "firstrecorded_at": 1478708300,
-              "lastrecorded_at": 1478708300,
-              "price": "179.00",
-              "isactive": 0
-            }
-          ]
-        }
-      ],
-      "description":
-        "Warning - Choking Hazard - Children Under 3 This t... (visit site URLs for full description)",
+      "sitedetails": [{
+        "recentoffers_count": 0,
+        "url": "http://www.walmart.com/ip/104671471",
+        "name": "walmart.com",
+        "sku": "104671471",
+        "latestoffers": [{
+            "lastrecorded_at": 1520017300,
+            "price": "248.99",
+            "currency": "USD",
+            "id": "7io0l9FkIaMa8UqMSCyYWU",
+            "firstrecorded_at": 1499297700,
+            "availability": "Not Available",
+            "seller": "SaveTronix",
+            "isactive": 0
+          },
+          {
+            "lastrecorded_at": 1491146400,
+            "firstrecorded_at": 1485385000,
+            "availability": "Available",
+            "price": "249.00",
+            "seller": "SaveTronix",
+            "currency": "USD",
+            "id": "33oBuhwpHMugY4cWWgy6ig",
+            "isactive": 0
+          },
+          {
+            "id": "5RZGRtwsmOKkoYQIeI4iwe",
+            "shipping": "0",
+            "currency": "USD",
+            "seller": "ConsumerDepot",
+            "firstrecorded_at": 1478708300,
+            "lastrecorded_at": 1478708300,
+            "price": "179.00",
+            "isactive": 0
+          }
+        ]
+      }],
+      "description": "Warning - Choking Hazard - Children Under 3 This t... (visit site URLs for full description)",
       "images_total": 1,
       "category": "Laptops"
     }

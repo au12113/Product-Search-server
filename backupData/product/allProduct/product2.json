@@ -2,8 +2,7 @@
   "code": "OK",
   "offset": 0,
   "results_count": 10,
-  "results": [
-    {
+  "results": [{
       "gtins": ["00886227861781"],
       "sem3_id": "7TIctd1X2eYKUemmQWQMgE",
       "color": "Silver/gray",
@@ -28,24 +27,20 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/9c374d4a37507c2eb7a8c28ff5fa17e3,0.jpg"
       ],
       "weight": "1746330.62",
-      "sitedetails": [
-        {
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1420314400,
-              "firstrecorded_at": 1420314400,
-              "id": "2TItseOMzQkSmcesK64wow",
-              "price": "298.08",
-              "availability": "Available",
-              "seller": "Sears Brands, LLC.",
-              "currency": "USD",
-              "isactive": 0
-            }
-          ],
+      "sitedetails": [{
+          "latestoffers": [{
+            "lastrecorded_at": 1420314400,
+            "firstrecorded_at": 1420314400,
+            "id": "2TItseOMzQkSmcesK64wow",
+            "price": "298.08",
+            "availability": "Available",
+            "seller": "Sears Brands, LLC.",
+            "currency": "USD",
+            "isactive": 0
+          }],
           "sku": "020V007360947000P",
           "name": "kmart.com",
-          "url":
-            "http://www.kmart.com/asus-t100ta-10.1inch-transformer-book-with-intel-atom/p-020V007360947000P",
+          "url": "http://www.kmart.com/asus-t100ta-10.1inch-transformer-book-with-intel-atom/p-020V007360947000P",
           "recentoffers_count": 0
         },
         {
@@ -53,8 +48,7 @@
           "name": "bjs.com",
           "url": "http://www.bjs.com/.product.281021",
           "sku": "281021",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "id": "5cKoNb3RDcOESegeWOYwSA",
               "availability": "Available",
               "price": "149.99",
@@ -91,8 +85,7 @@
           "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=771558",
           "name": "datavis.com",
           "sku": "771558",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "326.24",
               "lastrecorded_at": 1458184200,
               "isactive": 0,
@@ -128,8 +121,7 @@
           ]
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "availability": "in-store",
               "price": "129.50",
               "id": "4mxpQ2DXIOQkQG64IIysQ2",
@@ -166,8 +158,7 @@
           "url": "http://www.electronicexpress.com/catalog/66615"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "lastrecorded_at": 1449557800,
               "firstrecorded_at": 1448285400,
               "price": "349.11",
@@ -201,12 +192,10 @@
           "sku": "1158288",
           "recentoffers_count": 0,
           "name": "antonline.com",
-          "url":
-            "http://www.antonline.com/p_Asus--90NB06N1-M00410--Transformer-Book-10.1--Detachable-2-in-1-Touchscreen-Laptop%2C-32-GB-10.1---BayTrail-HD-TZ3735F-2GB_1158288.htm"
+          "url": "http://www.antonline.com/p_Asus--90NB06N1-M00410--Transformer-Book-10.1--Detachable-2-in-1-Touchscreen-Laptop%2C-32-GB-10.1---BayTrail-HD-TZ3735F-2GB_1158288.htm"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "firstrecorded_at": 1440352400,
               "lastrecorded_at": 1440352400,
               "currency": "USD",
@@ -232,8 +221,7 @@
           "sku": "429442"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "currency": "USD",
               "seller": "TigerDirect",
               "availability": "ADD TO CART",
@@ -265,8 +253,7 @@
             }
           ],
           "recentoffers_count": 0,
-          "url":
-            "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9514701",
+          "url": "http://www.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=9514701",
           "name": "tigerdirect.com",
           "sku": "9514701"
         },
@@ -275,8 +262,7 @@
           "url": "http://www.amazon.com/dp/B00OBQ59UK",
           "name": "amazon.com",
           "sku": "B00OBQ59UK",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "299.99",
               "lastrecorded_at": 1521432200,
               "isactive": 1,
@@ -284,8 +270,7 @@
               "firstrecorded_at": 1521432200,
               "id": "5jcla5eVRA6ieyg0WKummk",
               "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "availability": "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
               "seller": "Computer-Solutions"
             },
             {
@@ -307,8 +292,7 @@
               "firstrecorded_at": 1520722900,
               "id": "0q9br1CUhE0eO2iQUMIkqs",
               "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "availability": "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
               "seller": "WE sale"
             }
           ]
@@ -316,11 +300,9 @@
         {
           "sku": "1312741803",
           "recentoffers_count": 0,
-          "url":
-            "http://www.bestbuy.com/site/asus-transformer-book-32gb-tablet-pc-10-1-inplane-switching-wireless-lan-intel-atom-z3735f-4core-1-33ghz-gray/1312741803.p",
+          "url": "http://www.bestbuy.com/site/asus-transformer-book-32gb-tablet-pc-10-1-inplane-switching-wireless-lan-intel-atom-z3735f-4core-1-33ghz-gray/1312741803.p",
           "name": "bestbuy.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "326.24",
               "lastrecorded_at": 1455908100,
               "isactive": 0,
@@ -356,8 +338,7 @@
           ]
         }
       ],
-      "description":
-        "ASUS Transformer Book T100TAF-B1-BF 10.1\" Detachab... (visit site URLs for full description)",
+      "description": "ASUS Transformer Book T100TAF-B1-BF 10.1\" Detachab... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1366 x 768",
         "Manufacturer Website Address": "http://usa.asus.com",
@@ -426,8 +407,7 @@
         "Burst Frequency": "1.83 GHz",
         "Interfaces/Ports": "Micro HDMI",
         "Features": "Miracast Technology",
-        "blob":
-          "Free MS Office 365 Personal 1 year included. Full Version Win 8.1 with full desktop mode.; Lighting Fast Intel Quad-Core Z3735 1.33 GHz Processor with 2GB RAM.; 32 GB Solid State Storage in tablet. 1 TB OneDrive Cloud Storage for 1 Year.; Chiclet Keyboard Dock with USB 2.0 port (included). Single Speaker in Tablet; Long 11 Hours Battery Life. High Definition 1.2MP Webcam.; Dual-band 802.11N WiFi for fast web browsing. MicroSDXC Card Reader. 1x microHDM, 1x microUSB ports. Bluetooth 4.0.",
+        "blob": "Free MS Office 365 Personal 1 year included. Full Version Win 8.1 with full desktop mode.; Lighting Fast Intel Quad-Core Z3735 1.33 GHz Processor with 2GB RAM.; 32 GB Solid State Storage in tablet. 1 TB OneDrive Cloud Storage for 1 Year.; Chiclet Keyboard Dock with USB 2.0 port (included). Single Speaker in Tablet; Long 11 Hours Battery Life. High Definition 1.2MP Webcam.; Dual-band 802.11N WiFi for fast web browsing. MicroSDXC Card Reader. 1x microHDM, 1x microUSB ports. Bluetooth 4.0.",
         "Green Compliant": "Yes"
       },
       "images_total": 1,
@@ -456,31 +436,26 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/3191d436199d718dc233eeb8a09a2f74,0.jpg"
       ],
       "weight": "3175146.59",
-      "sitedetails": [
-        {
-          "url":
-            "http://www.kmart.com/asus-pro-essential-e451ld-14inch-notebook-with-intel/p-020V008708822000P",
+      "sitedetails": [{
+          "url": "http://www.kmart.com/asus-pro-essential-e451ld-14inch-notebook-with-intel/p-020V008708822000P",
           "sku": "020V008708822000P",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1425956700,
-              "availability": "Available",
-              "price": "879.99",
-              "seller": "Sears Brands, LLC.",
-              "currency": "USD",
-              "id": "1fuZYvN9Gue082gWeaaSqw",
-              "firstrecorded_at": 1425956700,
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "lastrecorded_at": 1425956700,
+            "availability": "Available",
+            "price": "879.99",
+            "seller": "Sears Brands, LLC.",
+            "currency": "USD",
+            "id": "1fuZYvN9Gue082gWeaaSqw",
+            "firstrecorded_at": 1425956700,
+            "isactive": 0
+          }],
           "recentoffers_count": 0,
           "name": "kmart.com"
         },
         {
           "recentoffers_count": 0,
           "name": "datavis.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "841.75",
               "lastrecorded_at": 1441933700,
               "isactive": 0,
@@ -518,8 +493,7 @@
           "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=748621"
         }
       ],
-      "description":
-        "AsusPRO Essential Series business notebooks are bu... (visit site URLs for full description)",
+      "description": "AsusPRO Essential Series business notebooks are bu... (visit site URLs for full description)",
       "features": {
         "Laptop Type": "PC laptops",
         "Maximum Screen Resolution": "1366 x 768",
@@ -614,15 +588,12 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/b142d59d307984aed5bf888d53dca0f9,0.jpg"
       ],
       "weight": "2267961.85",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "name": "kmart.com",
-          "url":
-            "http://www.kmart.com/asus-b551lg-pro-b-series-15.6inch-notebook-with/p-020V008958150000P",
+          "url": "http://www.kmart.com/asus-b551lg-pro-b-series-15.6inch-notebook-with/p-020V008958150000P",
           "sku": "020V008958150000P",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "1249.64",
               "lastrecorded_at": 1480121100,
               "seller": "Sears Brands, LLC.",
@@ -645,13 +616,11 @@
           ]
         },
         {
-          "url":
-            "http://www.overstock.com/Electronics/Asus-ASUSPRO-ADVANCED-B551LG-XB51-15.6-Notebook-Intel-Core-i5-i5-4/9205016/product.html",
+          "url": "http://www.overstock.com/Electronics/Asus-ASUSPRO-ADVANCED-B551LG-XB51-15.6-Notebook-Intel-Core-i5-i5-4/9205016/product.html",
           "name": "overstock.com",
           "sku": "9205016",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "seller": "Overstock",
               "price": "1299.00",
               "lastrecorded_at": 1503361300,
@@ -687,8 +656,7 @@
           "sku": "271111298",
           "name": "rakuten.com",
           "url": "http://www.rakuten.com/prod/271111298.html",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "1395.41",
               "lastrecorded_at": 1490642400,
               "shipping": "1230",
@@ -716,8 +684,7 @@
           "recentoffers_count": 0
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "1197.83",
               "lastrecorded_at": 1458251600,
               "isactive": 0,
@@ -757,8 +724,7 @@
           "url": "http://www.datavis.com/cgi-bin/product.cgi?prrfnbr=756771"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "currency": "USD",
               "id": "4bg0waEBXECM04amEOQq48",
               "firstrecorded_at": 1478313500,
@@ -791,26 +757,23 @@
           ],
           "recentoffers_count": 0,
           "sku": "1132376",
-          "url":
-            "http://www.antonline.com/p_Asus--B551LG-XB51--ASUSPRO-ADVANCED-B551LG-XB51---15.6----Core-i5-4310U---Windows-7-Pro-64-bit_1132376.htm",
+          "url": "http://www.antonline.com/p_Asus--B551LG-XB51--ASUSPRO-ADVANCED-B551LG-XB51---15.6----Core-i5-4310U---Windows-7-Pro-64-bit_1132376.htm",
           "name": "antonline.com"
         },
         {
           "sku": "ASB551LGXB51",
           "name": "adorama.com",
           "url": "http://www.adorama.com/ASB551LGXB51.html",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1454728500,
-              "price": "1200.99",
-              "seller": "Adorama",
-              "id": "5kCzGiMdyCsscMOoiwucMC",
-              "currency": "USD",
-              "availability": "available",
-              "firstrecorded_at": 1449978600,
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "lastrecorded_at": 1454728500,
+            "price": "1200.99",
+            "seller": "Adorama",
+            "id": "5kCzGiMdyCsscMOoiwucMC",
+            "currency": "USD",
+            "availability": "available",
+            "firstrecorded_at": 1449978600,
+            "isactive": 0
+          }],
           "recentoffers_count": 0
         },
         {
@@ -828,8 +791,7 @@
           "sku": "B009WIOEGM"
         }
       ],
-      "description":
-        "Style:Windows 7 15.6\" HD (1366*768)/Intel Pentium ... (visit site URLs for full description)",
+      "description": "Style:Windows 7 15.6\" HD (1366*768)/Intel Pentium ... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1920 x 1080",
         "Manufacturer Website Address": "http://usa.asus.com",
@@ -898,8 +860,7 @@
         "Memory Standard": "DDR3L-1600/PC3-12800",
         "463-5104": "$1,430.13",
         "Interfaces/Ports": "Total Number of USB Ports",
-        "blob":
-          "Intel Pentium_B970 Processor 2.3GHz; 4 GB SO-DIMM RAM; 500GB 5400rpm Hard Drive; 15.6-Inch Screen; Windows 7 Home Premium 64-bit",
+        "blob": "Intel Pentium_B970 Processor 2.3GHz; 4 GB SO-DIMM RAM; 500GB 5400rpm Hard Drive; 15.6-Inch Screen; Windows 7 Home Premium 64-bit",
         "463-5105": "$1,757.10",
         "Green Compliant": "Yes",
         "Solid State Drive Interface": "Serial ATA/600",
@@ -931,50 +892,41 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/f7a392d34fa604215050adde8f9c0536,0.jpg"
       ],
       "weight": "1746330.62",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "name": "kmart.com",
           "recentoffers_count": 0,
           "sku": "020V007360948000P",
-          "latestoffers": [
-            {
-              "availability": "Available",
-              "price": "407.99",
-              "seller": "Sears Brands, LLC.",
-              "lastrecorded_at": 1420314400,
-              "id": "4IzpT6Oju48kE8GkGgWuMg",
-              "currency": "USD",
-              "firstrecorded_at": 1420314400,
-              "isactive": 0
-            }
-          ],
-          "url":
-            "http://www.kmart.com/asus-t100ta-10.1inch-transformer-book-with-intel-atom/p-020V007360948000P"
+          "latestoffers": [{
+            "availability": "Available",
+            "price": "407.99",
+            "seller": "Sears Brands, LLC.",
+            "lastrecorded_at": 1420314400,
+            "id": "4IzpT6Oju48kE8GkGgWuMg",
+            "currency": "USD",
+            "firstrecorded_at": 1420314400,
+            "isactive": 0
+          }],
+          "url": "http://www.kmart.com/asus-t100ta-10.1inch-transformer-book-with-intel-atom/p-020V007360948000P"
         },
         {
-          "latestoffers": [
-            {
-              "availability": "Available",
-              "price": "369.44",
-              "seller": "Sears Brands, LLC.",
-              "lastrecorded_at": 1420314400,
-              "id": "7aaNq7cnqKkqKoCKmc0OOU",
-              "currency": "USD",
-              "firstrecorded_at": 1420314400,
-              "isactive": 0
-            }
-          ],
-          "url":
-            "http://www.kmart.com/asus-t100ta-10.1inch-transformer-book-with-intel-atom/p-020V007360946000P",
+          "latestoffers": [{
+            "availability": "Available",
+            "price": "369.44",
+            "seller": "Sears Brands, LLC.",
+            "lastrecorded_at": 1420314400,
+            "id": "7aaNq7cnqKkqKoCKmc0OOU",
+            "currency": "USD",
+            "firstrecorded_at": 1420314400,
+            "isactive": 0
+          }],
+          "url": "http://www.kmart.com/asus-t100ta-10.1inch-transformer-book-with-intel-atom/p-020V007360946000P",
           "name": "kmart.com",
           "recentoffers_count": 0,
           "sku": "020V007360946000P"
         },
         {
-          "url":
-            "http://www.pcrichard.com/Asus/Asus-Transformer-Book-10-1inch-Intel-Atom-Quad-Core-Processor-Ultraportable-Notebook-with-Detachable-Tablet-with-Windows-8-1-Gray/T100TAMC1GM.pcrp",
-          "latestoffers": [
-            {
+          "url": "http://www.pcrichard.com/Asus/Asus-Transformer-Book-10-1inch-Intel-Atom-Quad-Core-Processor-Ultraportable-Notebook-with-Detachable-Tablet-with-Windows-8-1-Gray/T100TAMC1GM.pcrp",
+          "latestoffers": [{
               "seller": "P.C. Richard & Son",
               "lastrecorded_at": 1431732900,
               "currency": "USD",
@@ -1009,11 +961,9 @@
         {
           "sku": "1312210064",
           "recentoffers_count": 0,
-          "url":
-            "http://www.bestbuy.com/site/asus-transformer-book-t100tar-b1-grs-net-tablet-pc-10-1-wireless-lan-intel-atom-z3775-1-46-ghz-gray/1312210064.p",
+          "url": "http://www.bestbuy.com/site/asus-transformer-book-t100tar-b1-grs-net-tablet-pc-10-1-wireless-lan-intel-atom-z3775-1-46-ghz-gray/1312210064.p",
           "name": "bestbuy.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "357.13",
               "lastrecorded_at": 1455009300,
               "isactive": 0,
@@ -1052,8 +1002,7 @@
           "name": "antonline.com",
           "recentoffers_count": 0,
           "sku": "1158143",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "id": "7asKwpDgNyCAYIaSUIWCOg",
               "currency": "USD",
               "firstrecorded_at": 1429564000,
@@ -1074,32 +1023,28 @@
               "isactive": 0
             }
           ],
-          "url":
-            "http://www.antonline.com/p_Asus--90NB06H1-M00010--Asus-Transformer-Book-T100TAR-B1-GR(S)-Net-tablet-PC---10.1----Wireless-LAN---Intel-Atom-Z3775-1.46-GHz---Gray---2-GB-RAM---32-GB-SSD---Windows-8.1-32-bit---Hybrid---1366-x-768---Bluetooth_1158143.htm"
+          "url": "http://www.antonline.com/p_Asus--90NB06H1-M00010--Asus-Transformer-Book-T100TAR-B1-GR(S)-Net-tablet-PC---10.1----Wireless-LAN---Intel-Atom-Z3775-1.46-GHz---Gray---2-GB-RAM---32-GB-SSD---Windows-8.1-32-bit---Hybrid---1366-x-768---Bluetooth_1158143.htm"
         },
         {
           "name": "rakuten.com",
           "sku": "265035733",
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "price": "289.73",
-              "lastrecorded_at": 1480896600,
-              "shipping": "974",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1478334000,
-              "id": "01Ldn26TnFMgekUQycoaWi",
-              "condition": "New",
-              "availability": "Available",
-              "seller": "LGeOO"
-            }
-          ],
+          "latestoffers": [{
+            "price": "289.73",
+            "lastrecorded_at": 1480896600,
+            "shipping": "974",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1478334000,
+            "id": "01Ldn26TnFMgekUQycoaWi",
+            "condition": "New",
+            "availability": "Available",
+            "seller": "LGeOO"
+          }],
           "url": "http://www.rakuten.com/prod/265035733.html"
         }
       ],
-      "description":
-        "The Asus Transformer Book T100 is the beautiful ul... (visit site URLs for full description)",
+      "description": "The Asus Transformer Book T100 is the beautiful ul... (visit site URLs for full description)",
       "features": {
         "Laptop Type": "PC laptops",
         "Maximum Screen Resolution": "1366 x 768",
@@ -1116,8 +1061,7 @@
         "Operating System Version": "Windows 8.1",
         "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
         "Numeric Keypad": "No",
-        "Manufacturer Warranty - Labor":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "Manufacturer Warranty - Labor": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "Total FireWire Ports": "None",
         "HDMI Ports": "1",
         "HDMI Outputs": "Yes",
@@ -1135,16 +1079,13 @@
         "Max Resolution Format": "720p",
         "Maximum Memory Supported": "2",
         "CPU Brand": "Intel",
-        "Manufacturer Warranty - Software":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "Manufacturer Warranty - Software": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "CPU Speed": "1.4",
-        "Manufacturer Warranty - Hardware":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "Manufacturer Warranty - Hardware": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "Screen Size Range": "10.9 inches or less",
         "GPU Video Type": "Integrated HD Graphics",
         "Optical Audio Port": "No port",
-        "General Warranty":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "General Warranty": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "Package Contents": "T100 Notebook, AC Adapter",
         "3D Ready": "No",
         "Lifestyle": "Home & Student",
@@ -1162,13 +1103,11 @@
         "Memory Type": "DDR3",
         "Condition": "New",
         "TV Tuner": "No",
-        "Included Software Bundles":
-          "Microsoft Office 365 Personal (1 year subscription), OneDrive (1 TB Cloud Storage)",
+        "Included Software Bundles": "Microsoft Office 365 Personal (1 year subscription), OneDrive (1 TB Cloud Storage)",
         "Hard Drive Speed": "5400 rpm",
         "PC Card Type": "None",
         "WiDi Ready (Intel Wireless Display)": "No",
-        "blob":
-          "Intel; 2.0 GB RAM; 64.0 GB Solid State Flash Module; Windows 8.1 32-Bit Edition; 1.46 GHz",
+        "blob": "Intel; 2.0 GB RAM; 64.0 GB Solid State Flash Module; Windows 8.1 32-Bit Edition; 1.46 GHz",
         "E-Sata Port": "No",
         "Memory Range": "2GB or less",
         "VGA Out": "No",
@@ -1191,16 +1130,16 @@
       "geo": ["usa"],
       "updated_at": 1521859678,
       "images": [],
-      "sitedetails": [
-        {
-          "name": "amazon.com",
-          "recentoffers_count": 0,
-          "latestoffers": [],
-          "sku": "B0748SL15W",
-          "url": "http://www.amazon.com/dp/B0748SL15W"
-        }
-      ],
-      "features": { "Brand Name": "Asus" },
+      "sitedetails": [{
+        "name": "amazon.com",
+        "recentoffers_count": 0,
+        "latestoffers": [],
+        "sku": "B0748SL15W",
+        "url": "http://www.amazon.com/dp/B0748SL15W"
+      }],
+      "features": {
+        "Brand Name": "Asus"
+      },
       "images_total": 0,
       "category": "Computers & Accessories"
     },
@@ -1218,20 +1157,16 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/b4c922c3c4f89b01817434acb1822120,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "recentoffers_count": 0,
-          "name": "qvc.com",
-          "latestoffers": [],
-          "sku": "E277459",
-          "url": "http://www.qvc.com/qvc.product.E277459.html"
-        }
-      ],
-      "description":
-        "Find everything you want in a computer with the D5... (visit site URLs for full description)",
+      "sitedetails": [{
+        "recentoffers_count": 0,
+        "name": "qvc.com",
+        "latestoffers": [],
+        "sku": "E277459",
+        "url": "http://www.qvc.com/qvc.product.E277459.html"
+      }],
+      "description": "Find everything you want in a computer with the D5... (visit site URLs for full description)",
       "features": {
-        "blob":
-          "Includes D550MA-RS01 notebook, three-cell lithium-ion battery, AC power adapter, PC Software Suite Premium download card, and manual; 1.86GHz Intel Baytrail-M N2815 dual-core processor, up to 2.13GHz with Turbo; 15.6 diagonal LED glossy HD display with 1366x768 resolution; 4GB DDR3 RAM; 500GB 5400 RPM hard drive; DVD+/-RW, CD-RW drive with dual-layer capability; 802.11b/g/n Wi-Fi; Intel UMA graphics; SonicMaster audio; HD webcam with microphone; Chiclet-style keyboard with numeric keypad; Touchpad; 10/100 ethernet; SD/MMC memory card reader; HDMI, USB 3.0, USB 2.0, VGA, RJ-45 ports; Headphone/microphone jacks; Windows 8, 64-bit; 30-days of Microsoft Office 365 Home Premium; 32GB Asus WebStorage for three years; 1-year Accidental Damage Protection; Measures approximately 15W x 10D x 1-1/4H; weighs 4.7 lbs; UL listed adapter; 1-year Limited Manufacturer's Warranty; Imported; Includes D550MA-RS01 notebook, three-cell lithium-ion battery, AC power adapter, PC Software Suite Premium download card, and manual; 1.86GHz Intel Baytrail-M N2815 dual-core processor, up to 2.13GHz with Turbo; 15.6 diagonal LED glossy HD display with 1366x768 resolution; 4GB DDR3 RAM; 500GB 5400 RPM hard drive; DVD+/-RW, CD-RW drive with dual-layer capability; 802.11b/g/n Wi-Fi; Intel UMA graphics; SonicMaster audio; HD webcam with microphone; Chiclet-style keyboard with numeric keypad; Touchpad; 10/100 ethernet; SD/MMC memory card reader; HDMI, USB 3.0, USB 2.0, VGA, RJ-45 ports; Headphone/microphone jacks; Windows 8, 64-bit; 30-days of Microsoft Office 365 Home Premium; 32GB Asus WebStorage for three years; 1-year Accidental Damage Protection; Measures approximately 15W x 10D x 1-1/4H; weighs 4.7 lbs; UL listed adapter; 1-year Limited Manufacturer's Warranty; Imported"
+        "blob": "Includes D550MA-RS01 notebook, three-cell lithium-ion battery, AC power adapter, PC Software Suite Premium download card, and manual; 1.86GHz Intel Baytrail-M N2815 dual-core processor, up to 2.13GHz with Turbo; 15.6 diagonal LED glossy HD display with 1366x768 resolution; 4GB DDR3 RAM; 500GB 5400 RPM hard drive; DVD+/-RW, CD-RW drive with dual-layer capability; 802.11b/g/n Wi-Fi; Intel UMA graphics; SonicMaster audio; HD webcam with microphone; Chiclet-style keyboard with numeric keypad; Touchpad; 10/100 ethernet; SD/MMC memory card reader; HDMI, USB 3.0, USB 2.0, VGA, RJ-45 ports; Headphone/microphone jacks; Windows 8, 64-bit; 30-days of Microsoft Office 365 Home Premium; 32GB Asus WebStorage for three years; 1-year Accidental Damage Protection; Measures approximately 15W x 10D x 1-1/4H; weighs 4.7 lbs; UL listed adapter; 1-year Limited Manufacturer's Warranty; Imported; Includes D550MA-RS01 notebook, three-cell lithium-ion battery, AC power adapter, PC Software Suite Premium download card, and manual; 1.86GHz Intel Baytrail-M N2815 dual-core processor, up to 2.13GHz with Turbo; 15.6 diagonal LED glossy HD display with 1366x768 resolution; 4GB DDR3 RAM; 500GB 5400 RPM hard drive; DVD+/-RW, CD-RW drive with dual-layer capability; 802.11b/g/n Wi-Fi; Intel UMA graphics; SonicMaster audio; HD webcam with microphone; Chiclet-style keyboard with numeric keypad; Touchpad; 10/100 ethernet; SD/MMC memory card reader; HDMI, USB 3.0, USB 2.0, VGA, RJ-45 ports; Headphone/microphone jacks; Windows 8, 64-bit; 30-days of Microsoft Office 365 Home Premium; 32GB Asus WebStorage for three years; 1-year Accidental Damage Protection; Measures approximately 15W x 10D x 1-1/4H; weighs 4.7 lbs; UL listed adapter; 1-year Limited Manufacturer's Warranty; Imported"
       },
       "images_total": 1,
       "category": "Laptops"
@@ -1259,29 +1194,24 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/a8213c6c81e2cb1d036ddcca046cb6b8,0.jpg"
       ],
       "weight": "2721554.22",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "sku": "020V007360941000P",
-          "url":
-            "http://www.kmart.com/asus-transformer-book-13.3inch-notebook-with-intel-core/p-020V007360941000P",
+          "url": "http://www.kmart.com/asus-transformer-book-13.3inch-notebook-with-intel-core/p-020V007360941000P",
           "recentoffers_count": 0,
           "name": "kmart.com",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1420314400,
-              "price": "511.99",
-              "firstrecorded_at": 1420314400,
-              "currency": "USD",
-              "availability": "Available",
-              "seller": "Sears Brands, LLC.",
-              "id": "2nLCPDggu0mIYyM04AG2OI",
-              "isactive": 0
-            }
-          ]
+          "latestoffers": [{
+            "lastrecorded_at": 1420314400,
+            "price": "511.99",
+            "firstrecorded_at": 1420314400,
+            "currency": "USD",
+            "availability": "Available",
+            "seller": "Sears Brands, LLC.",
+            "id": "2nLCPDggu0mIYyM04AG2OI",
+            "isactive": 0
+          }]
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "533.66",
               "lastrecorded_at": 1440467500,
               "isactive": 0,
@@ -1321,8 +1251,7 @@
           "recentoffers_count": 0
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "currency": "USD",
               "firstrecorded_at": 1439750300,
               "seller": "Office Depot",
@@ -1349,8 +1278,7 @@
           "url": "http://www.officedepot.com/a/products/118916"
         }
       ],
-      "description":
-        "ASUS Transformer Book Flip TP300LA DS31T - Flip de... (visit site URLs for full description)",
+      "description": "ASUS Transformer Book Flip TP300LA DS31T - Flip de... (visit site URLs for full description)",
       "features": {
         "Laptop Type": "PC laptops",
         "Maximum Screen Resolution": "1366 x 768",
@@ -1367,8 +1295,7 @@
         "Operating System Version": "Windows 8.1",
         "Bluetooth Version": "Bluetooth 4.0 Smart Ready",
         "Numeric Keypad": "No",
-        "Manufacturer Warranty - Labor":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "Manufacturer Warranty - Labor": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "Total FireWire Ports": "None",
         "HDMI Ports": "1",
         "HDMI Outputs": "Yes",
@@ -1386,16 +1313,13 @@
         "Max Resolution Format": "720p",
         "Maximum Memory Supported": "8 GB",
         "CPU Brand": "Intel",
-        "Manufacturer Warranty - Software":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "Manufacturer Warranty - Software": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "CPU Speed": "1.9",
-        "Manufacturer Warranty - Hardware":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "Manufacturer Warranty - Hardware": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "Screen Size Range": "11 inches to 14.9 inches",
         "GPU Video Type": "HD Graphics",
         "Optical Audio Port": "No port",
-        "General Warranty":
-          "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
+        "General Warranty": "Limited warranty - 1 year Â¦ Accidental damage coverage - 1 year",
         "Package Contents": "TP300LA Notebook, AC Adapter, Battery",
         "3D Ready": "No",
         "Lifestyle": "Home & Student",
@@ -1450,38 +1374,34 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/1d7a4edcc03736b70fc2780c2cd8c17b,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "sku": "573082",
-          "recentoffers_count": 0,
-          "name": "staples.com",
-          "latestoffers": [
-            {
-              "price": "296.99",
-              "id": "0UZPsRSYQDWCwUkEguYWYk",
-              "currency": "USD",
-              "seller": "Staples",
-              "firstrecorded_at": 1496414900,
-              "availability": "Not Available",
-              "lastrecorded_at": 1497037600,
-              "isactive": 0
-            },
-            {
-              "price": "289.89",
-              "id": "3vBO1LT6hEq0eg6qUsGu6W",
-              "seller": "Staples",
-              "currency": "USD",
-              "firstrecorded_at": 1426157200,
-              "availability": "Avaialble",
-              "lastrecorded_at": 1479971800,
-              "isactive": 0
-            }
-          ],
-          "url": "http://www.staples.com/product_573082"
-        }
-      ],
-      "description":
-        "Asus X551MA Packs SonicMaster technology and ASUS ... (visit site URLs for full description)",
+      "sitedetails": [{
+        "sku": "573082",
+        "recentoffers_count": 0,
+        "name": "staples.com",
+        "latestoffers": [{
+            "price": "296.99",
+            "id": "0UZPsRSYQDWCwUkEguYWYk",
+            "currency": "USD",
+            "seller": "Staples",
+            "firstrecorded_at": 1496414900,
+            "availability": "Not Available",
+            "lastrecorded_at": 1497037600,
+            "isactive": 0
+          },
+          {
+            "price": "289.89",
+            "id": "3vBO1LT6hEq0eg6qUsGu6W",
+            "seller": "Staples",
+            "currency": "USD",
+            "firstrecorded_at": 1426157200,
+            "availability": "Avaialble",
+            "lastrecorded_at": 1479971800,
+            "isactive": 0
+          }
+        ],
+        "url": "http://www.staples.com/product_573082"
+      }],
+      "description": "Asus X551MA Packs SonicMaster technology and ASUS ... (visit site URLs for full description)",
       "features": {
         "Laptop Webcam": "Yes",
         "Computer Use": "Everyday",
@@ -1513,8 +1433,7 @@
         "Interfaces": "1x VGA port/Mini D-sub 15-pin",
         "RAM Capacity": "4GB",
         "Laptop Optical Drive": "SMDVDRW",
-        "blob":
-          "1 Year limited warranty; 1.0MP Webcam; 15.6\" HD Display; 4GB System Memory (DDR3); 500GB 5400RPM; Dimensions: 9.88\"(L) x 14.96\"(W) x 1.22\"(D) (4.74lbs.); Full-size Chiclet keyboard; Intel Celeron N2815 1.86GHz, up to 2.13GHz Burst Processor; SMDVDRW; UMA Intel HD Graphics; Up to 2 hours and 52 minutes of battery life; Windows 8; Wireless 802.11n",
+        "blob": "1 Year limited warranty; 1.0MP Webcam; 15.6\" HD Display; 4GB System Memory (DDR3); 500GB 5400RPM; Dimensions: 9.88\"(L) x 14.96\"(W) x 1.22\"(D) (4.74lbs.); Full-size Chiclet keyboard; Intel Celeron N2815 1.86GHz, up to 2.13GHz Burst Processor; SMDVDRW; UMA Intel HD Graphics; Up to 2 hours and 52 minutes of battery life; Windows 8; Wireless 802.11n",
         "Laptop Display Type": "HD Display",
         "Bluetooth Compatibility": "No"
       },
@@ -1541,54 +1460,50 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/173981dac6b4331c8b1a0f8ee339dd24,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "name": "amazon.com",
-          "url": "http://www.amazon.com/dp/B01G96JHZC",
-          "sku": "B01G96JHZC",
-          "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "price": "1279.00",
-              "lastrecorded_at": 1508812000,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1508812000,
-              "id": "4LoaGAPIcScWO6iwIkkIy0",
-              "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
-              "seller": "Issaquah Highlands Tech"
-            },
-            {
-              "price": "1259.00",
-              "lastrecorded_at": 1506059700,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1506059700,
-              "id": "2dZaQ3BcI8egqWu2qcaW6y",
-              "condition": "New",
-              "availability":
-                "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
-              "seller": "Issaquah Highlands Tech"
-            },
-            {
-              "price": "1235.00",
-              "lastrecorded_at": 1499406900,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1499406900,
-              "id": "0RRCbiUQYTWoUOWyc6244c",
-              "condition": "new",
-              "availability": "Available [FPO: Front Page Offer]",
-              "seller": "Electronic Seed"
-            }
-          ]
-        }
-      ],
-      "description":
-        "Color:24GB RAM. Souped-up, sleek, and spec'd to th... (visit site URLs for full description)",
-      "features": { "Brand Name": "Asus" },
+      "sitedetails": [{
+        "name": "amazon.com",
+        "url": "http://www.amazon.com/dp/B01G96JHZC",
+        "sku": "B01G96JHZC",
+        "recentoffers_count": 0,
+        "latestoffers": [{
+            "price": "1279.00",
+            "lastrecorded_at": 1508812000,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1508812000,
+            "id": "4LoaGAPIcScWO6iwIkkIy0",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+            "seller": "Issaquah Highlands Tech"
+          },
+          {
+            "price": "1259.00",
+            "lastrecorded_at": 1506059700,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1506059700,
+            "id": "2dZaQ3BcI8egqWu2qcaW6y",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon][APR: Shipping with Amazon Prime]",
+            "seller": "Issaquah Highlands Tech"
+          },
+          {
+            "price": "1235.00",
+            "lastrecorded_at": 1499406900,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1499406900,
+            "id": "0RRCbiUQYTWoUOWyc6244c",
+            "condition": "new",
+            "availability": "Available [FPO: Front Page Offer]",
+            "seller": "Electronic Seed"
+          }
+        ]
+      }],
+      "description": "Color:24GB RAM. Souped-up, sleek, and spec'd to th... (visit site URLs for full description)",
+      "features": {
+        "Brand Name": "Asus"
+      },
       "images_total": 1,
       "category": "Computers & Accessories"
     },
@@ -1608,21 +1523,17 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/56b3312aed264ac9eb0d418ed508aae4,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "recentoffers_count": 0,
-          "url": "http://www.amazon.com/dp/B007NWEK7C",
-          "name": "amazon.com",
-          "latestoffers": [],
-          "sku": "B007NWEK7C"
-        }
-      ],
-      "description":
-        "Product Description ASUS FACTORY RECERTIFIED X54H-... (visit site URLs for full description)",
+      "sitedetails": [{
+        "recentoffers_count": 0,
+        "url": "http://www.amazon.com/dp/B007NWEK7C",
+        "name": "amazon.com",
+        "latestoffers": [],
+        "sku": "B007NWEK7C"
+      }],
+      "description": "Product Description ASUS FACTORY RECERTIFIED X54H-... (visit site URLs for full description)",
       "features": {
         "RAM": "4 GB dimm",
-        "blob":
-          "' + ' ' + adPropertiesDelimiter + 'title' + adPropertiesDelimiter + '' + ' ' + '",
+        "blob": "' + ' ' + adPropertiesDelimiter + 'title' + adPropertiesDelimiter + '' + ' ' + '",
         "Hard Drive": "320 GB"
       },
       "images_total": 1,

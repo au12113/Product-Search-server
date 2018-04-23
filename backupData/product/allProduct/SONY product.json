@@ -2,8 +2,7 @@
   "code": "OK",
   "offset": 0,
   "results_count": 10,
-  "results": [
-    {
+  "results": [{
       "size": "14 inches",
       "gtins": [],
       "sem3_id": "0SmP81wbL8Y0COeEucEaOc",
@@ -29,12 +28,10 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/ece89593a8952f9bd6b3c4a351c90900,0.jpg"
       ],
       "weight": "3628738.96",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "sku": "B009GPG0JU",
           "name": "amazon.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "590.00",
               "lastrecorded_at": 1498274800,
               "isactive": 0,
@@ -74,25 +71,22 @@
         },
         {
           "url": "http://www.walmart.com/ip/21812132",
-          "latestoffers": [
-            {
-              "lastrecorded_at": 1411560900,
-              "availability": "In Stock",
-              "price": "598.00",
-              "currency": "USD",
-              "seller": "Walmart",
-              "firstrecorded_at": 1384682600,
-              "id": "1ldYILGn4KyA8Q8cOeuaWq",
-              "isactive": 0
-            }
-          ],
+          "latestoffers": [{
+            "lastrecorded_at": 1411560900,
+            "availability": "In Stock",
+            "price": "598.00",
+            "currency": "USD",
+            "seller": "Walmart",
+            "firstrecorded_at": 1384682600,
+            "id": "1ldYILGn4KyA8Q8cOeuaWq",
+            "isactive": 0
+          }],
           "recentoffers_count": 0,
           "sku": "21812132",
           "name": "walmart.com"
         }
       ],
-      "description":
-        "SONY VAIO-SVE1511HFXW | INTEL CORE I5 2450M 2.50GH... (visit site URLs for full description)",
+      "description": "SONY VAIO-SVE1511HFXW | INTEL CORE I5 2450M 2.50GH... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1366 x 768",
         "Processor Count": "2",
@@ -115,8 +109,7 @@
         "Processor Brand": "Intel",
         "Average Battery Life (in hours)": "15 hours",
         "Wireless Type": "802.11abg, Bluetooth, Infrared",
-        "blob":
-          "SONY VAIO-SVE1511HFXW | INTEL CORE I5 2450M 2.50GHZ | 500GB HD | 4GB RAM; webcam; WINDOWS 7; back light keyboard; DVD-RW",
+        "blob": "SONY VAIO-SVE1511HFXW | INTEL CORE I5 2450M 2.50GHZ | 500GB HD | 4GB RAM; webcam; WINDOWS 7; back light keyboard; DVD-RW",
         "RAM": "8 GB"
       },
       "images_total": 1,
@@ -146,33 +139,27 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/bd6236e23f029762a85ed01b448f864b,0.jpg"
       ],
       "weight": "2585476.51",
-      "sitedetails": [
-        {
-          "name": "amazon.com",
-          "sku": "B0025CW2NO",
-          "recentoffers_count": 0,
-          "url": "http://www.amazon.com/dp/B0025CW2NO",
-          "latestoffers": [
-            {
-              "price": "1100.00",
-              "lastrecorded_at": 1399437200,
-              "shipping": "849",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1353244700,
-              "id": "1h2huJYVSuqOSQcIEmEWgy",
-              "condition": "New",
-              "availability": "Ships in 1-2 business days.",
-              "seller": "Big laptop deals"
-            }
-          ]
-        }
-      ],
-      "description":
-        "Weighing only 5.7 pounds, this fashionable noteboo... (visit site URLs for full description)",
+      "sitedetails": [{
+        "name": "amazon.com",
+        "sku": "B0025CW2NO",
+        "recentoffers_count": 0,
+        "url": "http://www.amazon.com/dp/B0025CW2NO",
+        "latestoffers": [{
+          "price": "1100.00",
+          "lastrecorded_at": 1399437200,
+          "shipping": "849",
+          "isactive": 0,
+          "currency": "USD",
+          "firstrecorded_at": 1353244700,
+          "id": "1h2huJYVSuqOSQcIEmEWgy",
+          "condition": "New",
+          "availability": "Ships in 1-2 business days.",
+          "seller": "Big laptop deals"
+        }]
+      }],
+      "description": "Weighing only 5.7 pounds, this fashionable noteboo... (visit site URLs for full description)",
       "features": {
-        "blob":
-          "Weighing only 5.7 pounds, this fashionable notebook is powered by IntelÂ® PentiumÂ® Dual-Core processor technology and 2GB of memory; Watch Blu-ray DiscTM movies in stunning clarity on the 14.1-inch XBRITE-ECOTM widescreen LCD. There's also a built-in webcam and microphone to stay connected to family and friends.; Offering a massive boost in wireless connection speed and range, work and play quicker virtually anywhere within your office or home using 802.11n integrated wireless LAN technology.; Control your music and movies with a slide of your finger using the touch sensor A/V slide control. A Blu-ray DiscTM optical drive lets you playback Blu-ray DiscTM movies in crystal-clear resolution; Enjoy your personal musical light shows on a CS notebook. A 12-tone music analyzer translates your music into a colorful LED light show that plays out beneath the trim of the CS notebook",
+        "blob": "Weighing only 5.7 pounds, this fashionable notebook is powered by IntelÂ® PentiumÂ® Dual-Core processor technology and 2GB of memory; Watch Blu-ray DiscTM movies in stunning clarity on the 14.1-inch XBRITE-ECOTM widescreen LCD. There's also a built-in webcam and microphone to stay connected to family and friends.; Offering a massive boost in wireless connection speed and range, work and play quicker virtually anywhere within your office or home using 802.11n integrated wireless LAN technology.; Control your music and movies with a slide of your finger using the touch sensor A/V slide control. A Blu-ray DiscTM optical drive lets you playback Blu-ray DiscTM movies in crystal-clear resolution; Enjoy your personal musical light shows on a CS notebook. A 12-tone music analyzer translates your music into a colorful LED light show that plays out beneath the trim of the CS notebook",
         "Product Dimensions": "9.8 x 13.2 x 1.5 inches ; 5.7 pounds"
       },
       "images_total": 1,
@@ -194,8 +181,7 @@
       "ean": "0027242618305",
       "updated_at": 1499548588,
       "images": [],
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "recentoffers_count": 0,
           "latestoffers": [],
           "sku": "90120394",
@@ -231,11 +217,9 @@
           "sku": "90120407"
         }
       ],
-      "description":
-        "Seamless 2-button mouse Simple and stylish design ... (visit site URLs for full description)",
+      "description": "Seamless 2-button mouse Simple and stylish design ... (visit site URLs for full description)",
       "features": {
-        "blob":
-          "Features Pointing Device Host Interface USB Product Type Mouse Manufacturer Part Number SMUS1/V Manufacturer Sony Corporation Product Name Laptop Optical Mouse Brand Name Sony Weight (Approximate) 1.94 oz Color Violet Height 1.1\" Width 2.3\" Depth 3.8\" Movement Detection Optical Pointing Device Connectivity Technology Cable Scroller Type Scroll Wheel Tech Specs Pointing Device Host Interface USB Product Type Mouse Manufacturer Part Number SMUS1/V Manufacturer Website Address www.sony.com Manufacturer Sony Corporation Product Name Laptop Optical Mouse Brand Name Sony Compatibility USB 2.0 Platform Support PC System Requirements Operating systems: Microsoft Windows XP Microsoft Windows 2000 Microsoft Windows ME Microsoft Windows 98 SE Pre-installed Dimensions 1.10\" Height x 2.28\" Width x 3.78\" Depth Weight (Approximate) 1.94 oz Color Violet Movement Detection Optical Pointing Device Connectivity Technology Wired Pointing Device Wireless Technology Not Applicable Pointing Device Cable Length 39.37\" Scroller Type Scroll Wheel"
+        "blob": "Features Pointing Device Host Interface USB Product Type Mouse Manufacturer Part Number SMUS1/V Manufacturer Sony Corporation Product Name Laptop Optical Mouse Brand Name Sony Weight (Approximate) 1.94 oz Color Violet Height 1.1\" Width 2.3\" Depth 3.8\" Movement Detection Optical Pointing Device Connectivity Technology Cable Scroller Type Scroll Wheel Tech Specs Pointing Device Host Interface USB Product Type Mouse Manufacturer Part Number SMUS1/V Manufacturer Website Address www.sony.com Manufacturer Sony Corporation Product Name Laptop Optical Mouse Brand Name Sony Compatibility USB 2.0 Platform Support PC System Requirements Operating systems: Microsoft Windows XP Microsoft Windows 2000 Microsoft Windows ME Microsoft Windows 98 SE Pre-installed Dimensions 1.10\" Height x 2.28\" Width x 3.78\" Depth Weight (Approximate) 1.94 oz Color Violet Movement Detection Optical Pointing Device Connectivity Technology Wired Pointing Device Wireless Technology Not Applicable Pointing Device Cable Length 39.37\" Scroller Type Scroll Wheel"
       },
       "images_total": 0,
       "category": "Keyboards, Mice & Input Devices"
@@ -263,53 +247,48 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/d18fd1e474faed57d37172b25f63dd07,0.jpg"
       ],
       "weight": "2676194.98",
-      "sitedetails": [
-        {
-          "recentoffers_count": 0,
-          "name": "amazon.com",
-          "sku": "B004EOX7CQ",
-          "url": "http://www.amazon.com/dp/B004EOX7CQ",
-          "latestoffers": [
-            {
-              "price": "400.00",
-              "lastrecorded_at": 1406002600,
-              "shipping": "1948",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1393442800,
-              "id": "01cVtJAmszc4oMu0eQcMCW",
-              "condition": "Used - Very Good",
-              "seller": "alegreuno11"
-            },
-            {
-              "price": "389.99",
-              "lastrecorded_at": 1397287200,
-              "shipping": "1948",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1395233200,
-              "id": "2JbWBhGSqOUowMSgcgooUE",
-              "condition": "Used - Very Good",
-              "availability":
-                "Ships in 1-2 business days. Ships from NC, United States.",
-              "seller": "Heartstreasures Speciality Gifts"
-            },
-            {
-              "price": "295.00",
-              "lastrecorded_at": 1354282200,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1353221800,
-              "id": "5EJ6dBJ9SqqemI4omSU06q",
-              "condition": "Used - Good",
-              "availability": "Ships in 1-2 business days.",
-              "seller": "hinky_69"
-            }
-          ]
-        }
-      ],
-      "description":
-        "Intel Pentium Processor 2GHz. 4GB DDR3 RAM. 320GB ... (visit site URLs for full description)",
+      "sitedetails": [{
+        "recentoffers_count": 0,
+        "name": "amazon.com",
+        "sku": "B004EOX7CQ",
+        "url": "http://www.amazon.com/dp/B004EOX7CQ",
+        "latestoffers": [{
+            "price": "400.00",
+            "lastrecorded_at": 1406002600,
+            "shipping": "1948",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1393442800,
+            "id": "01cVtJAmszc4oMu0eQcMCW",
+            "condition": "Used - Very Good",
+            "seller": "alegreuno11"
+          },
+          {
+            "price": "389.99",
+            "lastrecorded_at": 1397287200,
+            "shipping": "1948",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1395233200,
+            "id": "2JbWBhGSqOUowMSgcgooUE",
+            "condition": "Used - Very Good",
+            "availability": "Ships in 1-2 business days. Ships from NC, United States.",
+            "seller": "Heartstreasures Speciality Gifts"
+          },
+          {
+            "price": "295.00",
+            "lastrecorded_at": 1354282200,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1353221800,
+            "id": "5EJ6dBJ9SqqemI4omSU06q",
+            "condition": "Used - Good",
+            "availability": "Ships in 1-2 business days.",
+            "seller": "hinky_69"
+          }
+        ]
+      }],
+      "description": "Intel Pentium Processor 2GHz. 4GB DDR3 RAM. 320GB ... (visit site URLs for full description)",
       "features": {
         "Optical Drive": "DVDÂ±RW (Â±R DL) / DVD-RAM / BD-ROM - fixed",
         "Cache": "L3 - 3 MB",
@@ -327,8 +306,7 @@
         "System Type": "Notebook",
         "Resolution": "1366 x 768 ( HD )",
         "Technology": "Lithium ion",
-        "Service & Support Details":
-          "Limited warranty - 1 year - on-site Technical support - phone consulting - 1 year - availability: 24 hours a day / Monday-Sunday International warranty - 1 year",
+        "Service & Support Details": "Limited warranty - 1 year - on-site Technical support - phone consulting - 1 year - availability: 24 hours a day / Monday-Sunday International warranty - 1 year",
         "Memory Allocation Technology": "Dynamic Video Memory Technology 5.0",
         "Other Features": "Security lock slot (cable lock sold separately)",
         "Operating System": "Microsoft Windows 7 Home Premium 64-bit Edition",
@@ -337,23 +315,18 @@
         "LCD Backlight Technology": "LED backlight",
         "Compliant Standards": "RoHS",
         "64-bit Computing": "Yes",
-        "Memory Card Reader":
-          "Yes ( SD Card, Memory Stick PRO, Memory Stick PRO Duo )",
+        "Memory Card Reader": "Yes ( SD Card, Memory Stick PRO, Memory Stick PRO Duo )",
         "Hard Drive": "320 GB HDD / 5400 rpm",
         "Slots": "1 x ExpressCard/34 ( 1 free )",
-        "Software Included":
-          "VAIO Care, VAIO Media Gallery, Norton Internet Security 2010 (30 days trial), Picture Motion Browser VAIO Edition, Microsoft Office 2010 Starter",
-        "Microsoft Office Preloaded":
-          "Includes a pre-loaded image of select Microsoft Office 2010 suites. Purchase an Office 2010 Product Key Card or disc to activate preloaded software on this PC.",
+        "Software Included": "VAIO Care, VAIO Media Gallery, Norton Internet Security 2010 (30 days trial), Picture Motion Browser VAIO Edition, Microsoft Office 2010 Starter",
+        "Microsoft Office Preloaded": "Includes a pre-loaded image of select Microsoft Office 2010 suites. Purchase an Office 2010 Product Key Card or disc to activate preloaded software on this PC.",
         "Camera Features": "Face-tracking technology",
         "Interface": "Serial ATA-150",
         "Capacity": "3500 mAh",
-        "Interfaces":
-          "3 x USB 2.0 Microphone input Headphone output HDMI VGA LAN USB 2.0/eSATA",
+        "Interfaces": "3 x USB 2.0 Microphone input Headphone output HDMI VGA LAN USB 2.0/eSATA",
         "Graphics Processor": "Intel HD Graphics",
         "Read Speed": "4x (BD)",
-        "blob":
-          "Intel Pentium Processor 2GHz; 4GB DDR3 RAM; 320GB 5400RPM Hard Drive; 15.5-Inch Screen, HD Graphics; Windows 7 Home Premium",
+        "blob": "Intel Pentium Processor 2GHz; 4GB DDR3 RAM; 320GB 5400RPM Hard Drive; 15.5-Inch Screen, HD Graphics; Windows 7 Home Premium",
         "Wireless": "802.11n",
         "RAM": "4 GB ( 2 x 2 GB )",
         "Widescreen": "Yes"
@@ -385,13 +358,11 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/eeb3e3289e651a3bacb6b14ff0088181,0.jpg"
       ],
       "weight": "2707946.45",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "name": "amazon.com",
           "sku": "B005MZ5BES",
           "url": "http://www.amazon.com/dp/B005MZ5BES",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "390.00",
               "lastrecorded_at": 1392244100,
               "shipping": "1144",
@@ -400,8 +371,7 @@
               "firstrecorded_at": 1390590500,
               "id": "6E177wCxcGiMSaEmKq2woa",
               "condition": "Used - Good",
-              "availability":
-                "Ships in 1-2 business days. Expedited shipping available.",
+              "availability": "Ships in 1-2 business days. Expedited shipping available.",
               "seller": "Q: What is your policy on returns?"
             },
             {
@@ -413,8 +383,7 @@
               "firstrecorded_at": 1385568700,
               "id": "7Wu3lE1R32E6ECG0Qu048O",
               "condition": "Used - Good",
-              "availability":
-                "Ships in 1-2 business days. Expedited shipping available.",
+              "availability": "Ships in 1-2 business days. Expedited shipping available.",
               "seller": "EZCORP"
             },
             {
@@ -447,28 +416,23 @@
         },
         {
           "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "price": "982.84",
-              "lastrecorded_at": 1495071300,
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1460563400,
-              "id": "4LmHsPw90qeguywwMmImcW",
-              "condition": "New",
-              "availability": "Not Available",
-              "seller": "ReStockIt"
-            }
-          ],
-          "sku":
-            "restockit_sony-vaio-e-series-vpc-eh27fx-b-core-i5-2430m-2-4-ghz-15-5-tft-num-3053574",
-          "url":
-            "http://www.restockit.com/sony-vaio-e-series-vpc-eh27fx-b-core-i5-2430m-2-4-ghz-15-5-tft-num-3053574.html",
+          "latestoffers": [{
+            "price": "982.84",
+            "lastrecorded_at": 1495071300,
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1460563400,
+            "id": "4LmHsPw90qeguywwMmImcW",
+            "condition": "New",
+            "availability": "Not Available",
+            "seller": "ReStockIt"
+          }],
+          "sku": "restockit_sony-vaio-e-series-vpc-eh27fx-b-core-i5-2430m-2-4-ghz-15-5-tft-num-3053574",
+          "url": "http://www.restockit.com/sony-vaio-e-series-vpc-eh27fx-b-core-i5-2430m-2-4-ghz-15-5-tft-num-3053574.html",
           "name": "restockit.com"
         }
       ],
-      "description":
-        "Intel Core i5 Processor 2.4GHz. 4GB DDR3 RAM. 640G... (visit site URLs for full description)",
+      "description": "Intel Core i5 Processor 2.4GHz. 4GB DDR3 RAM. 640G... (visit site URLs for full description)",
       "features": {
         "Empty Slots": "1",
         "Optical Drive": "DVD-Writer / BD-ROM - fixed",
@@ -488,8 +452,7 @@
         "System Type": "Notebook",
         "Resolution": "1366 x 768 ( HD )",
         "Technology": "Lithium ion",
-        "Service & Support Details":
-          "Limited warranty - 1 year - on-site Technical support - phone consulting International warranty",
+        "Service & Support Details": "Limited warranty - 1 year - on-site Technical support - phone consulting International warranty",
         "Memory Allocation Technology": "Dynamic Video Memory Technology",
         "Other Features": "Intel Wireless Display (WiDi)",
         "Operating System": "Microsoft Windows 7 Home Premium 64-bit Edition",
@@ -500,17 +463,13 @@
         "64-bit Computing": "Yes",
         "Memory Card Reader": "Yes ( SD Card, Memory Stick Duo )",
         "Hard Drive": "640 GB HDD / 5400 rpm",
-        "Software Included":
-          "VAIO Care, VAIO Media Gallery, Picture Motion Browser VAIO Edition, Microsoft Office 2010 Starter, Norton Internet Security 2012 (30 days trial)",
-        "Microsoft Office Preloaded":
-          "Includes a pre-loaded image of select Microsoft Office 2010 suites. Purchase an Office 2010 Product Key Card or disc to activate preloaded software on this PC.",
+        "Software Included": "VAIO Care, VAIO Media Gallery, Picture Motion Browser VAIO Edition, Microsoft Office 2010 Starter, Norton Internet Security 2012 (30 days trial)",
+        "Microsoft Office Preloaded": "Includes a pre-loaded image of select Microsoft Office 2010 suites. Purchase an Office 2010 Product Key Card or disc to activate preloaded software on this PC.",
         "Interface": "Serial ATA-300",
         "Capacity": "4000 mAh",
-        "Interfaces":
-          "LAN 4 x USB 2.0 VGA Headphone output Microphone input HDMI",
+        "Interfaces": "LAN 4 x USB 2.0 VGA Headphone output Microphone input HDMI",
         "Graphics Processor": "Intel HD Graphics 3000",
-        "blob":
-          "Intel Core i5 Processor 2.4GHz; 4GB DDR3 RAM; 640GB 5400RPM Hard Drive; 15.5-Inch Screen, Intel HD Graphics 3000; Genuine WindowsÂ® 7 Home Premium with Service Pack 1 64-bit",
+        "blob": "Intel Core i5 Processor 2.4GHz; 4GB DDR3 RAM; 640GB 5400RPM Hard Drive; 15.5-Inch Screen, Intel HD Graphics 3000; Genuine WindowsÂ® 7 Home Premium with Service Pack 1 64-bit",
         "Wireless Controller": "Intel Centrino Wireless-N 1000",
         "Wireless": "802.11n",
         "RAM": "4 GB ( 1 x 4 GB )",
@@ -543,11 +502,9 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/50294fa91f97f6782952c08ba5d03e62,0.jpg"
       ],
       "weight": "2707946.45",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "sku": "B005MZ5DF0",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "649.00",
               "lastrecorded_at": 1365281700,
               "shipping": "994",
@@ -556,8 +513,7 @@
               "firstrecorded_at": 1361656000,
               "id": "78ZV7RJExsYc8Sa4SK88c4",
               "condition": "Refurbished",
-              "availability":
-                "Ships in 1-2 business days. Ships from CA, United States. Expedited shipping available.",
+              "availability": "Ships in 1-2 business days. Ships from CA, United States. Expedited shipping available.",
               "seller": "ClearanceClub"
             },
             {
@@ -569,8 +525,7 @@
               "firstrecorded_at": 1354444400,
               "id": "05OG8lbwQfgmyqISKwAoe2",
               "condition": "Refurbished",
-              "availability":
-                "Ships in 1-2 business days. Ships from CA, United States. Expedited shipping available.",
+              "availability": "Ships in 1-2 business days. Ships from CA, United States. Expedited shipping available.",
               "seller": "ClearanceClub"
             }
           ],
@@ -586,8 +541,7 @@
           "recentoffers_count": 0
         }
       ],
-      "description":
-        "Intel Core i5 Processor 2.4GHz. 4GB DDR3 RAM. 640G... (visit site URLs for full description)",
+      "description": "Intel Core i5 Processor 2.4GHz. 4GB DDR3 RAM. 640G... (visit site URLs for full description)",
       "features": {
         "Screen Resolution": "1366 x 768",
         "Processor Count": "1",
@@ -598,10 +552,8 @@
         "Card Description": "HD Graphics 3000",
         "Battery Type": "lithiumion",
         "Hard Drive Interface": "Serial ATA",
-        "Operating System":
-          "Genuine WindowsÂ® 7 Home Premium with Service Pack 1 64-bit",
-        "Unlimited Cloud Storage":
-          "Never run out of space for all your photos, videos, and files with unlimited storage plans from Amazon Cloud Drive. Learn more",
+        "Operating System": "Genuine WindowsÂ® 7 Home Premium with Service Pack 1 64-bit",
+        "Unlimited Cloud Storage": "Never run out of space for all your photos, videos, and files with unlimited storage plans from Amazon Cloud Drive. Learn more",
         "Graphics Coprocessor": "Intel HD Graphics 3000",
         "Processor": "2.4 GHz Intel Core i5",
         "Computer Memory Type": "DDR3 SDRAM",
@@ -616,8 +568,7 @@
         "Hard Drive Rotational Speed": "5400 RPM",
         "Average Battery Life (in hours)": "5.2 hours",
         "Chipset Brand": "Intel",
-        "blob":
-          "Intel Core i5 Processor 2.4GHz; 4GB DDR3 RAM; 640GB 5400RPM Hard Drive; 15.5-Inch Screen, Intel HD Graphics 3000; Genuine WindowsÂ® 7 Home Premium with Service Pack 1 64-bit",
+        "blob": "Intel Core i5 Processor 2.4GHz; 4GB DDR3 RAM; 640GB 5400RPM Hard Drive; 15.5-Inch Screen, Intel HD Graphics 3000; Genuine WindowsÂ® 7 Home Premium with Service Pack 1 64-bit",
         "RAM": "4 GB DDR3-SDRAM"
       },
       "images_total": 1,
@@ -641,29 +592,24 @@
       "images": [
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/2c20f4ce917a92836ec9d460ef16b918,0.jpg"
       ],
-      "sitedetails": [
-        {
-          "url": "http://www.amazon.com/dp/B004BOCGZI",
-          "recentoffers_count": 0,
-          "latestoffers": [
-            {
-              "price": "260.00",
-              "lastrecorded_at": 1435692600,
-              "shipping": "449",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1381609200,
-              "id": "0twGNFYHewQkIk6csAkSSO",
-              "condition": "Used - Very Good",
-              "seller": "buyeasyandcheap"
-            }
-          ],
-          "name": "amazon.com",
-          "sku": "B004BOCGZI"
-        }
-      ],
-      "description":
-        "Product Description Sony Vaio Centrino 1.73 GHz No... (visit site URLs for full description)",
+      "sitedetails": [{
+        "url": "http://www.amazon.com/dp/B004BOCGZI",
+        "recentoffers_count": 0,
+        "latestoffers": [{
+          "price": "260.00",
+          "lastrecorded_at": 1435692600,
+          "shipping": "449",
+          "isactive": 0,
+          "currency": "USD",
+          "firstrecorded_at": 1381609200,
+          "id": "0twGNFYHewQkIk6csAkSSO",
+          "condition": "Used - Very Good",
+          "seller": "buyeasyandcheap"
+        }],
+        "name": "amazon.com",
+        "sku": "B004BOCGZI"
+      }],
+      "description": "Product Description Sony Vaio Centrino 1.73 GHz No... (visit site URLs for full description)",
       "features": {
         "blob": "Sony Vaio PCG-7F1L Laptop Battery $34.95",
         "Hardware Platform": "PC",
@@ -686,15 +632,13 @@
       "manufacturer": "Sony",
       "updated_at": 1491660726,
       "images": [],
-      "sitedetails": [
-        {
-          "name": "rakuten.com",
-          "sku": "247766864",
-          "url": "http://www.rakuten.com/prod/247766864.html",
-          "recentoffers_count": 0,
-          "latestoffers": []
-        }
-      ],
+      "sitedetails": [{
+        "name": "rakuten.com",
+        "sku": "247766864",
+        "url": "http://www.rakuten.com/prod/247766864.html",
+        "recentoffers_count": 0,
+        "latestoffers": []
+      }],
       "description": "90 Day warranty",
       "images_total": 0,
       "category": "Laptop & Netbook Computer Accessories"
@@ -719,53 +663,49 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/351cad17b0d1f243b578afad944664ff,0.jpg"
       ],
       "weight": "907184.74",
-      "sitedetails": [
-        {
-          "recentoffers_count": 1,
-          "sku": "B00450B744",
-          "latestoffers": [
-            {
-              "price": "39.00",
-              "lastrecorded_at": 1521792300,
-              "isactive": 1,
-              "currency": "USD",
-              "firstrecorded_at": 1512584500,
-              "id": "10WRBgKi52Gqagcwqmuemm",
-              "condition": "New",
-              "availability": "Available [BBX: Buy Box]",
-              "seller": "cBear Computers"
-            },
-            {
-              "price": "37.68",
-              "lastrecorded_at": 1510231700,
-              "shipping": "446",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1482186100,
-              "id": "2HeIkgGcnoG8KMQ6ouGkyE",
-              "condition": "New",
-              "availability": "Available [BBX: Buy Box]",
-              "seller": "cBear Computers"
-            },
-            {
-              "price": "35.00",
-              "lastrecorded_at": 1500145300,
-              "shipping": "700",
-              "isactive": 0,
-              "currency": "USD",
-              "firstrecorded_at": 1500145300,
-              "id": "398kLwmUtcU0IwksccaWc0",
-              "condition": "new",
-              "availability": "Available [FPO: Front Page Offer]",
-              "seller": "HighTechParts"
-            }
-          ],
-          "name": "amazon.com",
-          "url": "http://www.amazon.com/dp/B00450B744"
-        }
-      ],
-      "description":
-        "Sony CRX810E CRX820E DVD/CDRW Laptop drive Sony CR... (visit site URLs for full description)",
+      "sitedetails": [{
+        "recentoffers_count": 1,
+        "sku": "B00450B744",
+        "latestoffers": [{
+            "price": "39.00",
+            "lastrecorded_at": 1521792300,
+            "isactive": 1,
+            "currency": "USD",
+            "firstrecorded_at": 1512584500,
+            "id": "10WRBgKi52Gqagcwqmuemm",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box]",
+            "seller": "cBear Computers"
+          },
+          {
+            "price": "37.68",
+            "lastrecorded_at": 1510231700,
+            "shipping": "446",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1482186100,
+            "id": "2HeIkgGcnoG8KMQ6ouGkyE",
+            "condition": "New",
+            "availability": "Available [BBX: Buy Box]",
+            "seller": "cBear Computers"
+          },
+          {
+            "price": "35.00",
+            "lastrecorded_at": 1500145300,
+            "shipping": "700",
+            "isactive": 0,
+            "currency": "USD",
+            "firstrecorded_at": 1500145300,
+            "id": "398kLwmUtcU0IwksccaWc0",
+            "condition": "new",
+            "availability": "Available [FPO: Front Page Offer]",
+            "seller": "HighTechParts"
+          }
+        ],
+        "name": "amazon.com",
+        "url": "http://www.amazon.com/dp/B00450B744"
+      }],
+      "description": "Sony CRX810E CRX820E DVD/CDRW Laptop drive Sony CR... (visit site URLs for full description)",
       "features": {
         "Item Weight": "9.1 ounces",
         "Item model number": "Sony CRX810E CRX820E",
@@ -800,12 +740,10 @@
         "http://sem3-idn.s3-website-us-east-1.amazonaws.com/06c819ea279fc33ba552def2dcb1e421,0.jpg"
       ],
       "weight": "2707946.45",
-      "sitedetails": [
-        {
+      "sitedetails": [{
           "sku": "B006MB8GL6",
           "name": "amazon.com",
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "670.00",
               "lastrecorded_at": 1493979400,
               "isactive": 0,
@@ -844,21 +782,18 @@
           "url": "http://www.amazon.com/dp/B006MB8GL6"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "seller": "Frys",
               "firstrecorded_at": 1377515400,
               "currency": "USD",
               "id": "7HSdIvdaN60uYmIksg8oem",
               "lastrecorded_at": 1377925200,
               "price": "299.00",
-              "availability":
-                "Unavailable Notify me when available While supplies last",
+              "availability": "Unavailable Notify me when available While supplies last",
               "isactive": 0
             },
             {
-              "availability":
-                "Unavailable Notify me when available While supplies last",
+              "availability": "Unavailable Notify me when available While supplies last",
               "price": "499.99",
               "firstrecorded_at": 1372167100,
               "seller": "Frys",
@@ -882,8 +817,7 @@
         },
         {
           "sku": "SNVPCEH34FXB",
-          "url":
-            "http://www.beachcamera.com/shop/product.aspx?sku=SNVPCEH34FXB",
+          "url": "http://www.beachcamera.com/shop/product.aspx?sku=SNVPCEH34FXB",
           "name": "beachcamera.com",
           "recentoffers_count": 0,
           "latestoffers": []
@@ -896,8 +830,7 @@
           "sku": "B006MB8GL6"
         },
         {
-          "latestoffers": [
-            {
+          "latestoffers": [{
               "price": "500.00",
               "lastrecorded_at": 1492817400,
               "isactive": 0,
@@ -936,48 +869,35 @@
           "url": "http://www.amazon.com/dp/B006WC9CUE"
         }
       ],
-      "description":
-        "Color:Black. The E Series laptop is built with the... (visit site URLs for full description)",
+      "description": "Color:Black. The E Series laptop is built with the... (visit site URLs for full description)",
       "features": {
         "- Battery Type": "Standard Lithium Ion Battery (5300mAh)",
         "- DC-In": "1",
-        "- Anti-Virus Software":
-          "Norton Internet Security 2012 30-Day Trial Offer",
+        "- Anti-Virus Software": "Norton Internet Security 2012 30-Day Trial Offer",
         "- Screen Size": "15.5\"",
-        "Take it to the big screen":
-          "Whether you're watching stunning high definition content or enjoying video captured from your compatible camcorder, you",
+        "Take it to the big screen": "Whether you're watching stunning high definition content or enjoying video captured from your compatible camcorder, you",
         "- Max. Memory": "8GB",
         "- 10-Key Numeric Pad": "Yes",
-        "Life at your fingertips":
-          "Find a new appreciation for your music and photos with Media Gallery software. Not only can it automatically create",
+        "Life at your fingertips": "Find a new appreciation for your music and photos with Media Gallery software. Not only can it automatically create",
         "- USB 2.0": "4",
         "- Headphone Output": "1",
         "- Video RAM": "Internal",
         "- Onsite/In-Home Service": "Yes",
         "- Microphone Input": "1",
-        "- Anti-Virus Software: Norton Internet Security 2012 30":
-          "Day Trial Offer",
-        "- In-home service":
-          "that's right, when possible we'll come out to your house to resolve your issue",
-        "PMB VAIO Edition":
-          "PMB (Picture Motion Browser) makes managing your photos and home videos as easy as taking them. Conditions aren't",
+        "- Anti-Virus Software: Norton Internet Security 2012 30": "Day Trial Offer",
+        "- In-home service": "that's right, when possible we'll come out to your house to resolve your issue",
+        "PMB VAIO Edition": "PMB (Picture Motion Browser) makes managing your photos and home videos as easy as taking them. Conditions aren't",
         "- Action Buttons": "VAIO, ASSIST, WEB, Wireless On/Off",
-        "- Supplied Software: Microsoft Office Starter with reduced":
-          "functionality versions of Word and Excel, VAIO Care, Media",
-        "- Tune":
-          "up your VAIO PC to help keep it running its best for the long haul",
-        "One button bliss":
-          "Discover special hardware buttons: VAIO, ASSIST and WEB that get you where you want to go with a touch of a button.",
+        "- Supplied Software: Microsoft Office Starter with reduced": "functionality versions of Word and Excel, VAIO Care, Media",
+        "- Tune": "up your VAIO PC to help keep it running its best for the long haul",
+        "One button bliss": "Discover special hardware buttons: VAIO, ASSIST and WEB that get you where you want to go with a touch of a button.",
         "- Ethernet Protocol: 1000BASE-T/100BASE-TX/10BASE": "T",
         "- Type": "Intel Core i3-2350M",
         "- Capacity": "640GB",
-        "- Dimensions (Approx.): 14.56\" (W) x 1.24\"":
-          "1.45\" (H) x 9.78\" (D) )",
+        "- Dimensions (Approx.): 14.56\" (W) x 1.24\"": "1.45\" (H) x 9.78\" (D) )",
         "- Toll": "Free Phone Support",
-        "Leave no fingerprint":
-          "Whether it is open or closed, you will find yourself wanting to feel this VAIO E Series laptop. With a textured,",
-        "Isolated keyboard":
-          "Practical innovation is a cornerstone of Sony's vision, and our keyboards are no exception. Designed for ease of use, the laptop features a precisely engineered keyboard and integrated 10-key number pad for the ultimate in speed and convenience.",
+        "Leave no fingerprint": "Whether it is open or closed, you will find yourself wanting to feel this VAIO E Series laptop. With a textured,",
+        "Isolated keyboard": "Practical innovation is a cornerstone of Sony's vision, and our keyboards are no exception. Designed for ease of use, the laptop features a precisely engineered keyboard and integrated 10-key number pad for the ultimate in speed and convenience.",
         "- Type: Intel Core i3": "2350M",
         "- Ethernet Protocol": "1000BASE-T/100BASE-TX/10BASE-T",
         "- Cache": "3MB",
@@ -987,10 +907,8 @@
         "- 10": "Key Numeric Pad: Yes",
         "- Storage Type": "Serial ATA",
         "- Sound System": "Intel High Definition Audio",
-        "We back our computers with industry":
-          "leading support that is distinguished by such features as:",
-        "- Supplied Software":
-          "Microsoft Office Starter with reduced-functionality versions of Word and Excel, VAIO Care, Media",
+        "We back our computers with industry": "leading support that is distinguished by such features as:",
+        "- Supplied Software": "Microsoft Office Starter with reduced-functionality versions of Word and Excel, VAIO Care, Media",
         "- Limited Warranty Term": "1 Year",
         "- ENERGY STAR": "5.0",
         "- WiFi Adapter": "Intel Centrino Wireless-N 1000",
@@ -998,25 +916,18 @@
         "- Installed Memory": "4GB (4GB x 1)",
         "- VGA Output(s)": "1",
         "- Keyboard": "QWERTY, 103 keys with 2.0mm stroke and 19.05mm pitch",
-        "VAIO Gate":
-          "VAIO Gate offers fast and easy access to favorite multimedia programs and entertainment. This gateway is always there",
+        "VAIO Gate": "VAIO Gate offers fast and easy access to favorite multimedia programs and entertainment. This gateway is always there",
         "- ROHS": "Compliant",
         "- Onsite/In": "Home Service: Yes",
         "- Support - CD/DVD": "Read / Write",
         "- Support": "CD/DVD: Read / Write",
-        "- Dimensions (Approx.)":
-          "14.56\" (W) x 1.24\" - 1.45\" (H) x 9.78\" (D) )",
-        "blob":
-          "Intel Core i3 2330M Processor 2.3GHz; 4GB DIMM RAM; 640GB 5400RPM Hard Drive; 15.5-Inch Screen, Integrated Intel HD 3000; Windows 7 Home Premium 64-bit",
-        "Video chat":
-          "A built-in web camera offers you the opportunity to be seen clearly in video chats with your friends. This web camera also",
-        "Bold and Bright":
-          "Developed by the same people you trust to engineer amazing flat-panel HDTVs, this laptop features exceptional picture",
-        "We've designed an easy-to":
-          "use tool that lets you tune up, update and troubleshoot your VAIO PC with just a few clicks:",
+        "- Dimensions (Approx.)": "14.56\" (W) x 1.24\" - 1.45\" (H) x 9.78\" (D) )",
+        "blob": "Intel Core i3 2330M Processor 2.3GHz; 4GB DIMM RAM; 640GB 5400RPM Hard Drive; 15.5-Inch Screen, Integrated Intel HD 3000; Windows 7 Home Premium 64-bit",
+        "Video chat": "A built-in web camera offers you the opportunity to be seen clearly in video chats with your friends. This web camera also",
+        "Bold and Bright": "Developed by the same people you trust to engineer amazing flat-panel HDTVs, this laptop features exceptional picture",
+        "We've designed an easy-to": "use tool that lets you tune up, update and troubleshoot your VAIO PC with just a few clicks:",
         "- Processor": "Intel HD Graphics 3000",
-        "Enjoy on your HDTV":
-          "Now enjoy all of your personal and online content on your big screen-by wirelessly connecting your laptop to your TV.",
+        "Enjoy on your HDTV": "Now enjoy all of your personal and online content on your big screen-by wirelessly connecting your laptop to your TV.",
         "- Technology": "Dual Core"
       },
       "images_total": 1,
