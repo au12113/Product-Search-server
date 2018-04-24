@@ -11,7 +11,7 @@ describe('loading express', () => {
   // afterEach((done) => {
   //   server.close(done)
   // })
-  it('response to new products db', () => {
+  it('npddb products', () => {
     request
       .get('/npddb/products')
       .expect(200)

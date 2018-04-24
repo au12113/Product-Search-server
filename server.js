@@ -6,6 +6,7 @@ var cors = require('cors')
 var fs = require('fs')
 // var resourceMonitorMiddleware = require('express-watcher').resourceMonitorMiddleware
 
+var Products = require('./models/Products') 
 var NewProducts = require('./models/newProducts')
 var Notebooks = require('./models/Notebooks')
 
@@ -129,19 +130,28 @@ app.get('/nbdb/filter', function(req, res) {
   {
     queryObject["features.OS"] = { $in : [req.query.OS]}
   }
-  console.log(queryObject)
-  Notebooks.find(queryObject).exec((err, results) => {
-    console.log(results.length)
+  if(req.query.screen !== undefined)
+  {
+    queryObject["features.screen"] = { $in : [req.query.screen]}
+  }
+  // if(req.query.pharse !== undefined)
+  // {
+  //   queryObject["$text"] = { $search : req.query.pharse}
+  //{ $text: { $search: req.query.pharse } }
+  // }
+  console.log(req.query.pharse)
+  Products.find({ $text: { $search: req.query.pharse } }).exec((err, results) => {
+    // console.log(results)
     res.jsonp(results)
     console.timeEnd("task")
   })
 })
 
-app.get('/nbdb/filter/brand', (req, res) => {
-  Notebooks.distinct('brand').exec((err, result)=>{
-    res.jsonp(result)
-  })
-})
+// app.get('/nbdb/filter/brand', (req, res) => {
+//   Notebooks.distinct('brand').exec((err, result)=>{
+//     res.jsonp(result)
+//   })
+// })
 
 app.get('/api/product/id/:productID', (req, res) => {
   Notebooks.find({
