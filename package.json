@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "debug": "node server.js --DEBUG=mquery",
     "standard": "standard --fix",
     "prettier": "prettier --write *.js **/*.js",
     "test": "mocha --exit spec spec.js"
