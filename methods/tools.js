@@ -1,11 +1,20 @@
 const fs = require('fs')
 
 module.exports = {
+  // getQueryPharse: function(reqQuery) {
+  //   for(var i = 0; i < reqQuery.length)
+  // }
+  // ,
   getQueryObject: function (reqQuery) {
     var queryObject = {}
     if (reqQuery.brand !== undefined) {
       queryObject.brand = {
         $in: reqQuery.brand
+      }
+    }
+    if (reqQuery.CPU !== undefined) {
+      queryObject["features.CPU"] = {
+        $in: [reqQuery.CPU]
       }
     }
     if (reqQuery.price !== undefined) {

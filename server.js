@@ -11,6 +11,7 @@ var resourceMonitorMiddleware = require('express-watcher').resourceMonitorMiddle
 var Products = require('./models/Products')
 var NewProducts = require('./models/newProducts')
 var Notebooks = require('./models/Notebooks')
+var Crawlers = require('./models/Crawlers')
 
 const tools = require('./methods/tools')
 
@@ -62,7 +63,10 @@ app.get('/:db/allProducts', (req, res) => {
 
 app.get('/:db/api/sales/', (req, res) => {
   mongoose.model(req.params.db).find({
-    model: req.query.model
+    // model: req.query.model
+    $text: {
+      $search: req.query.model
+    }
   }, {
     seller: 1,
     price: 1,
@@ -76,7 +80,7 @@ app.get('/:db/api/sales/', (req, res) => {
   })
 })
 
-app.get('/:db/filter', function (req, res) {
+app.get('/:db/search', function (req, res) {
   queryObject = tools.getQueryObject(req.query)
   mongoose.model(req.params.db).find(queryObject, {
     "score": {
@@ -86,7 +90,9 @@ app.get('/:db/filter', function (req, res) {
     "score": {
       "$meta": "textScore"
     }
-  }).exec((err, results) => {
+  })
+  .limit(20)
+  .exec((err, results) => {
     if(err) {
       console.log(err)
       return res.sendStatus(500)
@@ -96,7 +102,7 @@ app.get('/:db/filter', function (req, res) {
   })
 })
 
-app.get('/:db/filterWithStringPrice', function (req, res) {
+app.get('/:db/searchWithStringPrice', function (req, res) {
   queryObject = tools.getQueryObject(req.query)
   mongoose.model(req.params.db).find(queryObject, {
     "score": {
@@ -131,10 +137,10 @@ app.get('/:db/id/:productID', (req, res) => {
 
 app.get('/:db/sales/:model', (req, res) => {
   mongoose.model(req.params.db).find({
-    model: req.params.model
-    // $text: {
-    //   $search: req.params.pharse
-    // }
+    // model: req.params.model
+    $text: {
+      $search: req.params.pharse
+    }
   }, {
     seller: 1,
     price: 1,

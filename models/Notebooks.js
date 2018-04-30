@@ -7,7 +7,7 @@ const NotebooksSchema = mongoose.Schema({
   features: Array,
   price_currency: String,
   url: String,
-  price: String,
+  price: Number,
   seller: String,
   currency: String,
   condition: String,

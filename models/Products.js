@@ -4,7 +4,7 @@ const ProductSchema = mongoose.Schema({
   brand: { type: String },
   model: { type: String },
   features: Object,
-  price: Number,
+  price: String,
   condition: String,
   url: String,
   seller: String
