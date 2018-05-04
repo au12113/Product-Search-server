@@ -1,18 +1,18 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
-const {
-  performance
-} = require('perf_hooks')
+// const {
+//   performance
+// } = require('perf_hooks')
 const cors = require('cors')
 const fs = require('fs')
-var resourceMonitorMiddleware = require('express-watcher').resourceMonitorMiddleware
+// var resourceMonitorMiddleware = require('express-watcher').resourceMonitorMiddleware
 
 var Products = require('./models/Products')
 var NewProducts = require('./models/newProducts')
 var Notebooks = require('./models/Notebooks')
 var Crawlers = require('./models/Crawlers')
-
+var RandomProducts = require('./models/RandomProducts')
 const tools = require('./methods/tools')
 
 var app = express()
@@ -28,7 +28,7 @@ mongoose.connect(MONGODB_URI, {
 mongoose.set('debug', true)
 
 app.use(bodyParser.json())
-app.use(resourceMonitorMiddleware)
+// app.use(resourceMonitorMiddleware)
 app.use(
   cors({
     origin: 'http://localhost:8000'
@@ -91,7 +91,7 @@ app.get('/:db/search', function (req, res) {
       "$meta": "textScore"
     }
   })
-  .limit(20)
+  .limit(Number(req.query.limit))
   .exec((err, results) => {
     if(err) {
       console.log(err)
