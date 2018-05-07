@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 module.exports = {
-  // getQueryPharse: function(reqQuery) {
+  // getQueryphrase: function(reqQuery) {
   //   for(var i = 0; i < reqQuery.length)
   // }
   // ,
@@ -32,9 +32,9 @@ module.exports = {
         $in: [reqQuery.screen]
       }
     }
-    if (reqQuery.pharse !== undefined) {
+    if (reqQuery.phrase !== undefined) {
       queryObject["$text"] = {
-        $search: reqQuery.pharse
+        $search: reqQuery.phrase
       }
     }
     return queryObject
@@ -56,41 +56,42 @@ module.exports = {
         $in: [reqQuery.screen]
       }
     }
-    if (reqQuery.pharse !== undefined) {
+    if (reqQuery.phrase !== undefined) {
       queryObject["$text"] = {
-        $search: reqQuery.pharse
+        $search: reqQuery.phrase
       }
     }
     return queryObject
-  },
-  getFieldKeys: function(products) {
-    var filters = {}
-    var filterKeys = Object.keys(products[0]._doc.features)
-    for (var i = 0; i < filterKeys.length; i++) {
-      filters[filterKeys[i]] = []
-    }
-    for (var i = 0; i < products.length; i++) {
-      for (
-        var featureIndex = 0; featureIndex < filterKeys.length; featureIndex++
-      ) {
-        var feature = filterKeys[featureIndex]
-        if (products[i]._doc.features[feature] !== undefined) {
-          for (
-            var subDetail = 0; subDetail < products[i]._doc.features[feature].length; subDetail++
-          ) {
-            if (
-              filters[feature].indexOf(
-                products[i]._doc.features[feature][subDetail]
-              ) === -1
-            ) {
-              filters[feature].push(
-                products[i]._doc.features[feature][subDetail]
-              )
-            }
-          }
-        }
-      }
-    }
-    fs.writeFileSync('./backupData/test.json', JSON.stringify(filters))
   }
+  // getFieldKeys: function(products) {
+  //   var filters = {}
+  //   var filterKeys = Object.keys(products[0]._doc.features)
+  //   for (var i = 0; i < filterKeys.length; i++) {
+  //     filters[filterKeys[i]] = []
+  //   }
+  //   for (var i = 0; i < products.length; i++) {
+  //     for (
+  //       var featureIndex = 0; featureIndex < filterKeys.length; featureIndex++
+  //     ) {
+  //       var feature = filterKeys[featureIndex]
+  //       if (products[i]._doc.features[feature] !== undefined) {
+  //         for (
+  //           var subDetail = 0; subDetail < products[i]._doc.features[feature].length; subDetail++
+  //         ) {
+  //           if (
+  //             filters[feature].indexOf(
+  //               products[i]._doc.features[feature][subDetail]
+  //             ) === -1
+  //           ) {
+  //             filters[feature].push(
+  //               products[i]._doc.features[feature][subDetail]
+  //             )
+  //           }
+  //         }
+  //       }
+  //     }
+  //   }
+  //   fs.writeFileSync('./backupData/test.json', JSON.stringify(filters))
+  //   return filters
+  // }
 }

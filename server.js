@@ -1,9 +1,6 @@
 const express = require('express')
 const bodyParser = require('body-parser')
 const mongoose = require('mongoose')
-// const {
-//   performance
-// } = require('perf_hooks')
 const cors = require('cors')
 const fs = require('fs')
 // var resourceMonitorMiddleware = require('express-watcher').resourceMonitorMiddleware
@@ -139,7 +136,7 @@ app.get('/:db/sales/:model', (req, res) => {
   mongoose.model(req.params.db).find({
     // model: req.params.model
     $text: {
-      $search: req.params.pharse
+      $search: req.params.phrase
     }
   }, {
     seller: 1,
