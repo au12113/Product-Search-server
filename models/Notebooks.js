@@ -4,7 +4,7 @@ const NotebooksSchema = mongoose.Schema({
   brand: String,
   model: String,
   images: [String],
-  features: Array,
+  features: Object,
   price_currency: String,
   url: String,
   price: Number,
