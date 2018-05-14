@@ -58,9 +58,8 @@ app.get('/:db/allProducts', (req, res) => {
   })
 })
 
-app.get('/:db/api/sales/', (req, res) => {
+app.get('/:db/sales/', (req, res) => {
   mongoose.model(req.params.db).find({
-    // model: req.query.model
     $text: {
       $search: req.query.model
     }
@@ -89,6 +88,7 @@ app.get('/:db/search', function (req, res) {
     }
   })
   .limit(Number(req.query.limit))
+  .skip(Number(req.query.limit) * (Number(req.query.page) - 1)) 
   .exec((err, results) => {
     if(err) {
       console.log(err)
@@ -131,50 +131,6 @@ app.get('/:db/id/:productID', (req, res) => {
     res.jsonp(product)
   })
 })
-
-app.get('/:db/sales/:model', (req, res) => {
-  mongoose.model(req.params.db).find({
-    // model: req.params.model
-    $text: {
-      $search: req.params.phrase
-    }
-  }, {
-    seller: 1,
-    price: 1,
-    url: 1
-  }).exec((err, product) => {
-    if (err) {
-      console.log(err)
-      return res.sendStatus(500)
-    }
-    res.jsonp(product)
-  })
-})
-
-// app.get('/nbdb/api/search/category/:category', (req, res) => {
-//   Notebooks.find({
-//     $text: {
-//       $search: req.params.category
-//     }
-//   }).exec((err, product) => {
-//     if (err) {
-//       console.log(err)
-//       return res.sendStatus(500)
-//     }
-//     res.jsonp(product)
-//   })
-// })
-
-// app.get('/nbdb/field', function (req, res) {
-//   Notebooks.find().exec((err, results) => {
-//     if(err) {
-//       console.log(err)
-//       return res.sendStatus(500)
-//     }
-//     var filters = tools.getFieldKeys(results)
-//     res.json(filters)
-//   })
-// })
 
 var server = app.listen(PORT, '0.0.0.0', () => {
   // console.log(`Running on port ${server.address().port}`)
