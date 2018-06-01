@@ -1,3 +1,7 @@
 # Product-Search-server
 
-[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://standardjs.com)
+Back-end for EfficientProductSearchFE
+- connect with mongoDB
+- provide text search for product features
+- compare price of different sales
+- add basic config to choose server(on heroku) or localhost and choose database to search
