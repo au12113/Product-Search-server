@@ -1,13 +1,13 @@
 const mongoose = require('mongoose')
 
-const ProductSchema = mongoose.Schema({
+const RamdomProductsSchema = mongoose.Schema({
   brand: { type: String },
   model: { type: String },
   features: Object,
-  price: String,
+  price: Number,
   condition: String,
   url: String,
   seller: String
 })
 
-module.exports = mongoose.model('Products',ProductSchema)
+module.exports = mongoose.model('RandomProducts',RamdomProductsSchema)

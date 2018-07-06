@@ -2,12 +2,13 @@
   "name": "myserver",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
+    "debug": "node server.js --DEBUG=mquery",
     "standard": "standard --fix",
     "prettier": "prettier --write *.js **/*.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --exit spec spec.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,7 +16,8 @@
     "body-parser": "^1.17.2",
     "cors": "^2.8.4",
     "express": "^4.15.4",
-    "mongoose": "^4.11.9"
+    "express-watcher": "^1.0.3",
+    "mongoose": "^4.10.8"
   },
   "devDependencies": {
     "eslint-config-standard": "^10.2.1",
@@ -23,8 +25,10 @@
     "eslint-plugin-node": "^5.1.1",
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1",
+    "mocha": "^5.1.1",
     "prettier": "^1.6.1",
-    "standard": "^10.0.3"
+    "standard": "^10.0.3",
+    "supertest": "^3.0.0"
   },
   "engines": {
     "node": ">=6.11.2 <7"
